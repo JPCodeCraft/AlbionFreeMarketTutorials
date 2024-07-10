@@ -9,7 +9,7 @@
 - The Black Market Flipper tool is used to find **single use**, **instant** flips.
 - By single use, we mean that the flip can be used only once. This is not the place to look for daily transport trade routes.
 - By instant, we mean that you buy an item from a sell order in a normal market and instantly sell the item to a buy order on the Black Market.
-- 
+  
 ### Where's the price data coming from?
 
 - The price data is provided by [The Albion Online Data Project](https://www.albion-online-data.com/).
