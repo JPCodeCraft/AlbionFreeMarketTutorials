@@ -32,6 +32,12 @@
 
 ## UPGRADE FLIPS
 
+### Basics
+
+- An upgrade flip is when you buy a lower enchantment item (for example, a 7.0 item) and upgrade it using runes, souls and relics until it matches a buy order in the Black Market (for example, a 7.3 item).
+- This means that you must buy the base item, buy (or have in stock) the upgrade items (runes, souls or relics), upgrade the item in the city and then sell it to the Black Market.
+- Upgrade flips add a new layer of complexity, because you have to manage runes stocks, but also increase the amount of available flips and their potential profit, specially if you manage to buy your runes at good prices.
+
 ### Upgrade Items Prices
 
 - When you save your Flipper Configuration, the prices you have on screen for the Upgrade Items are also saved. That means you can load them up at a later time. This is usefull for when you have a large stock of runes and will reuse the same prices for multiple flipping sessions.
