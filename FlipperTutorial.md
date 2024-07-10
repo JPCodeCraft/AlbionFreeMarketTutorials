@@ -28,7 +28,7 @@
   - The orders used in that flip are market as consumed, so every flip that uses any of those orders are also considered consumed
   - The flip is sent to your *Consumed Flips (this session)* table, so you can easily track them
 - Notice that even thought a flip has already been consumed, it's still visible for all users. That's done to avoid *trolling*, where an ill intended user might consumed multiple flips to make them disapear. So, it is possible that a consumed flip is still available.
-- If after 10 minutes of consuming an order, that same order is seen by the system again, it's then marked as unconsumed, which reflect on the status of the flips that use it.
+- If after 10 minutes of consuming an order, that same order is seen by the system again, it's then marked as unconsumed, which reflects on the status of the flips that use it.
 
 #### Is this allowed?
   
