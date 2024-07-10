@@ -1,6 +1,6 @@
 # ALBION FREE MARKET FLIPPER TUTORIAL
 
-- This is a collection of tutorials for the [Black Market Flipper](https://albionfreemarket.com/flipper) <a href="https://albionfreemarket.com/flipper" target="_blank">Black Market Flipper</a>in Albion Free Market.
+- This is a collection of tutorials for the [Black Market Flipper](https://albionfreemarket.com/flipper) in Albion Free Market.
 
 ## UPGRADE FLIPS
 
