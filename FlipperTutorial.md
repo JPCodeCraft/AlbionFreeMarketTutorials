@@ -17,6 +17,19 @@
 - Alternatively, you can also use the [Albion Free Market Data Client](https://github.com/JPCodeCraft/AlbionDataAvalonia/releases). This project is an alternative to the official AODP client and provides essentially the same functionality, but has a graphical interface that might make it easier to use.
 - Both clients work by *sniffing* network traffic and collecting market data. If you feel insecure about this, you can check the source code and realize that no private data is uploaded anywhere.
 
+### How do you find flips?
+
+- Flips are found by comparing every single market order that goes to AODP's database.
+- Albion Free Market holds sell orders for 60 minutes and buy orders for 30 minutes. This is done to reduce the number of *false positives*, where the system might think an order is available but in fact it's already been consumed ingame.
+
+### What does it mean to consume a flip?
+
+- Consuming a flip has the following effects:
+ - The orders used in that flip are market as consumed, so every flip that uses any of those orders are also considered consumed
+ - The flip is sent to your *Consumed Flips (this session)* table, so you can easily track them
+- Notice that even thought a flip has already been consumed, it's still visible for all users. That's done to avoid *trolling*, where an ill intended user might consumed multiple flips to make them disapear. So, it is possible that a consumed flip is still available.
+- If after 10 minutes of consuming an order, that same order is seen by the system again, it's then marked as unconsumed, which reflect on the status of the flips that use it.
+
 #### Is this allowed?
   
 > [!IMPORTANT]  
@@ -29,6 +42,16 @@
 - Albion Free Market's system finds flips from anywhere prices are uploaded.
 - The most obvious flip consists of buying an item in **Caerleon** and selling it to the **Black Market**. This is the safest form of flipping, as it does not involve transporting through red zones. It's also the most disputed form of flipping, so expect lower profits. From Caerleon, 100k profit flips are common, 500k profit flips are uncommon, 1M+ profit flips are rare.
 - You can also buy the items in the **royal cities** and transport them to the **Black Market**. This adds an extra layer of risk, as you can get ganked while crossing the red zones. You can expect higher profits and a bigger pool of flips to choose from when flipping like this. **Brecillien** is the most profitable city, but also the most dangerous one to flip from.
+
+## FLIPPER STATISTICS
+
+- The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
+- You can use the chart to see if someone recently flipped on your server, which might bring the availability of flips down. On the other hand, if no one has fliped for some hours, it's likely that you'll find good flips.
+![image](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5)
+
+- There's also information about the top flips for the server you're at and the current flips status for each server.
+![image](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466)
+
 
 ## UPGRADE FLIPS
 
