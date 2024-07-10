@@ -16,9 +16,12 @@
 - To get your data uploaded, make sure to use the client that can be downloaded at their webpage.
 - Alternatively, you can also use the [Albion Free Market Data Client](https://github.com/JPCodeCraft/AlbionDataAvalonia/releases). This project is an alternative to the oficial AODP client and provides basically the same functionality, but has a graphical interface that might make it easier to use.
 - Both clients works by *sniffing* network traffic and collecting market data. If you feel unsecure by this, you can check the source code and realize that no private data is uploaded anywhere.
+
+#### Is this allowed?
+  
 > [!IMPORTANT]  
-> Is this allowed?
 > Our position is quite simple. As long as you just look and analyze we are ok with it. The moment you modify or manipulate something or somehow interfere with our services we will react (e.g. perma-ban, take legal action, whatever).
+
 > ~MadDave, Technical Lead at Sandbox Interactive for Albion Online, [source](https://forum.albiononline.com/index.php/Thread/51604-Is-it-allowed-to-scan-your-internet-trafic-and-pick-up-logs/?postID=512670#post512670)
 
 ### Where should I flip from?
