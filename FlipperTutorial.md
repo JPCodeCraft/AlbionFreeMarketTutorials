@@ -27,7 +27,7 @@
 ### Where should I flip from?
 
 - Albion Free Market's system finds flips from anywhere prices are uploaded.
-- The most obvious flip consists of buying an item in **Caerleon** and selling it to the Black Market. This is the safest form of flipping, as it does not involve transporting through red zones. It's also the most disputed form of flipping, so expect lower profits. 100k profit flips are common, 500k profit flips are uncommon, 1M+ profit flips are rare.
+- The most obvious flip consists of buying an item in **Caerleon** and selling it to the **Black Market**. This is the safest form of flipping, as it does not involve transporting through red zones. It's also the most disputed form of flipping, so expect lower profits. 100k profit flips are common, 500k profit flips are uncommon, 1M+ profit flips are rare.
 - You can also buy the items in the **royal cities** and transport them to the Black Market. This ads an extra layer of risk, as you can get ganked while crossing the red zones. You can expect higher profits and a bigger poll of flips to choose from when flipping like this. Brecillien is the most profitable city, but also the most dangerous one to flip from.
 
 ## UPGRADE FLIPS
