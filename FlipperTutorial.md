@@ -68,6 +68,6 @@
   
 https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813
 
-![image]([https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466](https://github-production-user-asset-6210df.s3.amazonaws.com/11092613/347585568-7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240718T194203Z&X-Amz-Expires=300&X-Amz-Signature=2798eb2dc43796e400dd4bb1b618cbc8e1d266f09d2f22a7752c18fadfb1e737&X-Amz-SignedHeaders=host&actor_id=11092613&key_id=0&repo_id=826996790))
+![image](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813)
 
 
