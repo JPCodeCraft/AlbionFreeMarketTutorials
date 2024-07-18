@@ -68,6 +68,8 @@
   
 https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813
 
+<video src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813"></video>
+
 ![image](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/raw/main/Screen%20Recording%202024-07-17%20100759.mp4)
 
 
