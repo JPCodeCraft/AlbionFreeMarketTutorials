@@ -68,4 +68,6 @@
   
 https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813
 
+[![IMAGE ALT TEXT]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://github-production-user-asset-6210df.s3.amazonaws.com/11092613/347585568-7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240718T194027Z&X-Amz-Expires=300&X-Amz-Signature=f5091db715a168cfe84c94083b2a91b06ec84124ebe456534c92493ecaf6e8ed&X-Amz-SignedHeaders=host&actor_id=11092613&key_id=0&repo_id=826996790))]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://github-production-user-asset-6210df.s3.amazonaws.com/11092613/347585568-7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240718T194027Z&X-Amz-Expires=300&X-Amz-Signature=f5091db715a168cfe84c94083b2a91b06ec84124ebe456534c92493ecaf6e8ed&X-Amz-SignedHeaders=host&actor_id=11092613&key_id=0&repo_id=826996790) "Video Title")
+
 
