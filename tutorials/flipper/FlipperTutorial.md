@@ -114,22 +114,22 @@ tags: ["black market", "flipper"]
 
 - It's very unusual to simply load the Flipper page and find good flips. You usually need to actively search the market. So, the best way to find flips, is to look at the highest amount and variety of market orders you can. Albion Free Market's flipper tool will analyze each order to find the best flips possible.
 - Here's an example of how you can load up multiple prices to find flips:
- - Start in Caerleon. Sort Prices by duration descending (highest to lowest). That way, you'll see the newest offers available.
- - Choose a category that sell in the BM, like accessories.
- - Choose a tier, like 8
- - Choose an enchantment, like 4
- - Go through all pages available or the maximum of 20
- - Go to enchantment 3
- - See al pages
- - Repeat all enchantments, then all tiers, then all categories.
+  - Start in Caerleon. Sort Prices by duration descending (highest to lowest). That way, you'll see the newest offers available.
+  - Choose a category that sell in the BM, like accessories.
+  - Choose a tier, like 8
+  - Choose an enchantment, like 4
+  - Go through all pages available or the maximum of 20
+  - Go to enchantment 3
+  - See al pages
+  - Repeat all enchantments, then all tiers, then all categories.
 - This would be a full market scan and would take some 20 minutes or more. If you want something faster, you can use less filters. You can even not choose a category, only go through the latest orders for each tier/enchantment.
 -  After that go to the Black Market.
- - Keep the default sort order (highest price)
- - Choose a category
- - Choose a tier
- - Choose an enchantment
- - Stop the page scrolling when the values are too low. For example, there is no point in seeing prices of .4 items at 300k. They are worth a lot more.
- - Repeat for all options
+  - Keep the default sort order (highest price)
+  - Choose a category
+  - Choose a tier
+  - Choose an enchantment
+  - Stop the page scrolling when the values are too low. For example, there is no point in seeing prices of .4 items at 300k. They are worth a lot more.
+  - Repeat for all options
 
 <video src="https://github.com/user-attachments/assets/d4d210a5-f3b4-41bf-abb0-72f9e98c09b2" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
 
