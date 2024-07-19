@@ -55,10 +55,9 @@ tags: ["black market", "flipper"]
 
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped on your server, which might bring the availability of flips down. On the other hand, if no one has fliped for some hours, it's likely that you'll find good flips.
-  <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5" width="100%">
-
+  <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5" style="max-width: 1200px; width: 100%;">
 - There's also information about the top flips for the server you're at and the current flips status for each server.
-  <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466" width="100%">
+  <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466" style="max-width: 1200px; width: 100%;">
 
 ## UPGRADE FLIPS
 
@@ -87,4 +86,4 @@ tags: ["black market", "flipper"]
 - Once you click "Consume Flip", the system automatically deduces the used number of items from you available items count.
 - Attention: to save the amounts to the database, you should manually click the save button. Saves are not automatic.
 
-<video src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813" width="100%" controls autoplay muted></video>
+<video src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
