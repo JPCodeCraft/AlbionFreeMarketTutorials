@@ -10,11 +10,11 @@ def extract_metadata(filepath):
             return metadata
     return None
 
-def construct_url(base_url, filepath, title):
-    filename = title.lower().replace(' ', '-')
-    return f"{base_url}/{os.path.relpath(filepath, start=root_dir).replace('\\', '/')}/{filename}"
+def construct_url(base_url, filepath):
+    relative_path = os.path.relpath(filepath, start=root_dir).replace(os.sep, '/').lstrip("./")
+    return f"{base_url}/{relative_path}"
 
-root_dir = '.'  # Root directory to start scanning from
+root_dir = '.'
 base_url = 'https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/raw/main'
 all_metadata = []
 
@@ -24,7 +24,8 @@ for root, dirs, files in os.walk(root_dir):
             filepath = os.path.join(root, file)
             metadata = extract_metadata(filepath)
             if metadata:
-                metadata['url'] = construct_url(base_url, root, metadata['title'])
+                metadata['url'] = construct_url(base_url, filepath)
+                metadata['id'] = metadata['title'].replace(' ', '-').lower()
                 all_metadata.append(metadata)
 
 with open('metadata.json', 'w', encoding='utf-8') as json_file:

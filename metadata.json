@@ -1,6 +1,7 @@
 [
     {
         "title": "Albion Online Black Market Flipper Tutorial",
+        "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
         "date": "2024-07-19",
         "category": "tutorial",
@@ -8,6 +9,7 @@
             "black market",
             "flipper"
         ],
-        "url": "https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/raw/main/./albion-online-black-market-flipper-tutorial"
+        "url": "https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/raw/main/tutorials/flipper/FlipperTutorial.md",
+        "id": "albion-online-black-market-flipper-tutorial"
     }
 ]
