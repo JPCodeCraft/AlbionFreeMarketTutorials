@@ -62,8 +62,18 @@ tags: ["black market", "flipper"]
 ## FILTERING FLIPS
 
 - First, make sure you have the right server set, choosing it on the top right settings button.
-IMAGE
-- 
+<img src="https://github.com/user-attachments/assets/a42d61f8-fc19-4b45-be6a-b1e2be538463" style="max-width: 1200px; width: 100%;">
+- These are the filters available:
+  - Buy Location: select one or more places where you are buying the items to flip.
+  - Sell Location: select one or more places where you are selling the items. Usually, you set this to Black Market.
+  - Minimum Profit (premium): the system will only show flips above the minimum value set here.
+  - Max Buy Age (minutes): the system will only show flips where the sell order price (the item you buy) is no older than the value set here. Mas is 60 minutes, after that the systems ignores the flip.
+  - Max Sell Age (minutes): the system will only show flips where the buy order price (where you sell the item) is no older than the value set here. Max is 30 minutes, after that the system ignores the flip.
+  - Hide Upgrades: select this if you're not willing to do upgrade flips, so they don't show in the list. The upgrade UI will also be hidden.
+  - Hide Consumed: if you select this, the table won't show flips that have had any one of it's buy/sell orders consumed.
+  - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
+  - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be check for missing materials.
+<img src="https://github.com/user-attachments/assets/3f6b3fcb-5162-4311-9715-4b270789fea4" style="max-width: 1200px; width: 100%;">
 
 ## UPGRADE FLIPS
 
@@ -93,3 +103,26 @@ IMAGE
 - Attention: to save the amounts to the database, you should manually click the save button. Saves are not automatic.
 
 <video src="https://github.com/user-attachments/assets/dcf29b21-e55c-4c7c-803d-3469f9d0ae28" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
+
+## FINDING FLIPS
+
+- It's very unusual to simply load the Flipper page and find good flips. You usualy need to actively search the market. So, the best way to find flips, is to look at the highest amount and variety of market orders you can. Albion Free Market's flipper tool will analyze each order to find the best flips possible.
+- Here's an example of how you can load up multiple prices to find flips:
+ - Start in Caerleon. Sort Prices by duration descending (highest to lowest). That way, you'll see the newest offers available.
+ - Choose a category that sell in the BM, like accessories.
+ - Choose a tier, like 8
+ - Choose an enchantment, like 4
+ - Go through all pages available or the maximum of 20
+ - Go to enchantment 3
+ - See al pages
+ - Repeat all enchantments, then all tiers, then all categories.
+- This would be a full market scan and would take some 20 minutes or more. If you want something faster, you can use less filters. You can even not choose a category, only go through the latest orders for each tier/enchantment.
+-  After that go to the Black Market.
+ - Keep the default sort order (highest price)
+ - Choose a category
+ - Choose a tier
+ - Choose an enchantment
+ - Stop the page scrolling when the values are too low. For example, there no point in seeing prices of .4 items at 300k. They are worth a lot more.
+ - Repeat for all options
+<video src="https://github.com/user-attachments/assets/d4d210a5-f3b4-41bf-abb0-72f9e98c09b2" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
+
