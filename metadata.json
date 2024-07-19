@@ -1,5 +1,18 @@
 [
     {
+        "title": "The Albion Online Data Project Client Tutorial",
+        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
+        "author": "Albion Free Market",
+        "date": "2024-07-19",
+        "category": "tutorial",
+        "tags": [
+            "aodp",
+            "client"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/aodp/AODPTutorial.md",
+        "id": "the-albion-online-data-project-client-tutorial"
+    },
+    {
         "title": "Albion Online Black Market Flipper Tutorial",
         "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
