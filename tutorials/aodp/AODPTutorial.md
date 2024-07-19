@@ -16,7 +16,7 @@ tags: ["aodp", "client"]
 - The goal of the project is to collect Albion Online market data and provide it to anyone via a public API.
 - The project stores buy and sell orders data, as well as average prices and amounts.
 - You can go to the project's [Discord Server](https://discord.gg/TWz64zPFtC) to get in touch with the project's admins or support the project.
-- [Albion Free Market](www.albionfreemarket.com) and multiple other websites and sheets make use of the project's data to provide its information as well as the backend analysis.
+- [Albion Free Market](https://albionfreemarket.com) and multiple other websites and sheets make use of the project's data to provide its information as well as the backend analysis.
 
 ## What's the client used for?
 
