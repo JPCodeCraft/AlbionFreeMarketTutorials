@@ -56,17 +56,17 @@ tags: ["black market", "flipper"]
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped items on your server, which might bring the availability of flips down. On the other hand, if no one has flipped for some hours, it's likely that you'll find good flips.
   
-<img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5" style="max-width: 1200px; width: 100%;">
+![Albion Online Flipper Tutorial](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5)
 
 - There's also information about the top flips for the server you're at and the current flips' status for each server.
   
-<img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466" style="max-width: 1200px; width: 100%;">
+![Albion Online Flipper Tutorial](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466)
 
 ## FILTERING FLIPS
 
 - First, make sure you have the right server set, choosing it on the top right settings button.
 
-<img src="https://github.com/user-attachments/assets/a42d61f8-fc19-4b45-be6a-b1e2be538463" style="max-width: 1200px; width: 100%;">
+![Albion Online Flipper Tutorial](https://github.com/user-attachments/assets/a42d61f8-fc19-4b45-be6a-b1e2be538463)
 
 - These are the filters available:
   - Buy Location: select one or more places where you are buying the items to flip.
@@ -79,7 +79,7 @@ tags: ["black market", "flipper"]
   - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
   - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be checked for missing materials.
 
-<img src="https://github.com/user-attachments/assets/3f6b3fcb-5162-4311-9715-4b270789fea4" style="max-width: 1200px; width: 100%;">
+![Albion Online Flipper Tutorial](https://github.com/user-attachments/assets/3f6b3fcb-5162-4311-9715-4b270789fea4)
 
 ## UPGRADE FLIPS
 
@@ -108,7 +108,7 @@ tags: ["black market", "flipper"]
 - Once you click “Consume Flip”, the system automatically deduces the used number of items from you available items count.
 - Attention: to save the amounts to the database, you should manually click the save button. Saves are not automatic.
 
-<video src="https://github.com/user-attachments/assets/dcf29b21-e55c-4c7c-803d-3469f9d0ae28" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
+<video src="https://github.com/user-attachments/assets/dcf29b21-e55c-4c7c-803d-3469f9d0ae28" controls autoplay muted></video>
 
 ## FINDING FLIPS
 
@@ -131,7 +131,7 @@ tags: ["black market", "flipper"]
   - Stop the page scrolling when the values are too low. For example, there is no point in seeing prices of .4 items at 300k. They are worth a lot more.
   - Repeat for all options
 
-<video src="https://github.com/user-attachments/assets/d4d210a5-f3b4-41bf-abb0-72f9e98c09b2" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
+<video src="https://github.com/user-attachments/assets/d4d210a5-f3b4-41bf-abb0-72f9e98c09b2" controls autoplay muted></video>
 
 ## FLIPPING MISTAKES TO AVOID
 
