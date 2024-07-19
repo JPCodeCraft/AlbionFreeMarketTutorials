@@ -70,7 +70,21 @@ tags: ["black market", "flipper"]
 
 ### Upgrade Items Prices
 
-- When you save your Flipper Configuration, the prices you have on screen for the Upgrade Items are also saved. That means you can load them up at a later time.
-- This is useful for when you have a large stock of runes and will reuse the same prices for multiple flipping sessions.
+- Albion Free Market's system uses upgrade items prices to calculate the flip profit. In short, the total cost of the flip is the base item + upgrade items + taxes and fess.
+- All taxes and fess are calculated automatically.
+- You can load prices from The Albion Online Data Project, chossing one or more Buy Locations, as well as none to average them all out.
+- There are 3 types of prices that can be loadded:
+  - Buy Order: this loads up the highest buy order price from AODP. It'll automatically add setup fee when calculating profits. Use this if you're setting up buy orders for your upgrade items.
+  - Sell Order: this loads up the lowest sell order price from AODP. There's no setup fee, since this is an insta buy from the market.
+  - Average Price: this loads up the average trade value for the giben number of days. By design, we add setup fee to this, since it's hard to insta buy for the average price.
+- You can save your prices to the database and reload them anytime. Attention: saving is never automatic, you must click the save button.
+
+### Upgrade Items Available Amount
+
+- Albion Free Market can keep track of the amount of upgrade items you have, so you don't flip more items than you can.
+- To make the most of this, set the "Hide Missing Upgrade Mats" checkbox, so you can't see the flips you don't have items to upgrade.
+- If you leave the "Available Amount" field empty, the system won't check amounts for that item.
+- Once you click "Consume Flip", the system automatically deduces the used number of items from you available items count.
+- Attention: to save the amounts to the database, you should manually click the save button. Saves are not automatic.
 
 <video src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813" width="100%" controls autoplay muted></video>
