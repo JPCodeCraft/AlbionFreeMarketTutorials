@@ -59,6 +59,12 @@ tags: ["black market", "flipper"]
 - There's also information about the top flips for the server you're at and the current flips status for each server.
   <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466" style="max-width: 1200px; width: 100%;">
 
+## FILTERING FLIPS
+
+- First, make sure you have the right server set, choosing it on the top right settings button.
+IMAGE
+- 
+
 ## UPGRADE FLIPS
 
 ### Basics
