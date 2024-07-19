@@ -86,4 +86,4 @@ tags: ["black market", "flipper"]
 - Once you click "Consume Flip", the system automatically deduces the used number of items from you available items count.
 - Attention: to save the amounts to the database, you should manually click the save button. Saves are not automatic.
 
-<video src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/7a1b87e1-3c55-4e7b-bdb0-6415b9d3b813" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
+<video src="https://github.com/user-attachments/assets/dcf29b21-e55c-4c7c-803d-3469f9d0ae28" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
