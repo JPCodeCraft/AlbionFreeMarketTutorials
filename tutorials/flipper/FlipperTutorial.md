@@ -26,7 +26,7 @@ tags: ["black market", "flipper"]
 - Alternatively, you can also use the [Albion Free Market Data Client](https://github.com/JPCodeCraft/AlbionDataAvalonia/releases). This project is an alternative to the official AODP client and provides essentially the same functionality, but has a graphical interface that might make it easier to use.
 - Both clients work by _sniffing_ network traffic and collecting market data. If you feel insecure about this, you can check the source code and realize that no private data is uploaded anywhere.
 
-### How do you find flips?
+### How are flips found?
 
 - Flips are found by comparing every single market order that goes to AODP's database.
 - Albion Free Market holds sell orders for 60 minutes and buy orders for 30 minutes. This is done to reduce the number of _false positives_, where the system might think an order is available but in fact it's already been consumed ingame.
@@ -41,7 +41,6 @@ tags: ["black market", "flipper"]
 
 #### Is this allowed?
 
-> [!IMPORTANT]  
 > _Our position is quite simple. As long as you just look and analyze we are ok with it. The moment you modify or manipulate something or somehow interfere with our services we will react (e.g. perma-ban, take legal action, whatever)_.
 
 > ~MadDave, Technical Lead at Sandbox Interactive for Albion Online, [source](https://forum.albiononline.com/index.php/Thread/51604-Is-it-allowed-to-scan-your-internet-trafic-and-pick-up-logs/?postID=512670#post512670)
