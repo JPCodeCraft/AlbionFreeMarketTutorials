@@ -4,9 +4,15 @@ import json
 
 def extract_metadata(filepath):
     with open(filepath, 'r', encoding='utf-8') as file:
-        content = file.read().split('---')
-        if len(content) >= 3:
-            metadata = yaml.safe_load(content[1])
+        content = file.read()
+        # Look for HTML comment delimiters
+        start = content.find('<!--')
+        end = content.find('-->', start)
+        if start != -1 and end != -1:
+            # Extract the content within the HTML comment delimiters
+            metadata_content = content[start + 4:end].strip()
+            # Load the YAML content
+            metadata = yaml.safe_load(metadata_content)
             return metadata
     return None
 
