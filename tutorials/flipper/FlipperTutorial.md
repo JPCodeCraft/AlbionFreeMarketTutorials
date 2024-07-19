@@ -9,7 +9,7 @@ tags: ["black market", "flipper"]
 
 # ALBION FREE MARKET FLIPPER TUTORIAL
 
-- This collection of tutorials is for the [Black Market Flipper](https://albionfreemarket.com/flipper) in Albion Free Market.
+- This tutorial is for the [Black Market Flipper](https://albionfreemarket.com/flipper) in Albion Free Market.
 
 ## BASICS
 
@@ -36,7 +36,7 @@ tags: ["black market", "flipper"]
 - Consuming a flip has the following effects:
   - The orders used in that flip are market as consumed, so every flip that uses any of those orders are also considered consumed
   - The flip is sent to your _Consumed Flips (this session)_ table, so you can easily track them
-- Notice that even thought a flip has already been consumed, it's still visible for all users. That's done to avoid _trolling_, where an ill intended user might consumed multiple flips to make them disapear. So, it is possible that a consumed flip is still available.
+- Notice that even thought a flip has already been consumed, it's still visible for all users. That's done to avoid _trolling_, where an ill intended user might consume multiple flips to make them disappear. So, it is possible that a consumed flip is still available.
 - If after 10 minutes of consuming an order, that same order is seen by the system again, it's then marked as unconsumed, which reflects on the status of the flips that use it.
 
 #### Is this allowed?
@@ -49,12 +49,12 @@ tags: ["black market", "flipper"]
 
 - Albion Free Market's system finds flips from anywhere prices are uploaded.
 - The most obvious flip consists of buying an item in **Caerleon** and selling it to the **Black Market**. This is the safest form of flipping, as it does not involve transporting through red zones. It's also the most disputed form of flipping, so expect lower profits. From Caerleon, 100k profit flips are common, 500k profit flips are uncommon, 1M+ profit flips are rare.
-- You can also buy the items in the **royal cities** and transport them to the **Black Market**. This adds an extra layer of risk, as you can get ganked while crossing the red zones. You can expect higher profits and a bigger pool of flips to choose from when flipping like this. **Brecillien** is the most profitable city, but also the most dangerous one to flip from.
+- You can also buy the items in the **royal cities** and transport them to the **Black Market**. This adds an extra layer of risk, as you can get ganked while crossing the red zones. You can expect higher profits and a bigger pool of flips to choose from when flipping like this. **Brecilien** is the most profitable city, but also the most dangerous one to flip from.
 
 ## FLIPPER STATISTICS
 
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
-- You can use the chart to see if someone recently flipped on your server, which might bring the availability of flips down. On the other hand, if no one has fliped for some hours, it's likely that you'll find good flips.
+- You can use the chart to see if someone recently flipped items on your server, which might bring the availability of flips down. On the other hand, if no one has flipped for some hours, it's likely that you'll find good flips.
   
 <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5" style="max-width: 1200px; width: 100%;">
 
@@ -95,9 +95,9 @@ tags: ["black market", "flipper"]
 - All taxes and fess are calculated automatically.
 - You can load prices from The Albion Online Data Project, chossing one or more Buy Locations, as well as none to average them all out.
 - There are 3 types of prices that can be loadded:
-  - Buy Order: this loads up the highest buy order price from AODP. It'll automatically add setup fee when calculating profits. Use this if you're setting up buy orders for your upgrade items.
-  - Sell Order: this loads up the lowest sell order price from AODP. There's no setup fee, since this is an insta buy from the market.
-  - Average Price: this loads up the average trade value for the giben number of days. By design, we add setup fee to this, since it's hard to insta buy for the average price.
+  - Buy Order: this loads up the highest buy order price from AODP. It'll automatically add a setup fee when calculating profits. Use this if you're setting up buy orders for your upgrade items.
+  - Sell Order: this loads up the lowest sell order price from AODP. There's no setup fee, since this is an insta-buy from the market.
+  - Average Price: this loads up the average trade value for the given number of days. By design, we add setup fee to this, since it's hard to insta-buy for the average price.
 - You can save your prices to the database and reload them anytime. Attention: saving is never automatic, you must click the save button.
 
 ### Upgrade Items Available Amount
@@ -112,7 +112,7 @@ tags: ["black market", "flipper"]
 
 ## FINDING FLIPS
 
-- It's very unusual to simply load the Flipper page and find good flips. You usualy need to actively search the market. So, the best way to find flips, is to look at the highest amount and variety of market orders you can. Albion Free Market's flipper tool will analyze each order to find the best flips possible.
+- It's very unusual to simply load the Flipper page and find good flips. You usually need to actively search the market. So, the best way to find flips, is to look at the highest amount and variety of market orders you can. Albion Free Market's flipper tool will analyze each order to find the best flips possible.
 - Here's an example of how you can load up multiple prices to find flips:
  - Start in Caerleon. Sort Prices by duration descending (highest to lowest). That way, you'll see the newest offers available.
  - Choose a category that sell in the BM, like accessories.
@@ -128,7 +128,7 @@ tags: ["black market", "flipper"]
  - Choose a category
  - Choose a tier
  - Choose an enchantment
- - Stop the page scrolling when the values are too low. For example, there no point in seeing prices of .4 items at 300k. They are worth a lot more.
+ - Stop the page scrolling when the values are too low. For example, there is no point in seeing prices of .4 items at 300k. They are worth a lot more.
  - Repeat for all options
 
 <video src="https://github.com/user-attachments/assets/d4d210a5-f3b4-41bf-abb0-72f9e98c09b2" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
