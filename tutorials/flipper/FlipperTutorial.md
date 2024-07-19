@@ -1,3 +1,11 @@
+---
+title: "Albion Online Black Market Flipper Tutorial"
+author: "Albion Free Market"
+date: "2024-07-19"
+category: "tutorial"
+tags: ["black market", "flipper"]
+---
+
 # ALBION FREE MARKET FLIPPER TUTORIAL
 
 - This collection of tutorials is for the [Black Market Flipper](https://albionfreemarket.com/flipper) in Albion Free Market.
