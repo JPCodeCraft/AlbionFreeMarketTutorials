@@ -26,7 +26,7 @@ tags: ["aodp", "client"]
 
 ## Installation and Usage
 
-- You can download the client from the project's [repository release's page](https://github.com/ao-data/albiondata-client/releases)
+- You can download the client from the project's [repository releases page](https://github.com/ao-data/albiondata-client/releases)
 - Download the latest version that matches your operational system (if you're on Windows, get _albiondata-client-amd64-installer.exe_).
 
 ![AODP Installation](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/aodp/image.png)
