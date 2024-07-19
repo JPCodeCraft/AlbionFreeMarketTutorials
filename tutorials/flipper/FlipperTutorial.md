@@ -43,7 +43,7 @@ tags: ["black market", "flipper"]
 
 > _Our position is quite simple. As long as you just look and analyze we are ok with it. The moment you modify or manipulate something or somehow interfere with our services we will react (e.g. perma-ban, take legal action, whatever)_.
 
-> ~MadDave, Technical Lead at Sandbox Interactive for Albion Online, [source](https://forum.albiononline.com/index.php/Thread/51604-Is-it-allowed-to-scan-your-internet-trafic-and-pick-up-logs/?postID=512670#post512670)
+> MadDave, Technical Lead at Sandbox Interactive for Albion Online, [source](https://forum.albiononline.com/index.php/Thread/51604-Is-it-allowed-to-scan-your-internet-trafic-and-pick-up-logs/?postID=512670#post512670)
 
 ### Where should I flip from?
 
@@ -55,14 +55,19 @@ tags: ["black market", "flipper"]
 
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped on your server, which might bring the availability of flips down. On the other hand, if no one has fliped for some hours, it's likely that you'll find good flips.
-  <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5" style="max-width: 1200px; width: 100%;">
+  
+<img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5" style="max-width: 1200px; width: 100%;">
+
 - There's also information about the top flips for the server you're at and the current flips status for each server.
-  <img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466" style="max-width: 1200px; width: 100%;">
+  
+<img src="https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466" style="max-width: 1200px; width: 100%;">
 
 ## FILTERING FLIPS
 
 - First, make sure you have the right server set, choosing it on the top right settings button.
+
 <img src="https://github.com/user-attachments/assets/a42d61f8-fc19-4b45-be6a-b1e2be538463" style="max-width: 1200px; width: 100%;">
+
 - These are the filters available:
   - Buy Location: select one or more places where you are buying the items to flip.
   - Sell Location: select one or more places where you are selling the items. Usually, you set this to Black Market.
@@ -73,6 +78,7 @@ tags: ["black market", "flipper"]
   - Hide Consumed: if you select this, the table won't show flips that have had any one of it's buy/sell orders consumed.
   - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
   - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be check for missing materials.
+
 <img src="https://github.com/user-attachments/assets/3f6b3fcb-5162-4311-9715-4b270789fea4" style="max-width: 1200px; width: 100%;">
 
 ## UPGRADE FLIPS
@@ -124,5 +130,14 @@ tags: ["black market", "flipper"]
  - Choose an enchantment
  - Stop the page scrolling when the values are too low. For example, there no point in seeing prices of .4 items at 300k. They are worth a lot more.
  - Repeat for all options
+
 <video src="https://github.com/user-attachments/assets/d4d210a5-f3b4-41bf-abb0-72f9e98c09b2" style="max-width: 1200px; width: 100%;" controls autoplay muted></video>
+
+## FLIPPING MISTAKES TO AVOID
+
+- If you don't have much silver, don't spend all of it flipping. Sometimes flips might fail and you end up with a long wait for the item to sell.
+- If you are flipping to BM from Royals, make sure you know how to transport safely. If you get ganked you lose it all.
+- Expensive high enchantment items tend to sell VERY SLOWLY on the Black Market, so if you miss the flip you will have to wait a long time (weeks sometimes) to sell the item and you'll probably lose some silver doing it.
+- Make sure you're buying the right items. It's common to buy wrong qualities/tiers and waste silver.
+- It can happen that when you get to the Black Market, the buy order is gone. This can happen because someone flipped the item or because the BM price went up and the order got fulfilled by an existing sell order. In this case, you can create a sell order or, depending on the item, try to sell it on the normal market.
 
