@@ -1,5 +1,18 @@
 [
     {
+        "title": "Albion Online Solo Weapons Analysis - Europe",
+        "summary": "An analysis of the current meta solo weapons in the Albion Online European Server.",
+        "author": "Albion Free Market",
+        "date": "2024-07-23",
+        "category": "article",
+        "tags": [
+            "meta",
+            "solo"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/articles/metaItems/20240723-top-solo-europe/20240723-top-solo-europe.md",
+        "id": "albion-online-solo-weapons-analysis---europe"
+    },
+    {
         "title": "The Albion Online Data Project Client Tutorial",
         "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
         "author": "Albion Free Market",
