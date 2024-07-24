@@ -73,7 +73,7 @@ This analysis of solo PVP weapons in Albion Online's Europe server reveals sever
 
 2. **High-tier weapons dominate in KDR:** The top KDR weapons are all high-tier (6.4 and above), demonstrating the power of advanced gear. However, these are also less frequently used due to their cost and risk.
 
-3. **Balanced performance in mid-tier weapons:** When looking at more commonly used weapons (2,000+ uses), we see Expert's Double Bladed Staff [5.4] leading by a wide margin in KDR, indicating a good balance of performance and accessibility (selling under 2M silver), followed by Expert's Bloodletter [5.4] (selling under 1.5M silver). 
+3. **Balanced performance in mid-tier weapons:** When looking at more commonly used weapons (2,000+ uses), we see Expert's Double Bladed Staff [5.4] leading by a wide margin in KDR, indicating a good balance of performance and accessibility (selling under 2M silver), followed by Expert's Bloodletter [5.4] (selling under 1.5M silver). It must be noted that these weapons were probably awakened and had the strain cost on top of them, which might make them less attractive cost benefit wise.
 
 4. **Specialized weapons for high-value targets:** Weapons like Grandmaster's Prowling Staff [7.3] excel at taking down high-value targets, as shown by their high average kill fame.
 
