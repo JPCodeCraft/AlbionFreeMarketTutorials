@@ -11,7 +11,7 @@ tags: ["meta", "solo"]
 
 In this article we'll analyze the current meta weapons for solo PVP in Albion Online **Europe server**.
 
-For that we're using [Albion Free Market's](www.albionfreemarket.com) Meta Items tool for this analysis. This **free to use** tool constantly retrieves information about kill events in Albion Online directly from SBI's API. The data consists of the last 7 days and is updated continuously.
+For that we're using [Albion Free Market's](https://albionfreemarket.com) Meta Items tool for this analysis. This **free to use** tool constantly retrieves information about kill events in Albion Online directly from SBI's API. The data consists of the last 7 days and is updated continuously.
 
 For the European server, hourly analyzed data spikes up to over 8 thousand kill events, as shown below. The spikes occur between 18:00 and 20:00 UTC.
 
