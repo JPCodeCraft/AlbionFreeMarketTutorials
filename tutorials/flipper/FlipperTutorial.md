@@ -56,30 +56,34 @@ tags: ["black market", "flipper"]
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped items on your server, which might bring the availability of flips down. On the other hand, if no one has flipped for some hours, it's likely that you'll find good flips.
   
-![Albion Online Flipper Tutorial](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5)
+![Albion Online Flipper Chart](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5)
 
 - There's also information about the top flips for the server you're at and the current flips' status for each server.
   
-![Albion Online Flipper Tutorial](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466)
+![Albion Online Flipper Stats](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466)
 
 ## FILTERING FLIPS
 
 - First, make sure you have the right server set, choosing it on the top right settings button.
 
-![Albion Online Flipper Tutorial](https://github.com/user-attachments/assets/a42d61f8-fc19-4b45-be6a-b1e2be538463)
+![Albion Online Flipper Server Selection](https://github.com/user-attachments/assets/a42d61f8-fc19-4b45-be6a-b1e2be538463)
 
 - These are the filters available:
   - Buy Location: select one or more places where you are buying the items to flip.
   - Sell Location: select one or more places where you are selling the items. Usually, you set this to Black Market.
+  - Tiers: filter the flips by the item's tier. Can select multiple.
   - Minimum Profit (premium): the system will only show flips above the minimum value set here.
   - Max Buy Age (minutes): the system will only show flips where the sell order price (the item you buy) is no older than the value set here. Mas is 60 minutes, after that the systems ignores the flip.
   - Max Sell Age (minutes): the system will only show flips where the buy order price (where you sell the item) is no older than the value set here. Max is 30 minutes, after that the system ignores the flip.
+  - Upgrade From's: if the flip is an upgrade, only show flips where it upgrades from one of the selected enchantments.
+  - Upgrade To's: if the flip is an upgrade, only show flips where it upgrades to one of the selected enchantments.
+  - Max Rune Count: if the flip is an upgrade, only show flips where all the upgrade requirements (runes) amounts are bellow the max limit set. Useful if you have a limited amount of runes and want to focus on maximizing their usage.
   - Hide Upgrades: select this if you're not willing to do upgrade flips, so they don't show in the list. The upgrade UI will also be hidden.
   - Hide Consumed: if you select this, the table won't show flips that have had any one of it's buy/sell orders consumed.
   - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
   - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be checked for missing materials.
 
-![Albion Online Flipper Tutorial](https://github.com/user-attachments/assets/3f6b3fcb-5162-4311-9715-4b270789fea4)
+![Albion Online Flipper Filters](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/image.png)
 
 ## UPGRADE FLIPS
 
