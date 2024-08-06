@@ -145,3 +145,17 @@ tags: ["black market", "flipper"]
 - Make sure you're buying the right items. It's common to buy wrong qualities/tiers and waste silver.
 - It can happen that when you get to the Black Market, the buy order is gone. This can happen because someone flipped the item or because the BM price went up, and the order got fulfilled by an existing sell order. In this case, you can create a sell order or, depending on the item, try to sell it on the normal market.
 
+## VIDEO TUTORIALS
+
+### Quick tutorial by LilDolphinAlbion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RcZQ1C_9HM?si=s3T1DHE0ZFyuO7cj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Raw Caerleon to Black Market Flipping Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/huP-mvR3EN0?si=JMpPyXj6jaM_-YsK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Bandit Hour Safe Transport Tutorial by iFlow
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPJfQVqnaMQ?si=w6iubnhLndrgNyDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
