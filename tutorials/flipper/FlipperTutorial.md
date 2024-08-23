@@ -144,6 +144,7 @@ tags: ["black market", "flipper"]
 - Expensive high enchantment items tend to sell VERY SLOWLY on the Black Market, so if you miss the flip you will have to wait a long time (weeks sometimes) to sell the item, and you'll probably lose some silver doing it.
 - Make sure you're buying the right items. It's common to buy wrong qualities/tiers and waste silver.
 - It can happen that when you get to the Black Market, the buy order is gone. This can happen because someone flipped the item or because the BM price went up, and the order got fulfilled by an existing sell order. In this case, you can create a sell order or, depending on the item, try to sell it on the normal market.
+- The above mistake is much more common on lower-tier/enchant items, for which the prices tend to increase more rapidly and reach a sell order price faster. However, it can also happen on high-tier, expensive items, so be careful.
 
 ## VIDEO TUTORIALS
 
@@ -156,6 +157,8 @@ tags: ["black market", "flipper"]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/huP-mvR3EN0?si=JMpPyXj6jaM_-YsK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aQ4pNCKHZ5Y?si=pxU8J_p1VM7yQsc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ttqGJGkiQ8c?si=W0OIdjFPKLHio4tT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Bandit Hour Safe Transport Tutorial by iFlow
 
