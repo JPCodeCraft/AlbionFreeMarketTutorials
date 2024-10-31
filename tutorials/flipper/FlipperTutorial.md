@@ -156,8 +156,6 @@ tags: ["black market", "flipper"]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttqGJGkiQ8c?si=W0OIdjFPKLHio4tT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ttqGJGkiQ8c?si=9N7u2I926R4-oet9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Raw Brecilen to Black Market Flipping Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jw4Gz5MDVs0?si=1fTBB-L2nCN1QpP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
