@@ -148,10 +148,6 @@ tags: ["black market", "flipper"]
 
 ## VIDEO TUTORIALS
 
-### Quick tutorial by LilDolphinAlbion
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2RcZQ1C_9HM?si=s3T1DHE0ZFyuO7cj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Raw Caerleon to Black Market Flipping Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/huP-mvR3EN0?si=JMpPyXj6jaM_-YsK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -160,7 +156,27 @@ tags: ["black market", "flipper"]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttqGJGkiQ8c?si=W0OIdjFPKLHio4tT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ttqGJGkiQ8c?si=9N7u2I926R4-oet9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Raw Brecilen to Black Market Flipping Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jw4Gz5MDVs0?si=1fTBB-L2nCN1QpP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Bandit Hour Safe Transport Tutorial by iFlow
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPJfQVqnaMQ?si=w6iubnhLndrgNyDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Turkish videos by Yoian Albion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wc4GrRVsWcs?si=Ws_dkQXcWW1sXlRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XFE8d4C7pg?si=gTU2GK9-cU36Gcy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Quick tutorial by LilDolphinAlbion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RcZQ1C_9HM?si=s3T1DHE0ZFyuO7cj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Begginer Video by Jack Voids
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CdYctYfpP-o?si=MZMt8B_ynC2ou6G-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
