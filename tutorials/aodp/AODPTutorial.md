@@ -65,3 +65,12 @@ tags: ["aodp", "client"]
 - You can uninstall the client and WinPcap just like any other software.
 
 ![AODP Installation](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/aodp/image-7.png)
+
+## Alternative AFM Data Client
+
+- Alternatively, you can use the [AFM Data Client](https://github.com/JPCodeCraft/AlbionDataAvalonia/).
+- It essentially performs the same functions as the official AODP client but offers a more user-friendly interface and additional features, as detailed in the link above.
+- To download and install, simply follow the instructions on the [GitHub Page](https://github.com/JPCodeCraft/AlbionDataAvalonia/).
+- If you use this client, uninstall the official AODP one to avoid uploading everything twice.
+
+![AFM Data Client](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/aodp/image-8.png)
