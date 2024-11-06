@@ -1,8 +1,44 @@
 [
-  "https://www.youtube.com/embed/JSzGaDH8eaU?si=Nf_C3cUyBQCqrzc6",
-  "https://www.youtube.com/embed/wc4GrRVsWcs?si=LDqelbIjquxcpOwI",
-  "https://www.youtube.com/embed/CdYctYfpP-o?si=-CpRmbJD9lbTtQWJ",
-  "https://www.youtube.com/embed/jw4Gz5MDVs0?si=BEUlkje7UyZ4s8H4",
-  "https://www.youtube.com/embed/BcD_gosFTOg?si=4O3sip4q4jXck4N_",
-  "https://www.youtube.com/embed/aQ4pNCKHZ5Y?si=mksSucCbfHfNdHZS"
+  {
+    "creatorName": "Yoian Albion",
+    "videoLink": "https://www.youtube.com/embed/JSzGaDH8eaU?si=Nf_C3cUyBQCqrzc6",
+    "videoTitle": "FİNAL!! SIFIR HESAPLA PREMIUM ALMAK - ALBION ONLINE EUROPE BÖLÜM 2/2 SONUÇLAR VİDEODA.",
+    "videoLanguage": "TR-TR",
+    "weight": 1
+  },
+  {
+    "creatorName": "Yoian Albion",
+    "videoLink": "https://www.youtube.com/embed/wc4GrRVsWcs?si=LDqelbIjquxcpOwI",
+    "videoTitle": "Caerleondan flip yaparak PARA KAZAN - Albion Online Europe(Avrupa) Türkçe eğitim",
+    "videoLanguage": "TR-TR",
+    "weight": 1
+  },
+  {
+    "creatorName": "Jack Voids",
+    "videoLink": "https://www.youtube.com/embed/CdYctYfpP-o?si=-CpRmbJD9lbTtQWJ",
+    "videoTitle": "ALBION - ZERO SILVER TO 400K WITHOUT LEAVING CITY",
+    "videoLanguage": "EN-US",
+    "weight": 1
+  },
+  {
+    "creatorName": "Albion Free Market",
+    "videoLink": "https://www.youtube.com/embed/jw4Gz5MDVs0?si=BEUlkje7UyZ4s8H4",
+    "videoTitle": "Albion Black Market Flipping! 9M PROFIT IN 21 MINUTES!",
+    "videoLanguage": "EN-US",
+    "weight": 2
+  },
+  {
+    "creatorName": "Albion Free Market",
+    "videoLink": "https://www.youtube.com/embed/BcD_gosFTOg?si=4O3sip4q4jXck4N_",
+    "videoTitle": "Albion Online Crafting Secrets Revealed - 17M Profit in 20 minutes! No focus! No risk!",
+    "videoLanguage": "EN-US",
+    "weight": 3
+  },
+  {
+    "creatorName": "Albion Free Market",
+    "videoLink": "https://www.youtube.com/embed/aQ4pNCKHZ5Y?si=mksSucCbfHfNdHZS",
+    "videoTitle": "Albion Online Black Market Flipping - How I Made 1.9 Million Silver in 12 Minutes Risk-Free!",
+    "videoLanguage": "EN-US",
+    "weight": 1
+  }
 ]
