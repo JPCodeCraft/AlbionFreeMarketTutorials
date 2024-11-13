@@ -25,14 +25,14 @@
     "videoLink": "https://www.youtube.com/embed/jw4Gz5MDVs0?si=BEUlkje7UyZ4s8H4",
     "videoTitle": "Albion Black Market Flipping! 9M PROFIT IN 21 MINUTES!",
     "videoLanguage": "EN-US",
-    "weight": 2
+    "weight": 1
   },
   {
     "creatorName": "Albion Free Market",
     "videoLink": "https://www.youtube.com/embed/BcD_gosFTOg?si=4O3sip4q4jXck4N_",
     "videoTitle": "Albion Online Crafting Secrets Revealed - 17M Profit in 20 minutes! No focus! No risk!",
     "videoLanguage": "EN-US",
-    "weight": 3
+    "weight": 2
   },
   {
     "creatorName": "Albion Free Market",
@@ -40,5 +40,19 @@
     "videoTitle": "Albion Online Black Market Flipping - How I Made 1.9 Million Silver in 12 Minutes Risk-Free!",
     "videoLanguage": "EN-US",
     "weight": 1
+  },
+  {
+    "creatorName": "Albion Free Market",
+    "videoLink": "https://www.youtube.com/embed/RZG6zLBp_YU?si=BhpBXdfH4juAWEzw",
+    "videoTitle": "Albion Black Market Flipping! 3M in 17 minutes from Caerleon",
+    "videoLanguage": "EN-US",
+    "weight": 5
+  },
+  {
+    "creatorName": "Albion Free Market",
+    "videoLink": "https://www.youtube.com/embed/NQ3zITV1dic?si=IAnVGZonwD-vW-0i",
+    "videoTitle": "Albion Online Crafting Prowling Staff - RAW FOOTAGE with Albion Free Market",
+    "videoLanguage": "EN-US",
+    "weight": 5
   }
 ]
