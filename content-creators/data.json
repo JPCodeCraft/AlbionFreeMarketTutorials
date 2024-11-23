@@ -4,41 +4,53 @@
     "image": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/content-creators/images/nendys.webp",
     "youtubeLink": "https://www.youtube.com/@nendysalbion",
     "twitchLink": "https://www.twitch.tv/nendysalbion",
-    "discordLink": "https://discord.gg/K6GBeqzgNH"
+    "discordLink": "https://discord.gg/K6GBeqzgNH",
+    "language": "EN-US",
+    "weight": 5
   },
   {
     "name": "Yoian Albion",
     "image": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/content-creators/images/yoian.webp",
     "youtubeLink": "https://www.youtube.com/@YoianAlbion",
     "twitchLink": "",
-    "discordLink": "https://discord.gg/xJmYGARp9m"
+    "discordLink": "https://discord.gg/xJmYGARp9m",
+    "language": "TR-TR",
+    "weight": 2
   },
   {
     "name": "Jack Voids",
     "image": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/content-creators/images/jackvoids.webp",
     "youtubeLink": "https://www.youtube.com/@JackVoids-oc1jt",
     "twitchLink": "",
-    "discordLink": ""
+    "discordLink": "",
+    "language": "EN-US",
+    "weight": 1
   },
   {
     "name": "MugzySlugs",
     "image": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/content-creators/images/mugzyslugs.webp",
     "youtubeLink": "https://www.youtube.com/channel/UCU9B8_RKXFs-JeIIsFJEVMQ",
     "twitchLink": "https://www.twitch.tv/mugzyslugs",
-    "discordLink": "https://discord.com/invite/tarbbMn"
+    "discordLink": "https://discord.com/invite/tarbbMn",
+    "language": "EN-US",
+    "weight": 1
   },
   {
     "name": "Albion Free Market",
     "image": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/content-creators/images/afm.webp",
     "youtubeLink": "https://www.youtube.com/@AlbionFreeMarket",
     "twitchLink": "",
-    "discordLink": "https://discord.com/invite/BPmDE3zznH"
+    "discordLink": "https://discord.com/invite/BPmDE3zznH",
+    "language": "EN-US",
+    "weight": 3
   },
   {
     "name": "LilDolphinAlbion",
     "image": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/content-creators/images/dolphin.webp",
     "youtubeLink": "https://www.youtube.com/@LilDolphinALB",
     "twitchLink": "",
-    "discordLink": ""
+    "discordLink": "",
+    "language": "EN-US",
+    "weight": 1
   }
 ]
