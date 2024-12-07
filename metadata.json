@@ -26,6 +26,21 @@
         "id": "the-albion-online-data-project-client-tutorial"
     },
     {
+        "title": "Mastering the Art of Farming in Albion Online",
+        "summary": "A comprehensive guide to becoming a successful farmer in Albion Online",
+        "author": "Albion Free Market",
+        "date": "2024-12-07",
+        "category": "tutorial",
+        "tags": [
+            "farming",
+            "economy",
+            "crafting",
+            "beginners"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/farming/farming.md",
+        "id": "mastering-the-art-of-farming-in-albion-online"
+    },
+    {
         "title": "Albion Online Black Market Flipper Tutorial",
         "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
