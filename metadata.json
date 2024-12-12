@@ -52,5 +52,19 @@
         ],
         "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/FlipperTutorial.md",
         "id": "albion-online-black-market-flipper-tutorial"
+    },
+    {
+        "title": "Understanding Item Power in Albion Online",
+        "summary": "Learn everything about Item Power in Albion Online, from basic concepts to scaling mechanics.",
+        "author": "Albion Game Guide",
+        "date": "2024-12-12",
+        "category": "game-mechanics",
+        "tags": [
+            "albion-online",
+            "item-power",
+            "game-mechanics"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/item-power/item-power.md",
+        "id": "understanding-item-power-in-albion-online"
     }
 ]
