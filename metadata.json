@@ -3,20 +3,22 @@
         "title": "Albion Online Solo Weapons Analysis - Europe",
         "summary": "An analysis of the current meta solo weapons in the Albion Online European Server.",
         "author": "Albion Free Market",
-        "date": "2024-07-23",
+        "createdAt": "2024-07-23",
+        "updatedAt": "2024-07-23",
         "category": "article",
         "tags": [
             "meta",
             "solo"
         ],
         "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/articles/metaItems/20240723-top-solo-europe/20240723-top-solo-europe.md",
-        "id": "albion-online-solo-weapons-analysis---europe"
+        "id": "albion-online-solo-weapons-analysis-europe"
     },
     {
         "title": "The Albion Online Data Project Client Tutorial",
         "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
         "author": "Albion Free Market",
-        "date": "2024-07-19",
+        "createdAt": "2024-07-19",
+        "updatedAt": "2024-07-19",
         "category": "tutorial",
         "tags": [
             "aodp",
@@ -29,7 +31,8 @@
         "title": "Mastering the Art of Farming in Albion Online",
         "summary": "A comprehensive guide to becoming a successful farmer in Albion Online",
         "author": "Albion Free Market",
-        "date": "2024-12-07",
+        "createdAt": "2024-12-07",
+        "updatedAt": "2024-12-07",
         "category": "tutorial",
         "tags": [
             "farming",
@@ -44,7 +47,8 @@
         "title": "Albion Online Black Market Flipper Tutorial",
         "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
-        "date": "2024-07-19",
+        "createdAt": "2024-07-19",
+        "updatedAt": "2024-07-19",
         "category": "tutorial",
         "tags": [
             "black market",
@@ -56,8 +60,9 @@
     {
         "title": "Understanding Item Power in Albion Online",
         "summary": "Learn everything about Item Power in Albion Online, from basic concepts to scaling mechanics.",
-        "author": "Albion Game Guide",
-        "date": "2024-12-12",
+        "author": "Albion Free Market",
+        "createdAt": "2024-12-12",
+        "updatedAt": "2024-12-12",
         "category": "game-mechanics",
         "tags": [
             "albion-online",

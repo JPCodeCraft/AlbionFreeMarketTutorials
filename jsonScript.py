@@ -1,6 +1,7 @@
 import os
 import yaml
 import json
+import re
 
 def extract_metadata(filepath):
     with open(filepath, 'r', encoding='utf-8') as file:
@@ -31,7 +32,7 @@ for root, dirs, files in os.walk(root_dir):
             metadata = extract_metadata(filepath)
             if metadata:
                 metadata['url'] = construct_url(base_url, filepath)
-                metadata['id'] = metadata['title'].replace(' ', '-').lower()
+                metadata['id'] = re.sub(r'-+', '-', metadata['title'].replace(' ', '-').lower())
                 all_metadata.append(metadata)
 
 with open('metadata.json', 'w', encoding='utf-8') as json_file:

@@ -2,7 +2,8 @@
 title: "The Albion Online Data Project Client Tutorial"
 summary: "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices."
 author: "Albion Free Market"
-date: "2024-07-19"
+createdAt: "2024-07-19"
+updatedAt: "2024-07-19"
 category: "tutorial"
 tags: ["aodp", "client"]
 -->

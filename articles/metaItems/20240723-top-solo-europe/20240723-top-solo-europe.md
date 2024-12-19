@@ -2,7 +2,8 @@
 title: "Albion Online Solo Weapons Analysis - Europe"
 summary: "An analysis of the current meta solo weapons in the Albion Online European Server."
 author: "Albion Free Market"
-date: "2024-07-23"
+createdAt: "2024-07-23"
+updatedAt: "2024-07-23"
 category: "article"
 tags: ["meta", "solo"]
 -->
