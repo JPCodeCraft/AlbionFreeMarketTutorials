@@ -2,7 +2,8 @@
 title: "Albion Online Black Market Flipper Tutorial"
 summary: "Learn how to profit in Albion Online by flipping items from the regular markets to the black market."
 author: "Albion Free Market"
-date: "2024-07-19"
+createdAt: "2024-07-19"
+updatedAt: "2024-07-19"
 category: "tutorial"
 tags: ["black market", "flipper"]
 -->
@@ -55,11 +56,11 @@ tags: ["black market", "flipper"]
 
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped items on your server, which might bring the availability of flips down. On the other hand, if no one has flipped for some hours, it's likely that you'll find good flips.
-  
+
 ![Albion Online Flipper Chart](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/becd311d-9835-4e91-afaf-8dcf1eba24c5)
 
 - There's also information about the top flips for the server you're at and the current flips' status for each server.
-  
+
 ![Albion Online Flipper Stats](https://github.com/JPCodeCraft/AlbionFreeMarketTutorials/assets/11092613/bdda6d3c-6dc9-4947-9033-37b8e27d2466)
 
 ## FILTERING FLIPS
@@ -177,4 +178,3 @@ tags: ["black market", "flipper"]
 ### Begginer Video by Jack Voids
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdYctYfpP-o?si=MZMt8B_ynC2ou6G-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
