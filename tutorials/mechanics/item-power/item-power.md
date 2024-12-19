@@ -1,7 +1,7 @@
 <!--
 title: "Understanding Item Power in Albion Online"
 summary: "Learn everything about Item Power in Albion Online, from basic concepts to scaling mechanics."
-author: "Albion Game Guide"
+author: "Albion Free Market"
 date: "2024-12-12"
 category: "game-mechanics"
 tags: ["albion-online", "item-power", "game-mechanics"]
