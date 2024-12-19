@@ -3,7 +3,7 @@ title: "The Albion Online Data Project Client Tutorial"
 summary: "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices."
 author: "Albion Free Market"
 createdAt: "2024-07-19"
-updatedAt: "2024-07-19"
+updatedAt: "2024-12-19"
 category: "tutorial"
 tags: ["aodp", "client"]
 -->
@@ -66,6 +66,13 @@ tags: ["aodp", "client"]
 - You can uninstall the client and WinPcap just like any other software.
 
 ![AODP Installation](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/aodp/image-7.png)
+
+## Encrypted Data
+
+- If your prices are not updating with the client, it's probable that you have encrypted data, especially if your character is new or if you haven't played much on that character.
+- Both the official AODP data client and the alternative AFM Data Client will tell you that you have encrypted data.
+- When you're encrypted, gold and historical prices are uploaded, but market orders are not.
+- No one knows exactly how to stop getting data encrypted, but it's been noted that older accounts, where players actually play the game, don't have encrypted data. So the best known way to get your data unencrypted is to just play the game.
 
 ## Alternative AFM Data Client
 

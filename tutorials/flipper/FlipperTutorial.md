@@ -3,7 +3,7 @@ title: "Albion Online Black Market Flipper Tutorial"
 summary: "Learn how to profit in Albion Online by flipping items from the regular markets to the black market."
 author: "Albion Free Market"
 createdAt: "2024-07-19"
-updatedAt: "2024-07-19"
+updatedAt: "2024-08-22"
 category: "tutorial"
 tags: ["black market", "flipper"]
 -->
