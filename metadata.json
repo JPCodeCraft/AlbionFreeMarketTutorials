@@ -14,21 +14,6 @@
         "id": "albion-online-solo-weapons-analysis-europe"
     },
     {
-        "title": "Understanding Item Power in Albion Online",
-        "summary": "Learn everything about Item Power in Albion Online, from basic concepts to scaling mechanics.",
-        "author": "Albion Free Market",
-        "createdAt": "2024-12-12",
-        "updatedAt": "2024-12-12",
-        "category": "game-mechanics",
-        "tags": [
-            "albion-online",
-            "item-power",
-            "game-mechanics"
-        ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/item-power/item-power.md",
-        "id": "understanding-item-power-in-albion-online"
-    },
-    {
         "title": "The Albion Online Data Project Client Tutorial",
         "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
         "author": "Albion Free Market",
@@ -71,5 +56,33 @@
         ],
         "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/FlipperTutorial.md",
         "id": "albion-online-black-market-flipper-tutorial"
+    },
+    {
+        "title": "Albion Online Hellgates Guide",
+        "summary": "Learn the basics of 2v2 hellgates in Albion Online.",
+        "author": "OSTIII",
+        "createdAt": "2024-12-28",
+        "updatedAt": "2024-12-28",
+        "category": "tutorial",
+        "tags": [
+            "hellgates"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/HellgatesGuide.md",
+        "id": "albion-online-hellgates-guide"
+    },
+    {
+        "title": "Understanding Item Power in Albion Online",
+        "summary": "Learn everything about Item Power in Albion Online, from basic concepts to scaling mechanics.",
+        "author": "Albion Free Market",
+        "createdAt": "2024-12-12",
+        "updatedAt": "2024-12-12",
+        "category": "game-mechanics",
+        "tags": [
+            "albion-online",
+            "item-power",
+            "game-mechanics"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/item-power/item-power.md",
+        "id": "understanding-item-power-in-albion-online"
     }
 ]
