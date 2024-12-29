@@ -161,9 +161,9 @@ If you play as demonic or hellspawn your ideal map will contain the least amout 
 ### **Tier List and Resources**
 
 ![tierlist](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20175142.png).
-(tier list made by me)
+(tier list by Ostiii)
 
-For further questions, ask me (Ostiii) on [**AlbionFreeMarketDC**](https://discord.gg/TWz64zPFtC)  or visit [**Hellgate Hub**](https://discord.gg/9hA8YUtwjB) .
+For further questions, ask me (Ostiii) on [**AlbionFreeMarket Discord**](https://discord.com/invite/BPmDE3zznH)  or visit [**Hellgate Hub**](https://discord.gg/9hA8YUtwjB) .
 
 ---
 
