@@ -16,7 +16,6 @@ Hellgates are accessed through **Hellgate Rituals**, which can be crafted at the
 Inside these portals, players encounter various weak mobs and bosses, and often, another team of players to battle. During battles, a closing zone progressively deals damage, starting at 1% of your HP per second and increasing by 1% every second.
 
 ![hgs2](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20184733.png)
----
 
 ## **Types of Hellgates**
 
@@ -31,7 +30,6 @@ Each size is available in two modes:
 - **Non-lethal**: PvP results in knockdowns instead of death (no full loot).
 - **Lethal**: PvP results in death (full loot).
 ![hgs](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20184117.png)
----
 
 ## **Requirements for Entry**
 
@@ -39,8 +37,6 @@ To enter a Hellgate, players must meet the following criteria:
 
 1. **Sufficient Base Item Power (IP)**: This stat measures the tier, quality, and enchantment of your gear, excluding Mastery and Specialization bonuses. The required IP depends on the zone.
 2. **Appropriate Party Size**: Match the Hellgate type with the correct number of players (2, 5, or 10).
-
----
 
 ## **Item Power Caps**
 
@@ -57,8 +53,6 @@ To enter a Hellgate, players must meet the following criteria:
 A player with 1200 IP enters a 2v2 Lethal Hellgate. Their IP is reduced to the cap:
 
 - Soft cap formula: IP = 1100 + (0.2 × 100) = **1120 IP**.
-
----
 
 ## **How to Start Playing 2v2 Hellgates**
 
@@ -88,8 +82,6 @@ A player with 1200 IP enters a 2v2 Lethal Hellgate. Their IP is reduced to the c
 6. **Activate Your Map**:
 
    - In **Caerleon**, activate the map in the **Lower Market** to ensure your Hellgate spawns only one zone away from the city.
-
----
 
 ## **Build Recommendations**
 
@@ -125,8 +117,6 @@ As a beginner healer, your first priority should be to use your **Q spell** off 
 
 - **Positioning:** As a healer, always stay behind your DPS in a front-to-back (FTB) formation. It’s easier to heal your DPS than yourself, so maintain distance. This also helps drop curse stacks and prevents most one-shots from targeting you.
 
-
-
 #### **Build 2**
 ![Example Build 2](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20155101.png)
 
@@ -142,28 +132,21 @@ As a beginner healer, your first priority should be to use your **Q spell** off 
 
 - **Hellspawn:** Against healers playing Beam, use the second W spell and focus the healer. Jacket grants high defense to survive most combos from dagger pairs and burst DPS comps, vs one shots and double dps use inferno shild. You can swap hunter jacket for druid robe at cost of defensive.
 
-
 #### **Build 5**
 ![Example Build 5](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20155742.png)
 
 - **Demonic:** Focus on double-stacking the enemy healer and DPS. Use W situationally with Cultist Sandals, Use E for burst dmg and to separate healer and dps from each other, vs one shots use 2 q and root W, sprint on sandals and frost shild on robe. Mage robe is cheaper alternative that provides good defensive.
 
-
----
-
-### **Maps**
+## **Maps**
 ![maps](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/maps.png)
 If you play as demonic or hellspawn your ideal map will contain the least amout of pillars and walls possible. You can hold good maps if you want to.
 
----
+## **Tier List and Resources**
 
-
-### **Tier List and Resources**
-
-![tierlist](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20175142.png).
+![tierlist](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/Screenshot%202024-12-28%20175142.png)
 (tier list by Ostiii)
 
-For further questions, ask me (Ostiii) on [**AlbionFreeMarket Discord**](https://discord.com/invite/BPmDE3zznH)  or visit [**Hellgate Hub**](https://discord.gg/9hA8YUtwjB) .
+For further questions, ask me (Ostiii) on [**AlbionFreeMarket Discord**](https://discord.com/invite/BPmDE3zznH)  or visit [**Hellgate Hub**](https://discord.gg/9hA8YUtwjB).
 
 ---
 
