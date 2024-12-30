@@ -8,7 +8,7 @@ The most significant and noticeable price changes occur in **Caerleon**. This is
 1. **Surrounding Red Zones**: Caerleon is surrounded by red zones, which means that every transport carries the risk of 💀 death.
 2. **The Black Market**: Caerleon hosts a unique feature called the "Black Market."
 
----
+
 
 ## 🛒 What is the Black Market?
 
@@ -16,7 +16,7 @@ In Albion, every item dropped by a player must be crafted. The Black Market is t
 
 💡 **Tip**: The Black Market allows you to sell large quantities of items, often at better prices than the normal market offers. This is one of the reasons why prices in Caerleon are higher.
 
----
+
 
 ## 🚴‍♂️ How to Transport?
 
@@ -34,7 +34,7 @@ When transporting around royal cities, you don't need to overthink it. To maximi
 
 🔍 **Note**: Shoes can also increase your carry weight (more IP means more carry weight). 
 
----
+
 
 ### 🌀 Using Avalonian Roads
 
@@ -46,7 +46,7 @@ To speed up transportation between royal cities, especially if the distance is m
 
 ⚠️ Warning: Always be cautious of potential threats when traveling in Avalonian roads.
 
----
+
 
 ## 🛡️ How to Transport Safely to Caerleon?
 
@@ -61,7 +61,7 @@ To find a good Avalonian road:
 
 🚫 Avoid: Avalonian roads with heavy traffic or scouts inside.
 
----
+
 
 ### ⚔️ Builds
 
@@ -98,7 +98,7 @@ Below is an example set for any transport mount—in this scenario, an **elite b
   - Why not Fort Sterling Cape? For heavy mounts like a bear, one cleansed CC isn't worth it. Bracillien Cape grants purge immunity.
 - Potion: Always use Gigantify Potion. Without it, you won't be able to move after being dismounted. However, its effect lasts only 6 seconds, so if you're not close enough to the gate, you probably won't survive.
 
----
+
 
 ### ⚙️ Faction Warfare
 
@@ -108,7 +108,7 @@ These groups of players can act as unpaid escorts that make trips to Caerleon ev
 
 Next, go to the yellow zone near the city and find a forming group of players, or wait in the yellow zone near the red zone heading towards Caerleon. Even if something happens to your escort (which is unlikely), you will probably find a group of transporters who also use the bandit assault as an escort. This greatly reduces the chance that you'll be the one ganked among 30+ people.
 
----
+
 
 ### 🌫️ Mists as a Way to Escape
 
@@ -122,7 +122,7 @@ If you begin entering the Mist before the enemy dismounts, they won't be able to
 
 ![Mist](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/300px-Wisp_solo.gif)
 
----
+
 
 ### 🧠 Tips
 
