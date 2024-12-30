@@ -120,10 +120,12 @@ If you begin entering the Mist before the enemy dismounts, they won't be able to
 
 ⚠️ **Be Aware**: Some mount abilities can interrupt your channeling, such as the crow. 
 
+![Mist](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/300px-Wisp_solo.gif)
+
 ---
 
 ### 🧠 Tips
 
 - 🚨 If you enter a zone and instantly see a group of players, **do not panic**. Wait a bit before going back or even go slightly deeper into the zone. 
-  - **Why?** You can't instantly switch zones. If they see you trying to leave, some will immediately follow you to the next zone. Waiting or moving deeper can buy you time or bait them entirely.
+  - **Why?** You can't instantly switch zones. If they see you trying to leave, some will immediately follow you to the next zone. Waiting or moving deeper can buy you time or bait them entirely.(Video below)
 - 🔀 If you see a scout at the entrance of the map, try to take a less obvious route. Solo gankers using their phones to scout tend to stay at the most obvious paths. Keep this in mind for safer travel.
