@@ -55,7 +55,7 @@ First, understand that there is no 100% safe way to transport to Caerleon. Altho
 To find a good Avalonian road:
 
 1. 🐴 Take a horse from Caerleon and go to an Avalonian road located no more than one map away from the city.
-2. 🗺️ If the Avalonian road is slightly farther, and you see a good red zone map close to the city within that Avalonian road, this is your ideal scenario.
+2. 🗺️ If the Avalonian road is slightly farther from the city gate, and you see a good red zone map close to the city within that Avalonian road, this is your ideal scenario.
 3. 🌟 Sometimes, going one Avalonian road deeper can lead to yellow/blue zones, which are even better.
 4. ⏳ It's always better to take a longer trip than to die and lose all your stuff.
 
@@ -68,6 +68,8 @@ To find a good Avalonian road:
 #### 🚀 Fast Mount Build Example
 
 Below is an example set for any fast mount—in this scenario, a **husky**. 
+
+![build1](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/Screenshot%202024-12-30%20205523.png)
 
 - Why Husky? 🐕‍🦺 It has the best ability out of all fast mounts. You can negate the downside of its ability by dismounting for half a second and then mounting again.
 - Boots: Miner boots, or if you don't have them unlocked, soldier boots. These provide the most distance.
@@ -82,6 +84,8 @@ Below is an example set for any fast mount—in this scenario, a **husky**.
 #### 🐻 Transport Mount Build Example
 
 Below is an example set for any transport mount—in this scenario, an **elite bear**.
+
+![build2](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/Screenshot%202024-12-30%20203700.png)
 
 - Mount: Elite Bear or Elite Bighorn Ram.
   - **Why Bighorn Ram?** 🐏 Its ability is very good and overall gives a higher chance of escaping, at the cost of HP and carry weight.
