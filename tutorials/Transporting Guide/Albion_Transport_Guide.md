@@ -5,7 +5,7 @@
 
 The most significant and noticeable price changes occur in **Caerleon**. This is due to two factors:
 
-1. **Surrounding Red Zones**: Caerleon is surrounded by red zones, which means that every transport carries the risk of **💀 death**.
+1. **Surrounding Red Zones**: Caerleon is surrounded by red zones, which means that every transport carries the risk of 💀 death.
 2. **The Black Market**: Caerleon hosts a unique feature called the "Black Market."
 
 ---
@@ -41,10 +41,10 @@ When transporting around royal cities, you don't need to overthink it. To maximi
 To speed up transportation between royal cities, especially if the distance is more than one city, you can use Avalonian roads. Here's how:
 
 - 🔍 Check every Avalonian road near the city and pick the most suitable one.
-- Avalonian roads are **black zones**, so they carry the risk of **💀 dying**, although the risk is relatively low.
+- Avalonian roads are **black zones**, so they carry the risk of 💀 dying, although the risk is relatively low.
 - When you enter from a yellow/blue zone, you'll almost always find yellow/blue zone maps within it.
 
-⚠️ **Warning**: Always be cautious of potential threats when traveling in Avalonian roads.
+⚠️ Warning: Always be cautious of potential threats when traveling in Avalonian roads.
 
 ---
 
@@ -59,7 +59,7 @@ To find a good Avalonian road:
 3. 🌟 Sometimes, going one Avalonian road deeper can lead to yellow/blue zones, which are even better.
 4. ⏳ It's always better to take a longer trip than to die and lose all your stuff.
 
-🚫 **Avoid**: Avalonian roads with heavy traffic or scouts inside.
+🚫 Avoid: Avalonian roads with heavy traffic or scouts inside.
 
 ---
 
@@ -69,30 +69,30 @@ To find a good Avalonian road:
 
 Below is an example set for any fast mount—in this scenario, a **husky**. 
 
-- **Why Husky?** 🐕‍🦺 It has the best ability out of all fast mounts. You can negate the downside of its ability by dismounting for half a second and then mounting again.
-- **Boots**: Miner boots, or if you don't have them unlocked, soldier boots. These provide the most distance.
-- **Chest**: Armor of Valor or Assassin Jacket. Assassin Jacket offers a good ability, but most ganking teams have invisibility cancellation tools like sticky potions or Stalker Hoods. Therefore, Armor of Valor is often a safer choice. Remember that every armor ability puts the player in combat.
-- **Weapon**: Bloodletter for its second W ability and E ability. 
-  - **Why Bloodletter over Carving with Last W?** Bloodletter's mobility ensures that gankers cannot purge your boots in the last seconds of your W, providing enough distance to escape.
-- **Off-hand**: Mistcaller for extra mobility.
-- **Helmet**: Soldier Helmet for additional crowd-control resistance.
-- **Cape**: Fort Sterling Cape. The one-time CC cleanse may save you while using a fast mount.
+- Why Husky? 🐕‍🦺 It has the best ability out of all fast mounts. You can negate the downside of its ability by dismounting for half a second and then mounting again.
+- Boots: Miner boots, or if you don't have them unlocked, soldier boots. These provide the most distance.
+- Chest: Armor of Valor or Assassin Jacket. Assassin Jacket offers a good ability, but most ganking teams have invisibility cancellation tools like sticky potions or Stalker Hoods. Therefore, Armor of Valor is often a safer choice. Remember that every armor ability puts the player in combat.
+- Weapon: Bloodletter for its second W ability and E ability. 
+  - Why Bloodletter over Carving with Last W? Bloodletter's mobility ensures that gankers cannot purge your boots in the last seconds of your W, providing enough distance to escape.
+- Off-hand: Mistcaller for extra mobility.
+- Helmet: Soldier Helmet for additional crowd-control resistance.
+- Cape: Fort Sterling Cape. The one-time CC cleanse may save you while using a fast mount.
 - **Potion**: Invisible Potion or Gigantify Potion. The latter provides extra survivability.
 
 #### 🐻 Transport Mount Build Example
 
 Below is an example set for any transport mount—in this scenario, an **elite bear**.
 
-- **Mount**: Elite Bear or Elite Bighorn Ram.
+- Mount: Elite Bear or Elite Bighorn Ram.
   - **Why Bighorn Ram?** 🐏 Its ability is very good and overall gives a higher chance of escaping, at the cost of HP and carry weight.
-- **Boots**: Miner boots. For transport mounts, you can't use soldier boots because you won't have enough time for their ability to activate.
-- **Chest**: Always use armor, preferably Armor of Valor, because it offers the most defense and gives an extra 100 IP due to being an Avalonian artifact.
-- **Weapon**: Bloodletter for the same reason as for the fast mount. However, you can also use any sword.
-- **Off-hand**: Astral Aegis for extra tankiness.
-- **Helmet**: Miner Cap for CC cleanse.
-- **Cape**: Bracillien Cape.
-  - **Why not Fort Sterling Cape?** For heavy mounts like a bear, one cleansed CC isn't worth it. Bracillien Cape grants purge immunity.
-- **Potion**: Always use Gigantify Potion. Without it, you won't be able to move after being dismounted. However, its effect lasts only 6 seconds, so if you're not close enough to the gate, you probably won't survive.
+- Boots: Miner boots. For transport mounts, you can't use soldier boots because you won't have enough time for their ability to activate.
+- Chest: Always use armor, preferably Armor of Valor, because it offers the most defense and gives an extra 100 IP due to being an Avalonian artifact.
+- Weapon: Bloodletter for the same reason as for the fast mount. However, you can also use any sword.
+- Off-hand: Astral Aegis for extra tankiness.
+- Helmet: Miner Cap for CC cleanse.
+- Cape: Bracillien Cape.
+  - Why not Fort Sterling Cape? For heavy mounts like a bear, one cleansed CC isn't worth it. Bracillien Cape grants purge immunity.
+- Potion: Always use Gigantify Potion. Without it, you won't be able to move after being dismounted. However, its effect lasts only 6 seconds, so if you're not close enough to the gate, you probably won't survive.
 
 ---
 
