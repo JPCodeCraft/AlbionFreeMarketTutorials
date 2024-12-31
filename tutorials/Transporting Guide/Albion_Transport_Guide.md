@@ -1,3 +1,12 @@
+<!--
+title: "Transporting Guide"
+summary: "A comprehensive guide to becoming a successful transporter in Albion Online"
+author: "OSTIII"
+createdAt: "2024-12-31"
+updatedAt: "2024-12-31"
+category: "tutorial"
+tags: ["Black market", "economy", "Transporting", "beginners"]
+-->
 
 # How to Transport in Albion
 
