@@ -98,7 +98,10 @@ Below is an example set for any transport mount—in this scenario, an **elite b
   - Why not Fort Sterling Cape? For heavy mounts like a bear, one cleansed CC isn't worth it. Bracillien Cape grants purge immunity.
 - Potion: Always use Gigantify Potion. Without it, you won't be able to move after being dismounted. However, its effect lasts only 6 seconds, so if you're not close enough to the gate, you probably won't survive.
 
+#### Transporting Naked or Undercover
+If the items you carry aren't too heavy, you can transport them naked on a horse. Most gankers won't even attack you. However, I don't recommend this because of how easy it is to get dismounted and killed. Every solo bearpaws ganker can one-shot you with just one E. If any group of gankers decides to kill you, you are 100% dead.
 
+A slightly better solution is to wear some kind of disguise. It can be something like a cheap solo player build, but remember not to use boots with carry weight bonuses. These boots will likely signal to gankers that you are transporting valuable items.
 
 ### ⚙️ Faction Warfare
 
