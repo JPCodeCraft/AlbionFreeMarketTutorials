@@ -84,5 +84,21 @@
         ],
         "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/FlipperTutorial.md",
         "id": "albion-online-black-market-flipper-tutorial"
+    },
+    {
+        "title": "Transporting Guide",
+        "summary": "A comprehensive guide to becoming a successful transporter in Albion Online",
+        "author": "OSTIII",
+        "createdAt": "2024-12-31",
+        "updatedAt": "2024-12-31",
+        "category": "tutorial",
+        "tags": [
+            "Black market",
+            "economy",
+            "Transporting",
+            "beginners"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/Transporting Guide/Albion_Transport_Guide.md",
+        "id": "transporting-guide"
     }
 ]
