@@ -147,6 +147,18 @@ tags: ["black market", "flipper"]
 - It can happen that when you get to the Black Market, the buy order is gone. This can happen because someone flipped the item or because the BM price went up, and the order got fulfilled by an existing sell order. In this case, you can create a sell order or, depending on the item, try to sell it on the normal market.
 - The above mistake is much more common on lower-tier/enchant items, for which the prices tend to increase more rapidly and reach a sell order price faster. However, it can also happen on high-tier, expensive items, so be careful.
 
+## DEALING WITH FAILED FLIPS
+
+- It's inevitable that flips will fail eventually. When that happens, you should mark the flip as failed on the "Your Flips" page.
+
+<video src="https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/video.mp4" controls autoplay muted></video>
+
+- There are two viable paths to follow:
+  - Set up a sell order in the Black Market and wait for it to sell.
+  - Keep all failed flips in a bank tab and periodically scan the Black Market. Check the "Your Flips" page while filtering to show only failed flips. This will allow you to see if there are any buy orders that will be profitable to sell to.
+
+![Albion Online Failed Flips](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/image1.png)
+
 ## VIDEO TUTORIALS
 
 ### Raw Caerleon to Black Market Flipping Video
