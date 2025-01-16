@@ -1,0 +1,91 @@
+<!--
+title: "Albion Online Smuggler's Dens and Smuggler's Network Tutorial"
+summary: "Learn about the Smuggler's Market in Albion Online".
+author: "Albion Free Market"
+createdAt: "2025-01-15"
+updatedAt: "2025-01-15"
+category: "tutorial"
+tags: ["albion-online", "smugglers-den", "game-mechanics"]
+-->
+
+# The Smuggler's Dens and the Smuggler's Network
+
+## Smuggler’s Dens
+
+Smuggler’s Dens are bases in Albion’s tough regions. Located in the Outlands, they offer Bank, Market (Smuggler's Network), Repair Station, Artifact Foundry, Faction Representative and Travel Planner.
+
+![Den In the World](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/1.png)
+
+![Den In the World 2](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/2.png)
+
+![Den Layout](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/4.png)
+
+![Den MiniMap](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/8.png)
+
+For solo players, these dens provide safety and travel options deep in Albion. The player can set the Den as his base.
+
+![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/7.png)
+
+The first time the player enters a Den, he completes a Journal mission.
+
+![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/3.png)
+
+There are 35 Smuggler's Dens in the Black Zone, located in the following maps:
+
+- Bleachskull Desert
+- Deadpine Forest
+- Deepwood Copse
+- Driftwood Hollow
+- Drybasin Riverbed
+- Dryvein Confluence
+- Everwinter Peak
+- Farshore Heath
+- Floatshoal Floe
+- Frostspring Volcano
+- Gravemound Knoll
+- Highstone Loch
+- Iceburn Firth
+- Meltwater Bog
+- Munten Fell
+- Murdergulch Cross
+- Murdergulch Ravine
+- Razorrock Bank
+- Razorrock Verge
+- Rivercopse Fount
+- Runnelvein Sink
+- Scuttlesink Marsh
+- Slakesands Mesa
+- Springsump Basin
+- Sunfang Ravine
+- Sunfang Wasteland
+- Sunkenbough Woods
+- Sunstrand Quicksands
+- Thirstwater Steppe
+- Timberscar Copse
+- Timberslope Grove
+- Westweald Thicket
+- Whitepeak Tundra
+- Willowshade Hills
+- Willowshade Icemarsh
+
+## Smuggler’s Network
+
+The Smuggler’s Network is a system of interconnected marketplaces in the Outlands, managed by the Smuggler Faction. Each Smuggler’s Den has a market from this network, allowing players to trade items across the Outlands, separate from the Royal Continent's markets.
+
+![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/5.png)
+
+The Network effectivelly connects each of the 35 Den's Markets and all the 3 Rest's Markets. This "free transport" is compensated by an increasing fee based on the distance between the location where the market order was placed and where the buyer/seller is consuming the order. The fee is applied on both buy and sell operations.
+
+The fee is calculated sa 4% per map distance. So, if an order was placed 3 maps away, the fee is 12% of the item base price (before market taxes / setup fee).
+
+Therefore, trading costs vary based on the distance items travel. Players must decide whether to buy nearby, travel to distant dens for better deals, or return to the Royal Continent to save Silver.
+
+Those Markets have an option to show the prices with or without the travel fee.
+
+![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/6.png)
+
+## Maggy Slade
+
+Maggy Slade is the Smuggler's Faction representative, with whom you can trade standing for rewards.
+
+![Maggy Slade](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/v1.mp4)

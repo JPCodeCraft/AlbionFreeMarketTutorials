@@ -4,7 +4,7 @@ summary: "Learn everything about Item Power in Albion Online, from basic concept
 author: "Albion Free Market"
 createdAt: "2024-12-12"
 updatedAt: "2024-12-12"
-category: "game-mechanics"
+category: "tutorial"
 tags: ["albion-online", "item-power", "game-mechanics"]
 -->
 
