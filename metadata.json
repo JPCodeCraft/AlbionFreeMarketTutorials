@@ -19,7 +19,7 @@
         "author": "Albion Free Market",
         "createdAt": "2024-12-12",
         "updatedAt": "2024-12-12",
-        "category": "game-mechanics",
+        "category": "tutorial",
         "tags": [
             "albion-online",
             "item-power",
@@ -27,6 +27,21 @@
         ],
         "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/item-power/item-power.md",
         "id": "understanding-item-power-in-albion-online"
+    },
+    {
+        "title": "Albion Online Smuggler's Dens and Smuggler's Network Tutorial",
+        "summary": "Learn about the Smuggler's Market in Albion Online.",
+        "author": "Albion Free Market",
+        "createdAt": "2025-01-15",
+        "updatedAt": "2025-01-15",
+        "category": "tutorial",
+        "tags": [
+            "albion-online",
+            "smugglers-den",
+            "game-mechanics"
+        ],
+        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/smugglers.md",
+        "id": "albion-online-smuggler's-dens-and-smuggler's-network-tutorial"
     },
     {
         "title": "The Albion Online Data Project Client Tutorial",
