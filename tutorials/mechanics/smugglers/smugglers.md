@@ -7,6 +7,7 @@ updatedAt: "2025-01-15"
 category: "tutorial"
 tags: ["albion-online", "smugglers-den", "game-mechanics"]
 -->
+
 # The Smuggler's Dens and the Smuggler's Network
 
 ## Smuggler’s Dens
@@ -73,13 +74,13 @@ The Smuggler’s Network is a system of interconnected marketplaces in the Outla
 
 ![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/5.png)
 
-The Network effectivelly connects each of the 35 Den's Markets and all the 3 Rest's Markets. This "free transport" is compensated by an increasing fee based on the distance between the location where the market order was placed and where the buyer/seller is consuming the order. The fee is applied on both buy and sell operations.
+The Network effectively connects the markets of all 35 Smuggler's Dens and the 3 Rests. This "free transport" is balanced by a fee that increases with the distance between where the market order was placed and where it is fulfilled. The fee applies to both buying and selling operations.
 
-The fee is calculated sa 4% per map distance. So, if an order was placed 3 maps away, the fee is 12% of the item base price (before market taxes / setup fee).
+The fee is calculated at 4% per map distance. For example, if an order is placed 3 maps away, the fee will be 12% of the item's base price (before market taxes and setup fees).
 
 Therefore, trading costs vary based on the distance items travel. Players must decide whether to buy nearby, travel to distant dens for better deals, or return to the Royal Continent to save Silver.
 
-Those Markets have an option to show the prices with or without the travel fee.
+The markets have an option to display prices with or without the travel fee.
 
 ![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/6.png)
 
@@ -87,4 +88,4 @@ Those Markets have an option to show the prices with or without the travel fee.
 
 Maggy Slade is the Smuggler's Faction representative, with whom you can trade standing for rewards.
 
-![Maggy Slade](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/v1.mp4)
+<video src="https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/v1.mp4" controls autoplay muted></video>
