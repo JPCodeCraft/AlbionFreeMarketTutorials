@@ -3,7 +3,7 @@ title: "Albion Online Smuggler's Dens and Smuggler's Network Tutorial"
 summary: "Learn about the Smuggler's Market in Albion Online."
 author: "Albion Free Market"
 createdAt: "2025-01-15"
-updatedAt: "2025-01-15"
+updatedAt: "2025-02-07"
 category: "tutorial"
 tags: ["albion-online", "smugglers-den", "game-mechanics"]
 -->
@@ -67,6 +67,8 @@ There are 35 Smuggler's Dens in the Black Zone, located in the following maps:
 - Whitepeak Tundra
 - Willowshade Hills
 - Willowshade Icemarsh
+
+![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/9.png)
 
 ## Smuggler’s Network
 
