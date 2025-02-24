@@ -161,7 +161,7 @@ tags: ["black market", "flipper"]
 
 ## Flipper Impact Report (as of February 2025)
 
-The Albion Free Market Black Flipper plays a significant role in Albion Online's economy by influencing multiple areas, from market liquidity to player engagement. Here is a detailed breakdown of its impact:
+The Albion Free Market Black Market Flipper plays a significant role in Albion Online's economy by influencing multiple areas, from market liquidity to player engagement. Here is a detailed breakdown of its impact:
 
 | Impact Area             | Description                                                                           | Supporting Data                                       |
 | ----------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- |
