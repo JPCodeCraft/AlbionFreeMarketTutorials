@@ -163,17 +163,15 @@ tags: ["black market", "flipper"]
 
 The Albion Free Market Black Flipper plays a significant role in Albion Online's economy by influencing multiple areas, from market liquidity to player engagement. Here is a detailed breakdown of its impact:
 
-
-| Impact Area             | Description                                                                           | Supporting Data                                 |
-| ----------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| Market Liquidity        | Increases demand for player market items, aiding sellers in converting loot to silver | 195,000+ items flipped, 152B+ silver bought     |
-| Black Market Item Stock | Keeps the Black Market stock full, allowing better loot drops for players             | 195,000+ items flipped                          |
-| Price Stabilization     | Absorbs excess supply when player market prices are low, preventing price drops       | 195,000+ items flipped                          |
-| Upgrade Material Market | Boosts demand for runes, souls, and relics, benefiting sellers                        | 15B+ silver worth of materials purchased        |
-| Inflation Control       | Generates sales tax as a silver sink, removing currency to combat inflation           | 6B+ silver in taxes from the 4% sales tax       |
-| Player Engagement       | Drives active market participation through continuous trading and city-to-city travel | 195,000+ items flipped                          |
-| Influence on PvP Action | Transporters who buy in Royal Cities and sell in the Black Market create PvP hotspots | Promotes PvP encounters and risk-reward balance |
-
+| Impact Area             | Description                                                                           | Supporting Data                                       |
+| ----------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Market Liquidity        | Increases demand for player market items, aiding sellers in converting loot to silver | 195K+ items flipped, 152B+ silver bought from markets |
+| Black Market Item Stock | Keeps the Black Market stock full, allowing better loot drops for players             | 195K+ items flipped, 214B+ silver sold to BM          |
+| Price Stabilization     | Absorbs excess supply when player market prices are low, preventing price drops       | 195K+ items flipped                                   |
+| Upgrade Material Market | Boosts demand for runes, souls, and relics, benefiting sellers                        | 15B+ silver worth of materials purchased              |
+| Inflation Control       | Generates sales tax as a silver sink, removing currency to combat inflation           | 6B+ silver in direct taxes from the 4% sales tax      |
+| Player Engagement       | Drives active market participation through continuous trading and city-to-city travel | 195K+ items flipped                                   |
+| Influence on PvP Action | Transporters who buy in Royal Cities and sell in the Black Market create PvP hotspots | Promotes PvP encounters and risk-reward balance       |
 
 These figures reflect the state of the flipper as of **February 2025**, highlighting the extensive impact of the Black Market Flipper on the Albion Online economy.
 
