@@ -12,7 +12,7 @@
             "crafting",
             "beginners"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/farming/farming.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/farming/farming.md",
         "id": "mastering-the-art-of-farming-in-albion-online"
     },
     {
@@ -26,7 +26,7 @@
             "black market",
             "flipper"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/FlipperTutorial.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/FlipperTutorial.md",
         "id": "albion-online-black-market-flipper-tutorial"
     },
     {
@@ -40,7 +40,7 @@
             "aodp",
             "client"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/aodp/AODPTutorial.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/AODPTutorial.md",
         "id": "the-albion-online-data-project-client-tutorial"
     },
     {
@@ -55,7 +55,7 @@
             "smugglers-den",
             "game-mechanics"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/smugglers.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/smugglers.md",
         "id": "albion-online-smuggler's-dens-and-smuggler's-network-tutorial"
     },
     {
@@ -70,7 +70,7 @@
             "item-power",
             "game-mechanics"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/item-power/item-power.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/item-power/item-power.md",
         "id": "understanding-item-power-in-albion-online"
     },
     {
@@ -83,7 +83,7 @@
         "tags": [
             "hellgates"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/hellgates/HellgatesGuide.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/HellgatesGuide.md",
         "id": "albion-online-hellgates-guide"
     },
     {
@@ -99,7 +99,7 @@
             "Transporting",
             "beginners"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/Transporting Guide/Albion_Transport_Guide.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/Albion_Transport_Guide.md",
         "id": "transporting-guide"
     },
     {
@@ -113,7 +113,7 @@
             "meta",
             "solo"
         ],
-        "url": "https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/articles/metaItems/20240723-top-solo-europe/20240723-top-solo-europe.md",
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/metaItems/20240723-top-solo-europe/20240723-top-solo-europe.md",
         "id": "albion-online-solo-weapons-analysis-europe"
     }
 ]

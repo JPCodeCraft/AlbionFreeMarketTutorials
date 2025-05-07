@@ -84,7 +84,7 @@ tags: ["black market", "flipper"]
   - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
   - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be checked for missing materials.
 
-![Albion Online Flipper Filters](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/image.png)
+![Albion Online Flipper Filters](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image.png)
 
 ## UPGRADE FLIPS
 
@@ -152,11 +152,11 @@ tags: ["black market", "flipper"]
    - Select "Only upload to AFM Flipper"
    - Make sure "Contribute to public flips" is unchecked
 
-![Private Flips Settings](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/1.png)
+![Private Flips Settings](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/1.png)
 
 2. To access your private flips, click the "Private Flips" button in the website Flipper interface.
 
-![Private Flips Checkbox](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/2.png)
+![Private Flips Checkbox](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/2.png)
 
 ### Benefits of Private Flips
 
@@ -192,13 +192,13 @@ Private flips represent a significant enhancement to the Albion Free Market flip
 
 - It's inevitable that flips will fail eventually. When that happens, you should mark the flip as failed on the "Your Flips" page.
 
-<video src="https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/video.mp4" controls autoplay muted></video>
+<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video.mp4" controls autoplay muted></video>
 
 - There are two viable paths to follow:
   - Set up a sell order in the Black Market and wait for it to sell.
   - Keep all failed flips in a bank tab and periodically scan the Black Market. Check the "Your Flips" page while filtering to show only failed flips. This will allow you to see if there are any buy orders that will be profitable to sell to.
 
-![Albion Online Failed Flips](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/flipper/image1.png)
+![Albion Online Failed Flips](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image1.png)
 
 ## Flipper Impact Report (as of February 2025)
 

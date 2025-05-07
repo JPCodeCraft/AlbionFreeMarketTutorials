@@ -75,7 +75,7 @@ Royal cities offer unique bonuses that can significantly impact your profits. He
 - Collect and sell Earthworms as bonus income
 - Consider crop rotation based on market prices
 
-![Watering crops](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/farming//image.png)
+![Watering crops](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/farming//image.png)
 
 ### 2. Herb Cultivation
 **Advanced Garden Setup**

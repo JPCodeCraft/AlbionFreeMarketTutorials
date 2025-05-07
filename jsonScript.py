@@ -22,7 +22,7 @@ def construct_url(base_url, filepath):
     return f"{base_url}/{relative_path}"
 
 root_dir = '.'
-base_url = 'https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main'
+base_url = 'https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials'
 all_metadata = []
 
 for root, dirs, files in os.walk(root_dir):

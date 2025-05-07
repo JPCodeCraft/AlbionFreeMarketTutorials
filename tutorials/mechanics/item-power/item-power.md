@@ -16,7 +16,7 @@ Ever wondered why some players seem significantly stronger than others despite w
 
 At its core, Item Power is a numerical value that represents the overall strength of your equipment. Think of it as a power rating that increases the base attributes of your items and their associated skills. The higher your IP, the more powerful your character becomes – but there's more to it than just a simple number.
 
-![Detailed Item Power - In game](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/item-power/image.png)
+![Detailed Item Power - In game](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/item-power/image.png)
 
 ## How Item Power Affects Your Gameplay
 

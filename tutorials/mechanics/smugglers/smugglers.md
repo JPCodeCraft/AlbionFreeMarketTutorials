@@ -14,21 +14,21 @@ tags: ["albion-online", "smugglers-den", "game-mechanics"]
 
 Smuggler’s Dens are bases in Albion’s tough regions. Located in the Outlands, they offer Bank, Market (Smuggler's Network), Repair Station, Artifact Foundry, Faction Representative and Travel Planner.
 
-![Den In the World](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/1.png)
+![Den In the World](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/1.png)
 
-![Den In the World 2](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/2.png)
+![Den In the World 2](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/2.png)
 
-![Den Layout](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/4.png)
+![Den Layout](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/4.png)
 
-![Den MiniMap](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/8.png)
+![Den MiniMap](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/8.png)
 
 For solo players, these dens provide safety and travel options deep in Albion. The player can set the Den as his base.
 
-![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/7.png)
+![Set Den as Home](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/7.png)
 
 The first time the player enters a Den, he completes a Journal mission.
 
-![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/3.png)
+![Set Den as Home](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/3.png)
 
 There are 35 Smuggler's Dens in the Black Zone, located in the following maps:
 
@@ -68,13 +68,13 @@ There are 35 Smuggler's Dens in the Black Zone, located in the following maps:
 - Willowshade Hills
 - Willowshade Icemarsh
 
-![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/9.png)
+![Set Den as Home](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/9.png)
 
 ## Smuggler’s Network
 
 The Smuggler’s Network is a system of interconnected marketplaces in the Outlands, managed by the Smuggler Faction. Each Smuggler’s Den has a market from this network, allowing players to trade items across the Outlands, separate from the Royal Continent's markets.
 
-![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/5.png)
+![Set Den as Home](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/5.png)
 
 The Network effectively connects the markets of all 35 Smuggler's Dens and the 3 Rests. This "free transport" is balanced by a fee that increases with the distance between where the market order was placed and where it is fulfilled. The fee applies to both buying and selling operations.
 
@@ -84,10 +84,10 @@ Therefore, trading costs vary based on the distance items travel. Players must d
 
 The markets have an option to display prices with or without the travel fee.
 
-![Set Den as Home](https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/6.png)
+![Set Den as Home](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/6.png)
 
 ## Maggy Slade
 
 Maggy Slade is the Smuggler's Faction representative, with whom you can trade standing for rewards.
 
-<video src="https://raw.githubusercontent.com/JPCodeCraft/AlbionFreeMarketTutorials/main/tutorials/mechanics/smugglers/v1.mp4" controls autoplay muted></video>
+<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/v1.mp4" controls autoplay muted></video>

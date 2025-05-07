@@ -78,7 +78,7 @@ To find a good Avalonian road:
 
 Below is an example set for any fast mount—in this scenario, a **husky**. 
 
-![build1](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/Screenshot%202024-12-30%20205523.png)
+![build1](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting%20Guide/Screenshot%202024-12-30%20205523.png)
 
 - Why Husky? 🐕‍🦺 It has the best ability out of all fast mounts. You can negate the downside of its ability by dismounting for half a second and then mounting again.
 - Boots: Miner boots, or if you don't have them unlocked, soldier boots. These provide the most distance.
@@ -94,7 +94,7 @@ Below is an example set for any fast mount—in this scenario, a **husky**.
 
 Below is an example set for any transport mount—in this scenario, an **elite bear**.
 
-![build2](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/Screenshot%202024-12-30%20203700.png)
+![build2](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting%20Guide/Screenshot%202024-12-30%20203700.png)
 
 - Mount: Elite Bear or Elite Bighorn Ram.
   - **Why Bighorn Ram?** 🐏 Its ability is very good and overall gives a higher chance of escaping, at the cost of HP and carry weight.
@@ -132,7 +132,7 @@ If you begin entering the Mist before the enemy dismounts, they won't be able to
 
 ⚠️ **Be Aware**: Some mount abilities can interrupt your channeling, such as the crow. 
 
-![Mist](https://raw.githubusercontent.com/OSTIIIhg/AlbionFreeMarketTutorials/refs/heads/main/tutorials/Transporting%20Guide/300px-Wisp_solo.gif)
+![Mist](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting%20Guide/300px-Wisp_solo.gif)
 
 
 
