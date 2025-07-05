@@ -17,19 +17,8 @@ def extract_metadata(filepath):
             return metadata
     return None
 
-def slugify(value):
-    value = value.lower()
-    value = value.replace(' ', '-')
-    value = re.sub(r'[^a-z0-9/_-]', '', value)
-    value = re.sub(r'-+', '-', value)
-    value = value.strip('-')
-    return value
-
 def construct_url(base_url, filepath):
     relative_path = os.path.relpath(filepath, start=root_dir).replace(os.sep, '/').lstrip("./")
-    if relative_path.lower().endswith('.md'):
-        relative_path = relative_path[:-3]
-    relative_path = slugify(relative_path)
     return f"{base_url}/{relative_path}"
 
 root_dir = '.'
@@ -44,7 +33,7 @@ for root, dirs, files in os.walk(root_dir):
             metadata = extract_metadata(filepath)
             if metadata:
                 metadata['url'] = construct_url(base_url, filepath)
-                metadata['id'] = slugify(metadata['title'])
+                metadata['id'] = re.sub(r'-+', '-', re.sub(r'[^a-z0-9\-]', '-', metadata['title'].lower())).strip('-')
                 all_metadata.append(metadata)
 
 with open('metadata.json', 'w', encoding='utf-8') as json_file:
