@@ -17,8 +17,19 @@ def extract_metadata(filepath):
             return metadata
     return None
 
+def slugify(value):
+    value = value.lower()
+    value = value.replace(' ', '-')
+    value = re.sub(r'[^a-z0-9/_-]', '', value)
+    value = re.sub(r'-+', '-', value)
+    value = value.strip('-')
+    return value
+
 def construct_url(base_url, filepath):
     relative_path = os.path.relpath(filepath, start=root_dir).replace(os.sep, '/').lstrip("./")
+    if relative_path.lower().endswith('.md'):
+        relative_path = relative_path[:-3]
+    relative_path = slugify(relative_path)
     return f"{base_url}/{relative_path}"
 
 root_dir = '.'
@@ -26,13 +37,14 @@ base_url = 'https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials'
 all_metadata = []
 
 for root, dirs, files in os.walk(root_dir):
+    files.sort()
     for file in files:
         if file.endswith('.md'):
             filepath = os.path.join(root, file)
             metadata = extract_metadata(filepath)
             if metadata:
                 metadata['url'] = construct_url(base_url, filepath)
-                metadata['id'] = re.sub(r'-+', '-', metadata['title'].replace(' ', '-').lower())
+                metadata['id'] = slugify(metadata['title'])
                 all_metadata.append(metadata)
 
 with open('metadata.json', 'w', encoding='utf-8') as json_file:
