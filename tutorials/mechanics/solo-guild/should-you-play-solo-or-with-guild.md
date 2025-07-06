@@ -10,7 +10,7 @@ tags: ["albion-online", "solo", "guild", "guide", "mmorpg", "playstyle"]
 
 # Should You Play Solo or With a Guild in Albion Online?
 
-![Screenshot (34)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image1.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image1.png" alt="Screenshot (34)" width="1152" height="640">
 
 Albion online is one massive sandbox where every player can have their own journey. You can be a lone gatherer or become part of a bigger community via guilds; it depends on you . But which path should you choose — the solo grind or the strength of a guild?
 
@@ -87,7 +87,7 @@ These are easy-to-access PvE dungeons scattered across all zones. They offer fam
 
 **Tip:** Always carry an escape mount like a Giant Stag, and keep your gear budget low — because if you die in red or black zones, you lose everything.
 
-![cce8b5e9ab7439b9ba58a0be0f6be676744087ce](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image2.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image2.png" alt="cce8b5e9ab7439b9ba58a0be0f6be676744087ce" width="800" height="450">
 
 ## Playing With a Guild in Albion Online
 
@@ -97,7 +97,7 @@ In fact, for a lot of content in Albion, being in a guild doesn’t just help �
 
 ### Why Joining a Guild Might Be Right for You
 
-![ceb9a504e99e716a6579a2d537541fdc98f73cec](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image3.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image3.png" alt="ceb9a504e99e716a6579a2d537541fdc98f73cec" width="800" height="450">
 
 **Access to Large-Scale Content**  
 While solo players can enjoy a lot of what Albion Online has to offer, some of the game’s most exciting content is designed specifically for groups — and you simply can’t do it alone. Things like ZvZ (guild vs. guild), Avalonian Raids, and access to Guild Hideouts are all locked behind teamwork. These are massive, coordinated events where dozens (sometimes hundreds) of players fight for territory, loot, and control. They offer big rewards — but only if you have a group to back you up.
@@ -134,6 +134,6 @@ If you want faster progression, protection in black zones, access to endgame con
 
 But if you’re the kind of player who hates authority, prefers full freedom, and only wants casual PvE, then staying solo or joining a casual alliance might be your best call.
 
-![df1d2b6bc19e96e5bd597d41e3a3e242b245f566](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image4.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/image4.png" alt="df1d2b6bc19e96e5bd597d41e3a3e242b245f566" width="800" height="450">
 
 Albion Online is a game by Sandbox Interactive GmbH. All images used are property of their respective owners.

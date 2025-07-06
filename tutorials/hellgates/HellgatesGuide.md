@@ -15,7 +15,7 @@ Hellgates are accessed through **Hellgate Rituals**, which can be crafted at the
 
 Inside these portals, players encounter various weak mobs and bosses, and often, another team of players to battle. During battles, a closing zone progressively deals damage, starting at 1% of your HP per second and increasing by 1% every second.
 
-![hgs2](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20184733.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image1.png" alt="hgs2" width="891" height="540">
 
 ## **Types of Hellgates**
 
@@ -29,7 +29,7 @@ Each size is available in two modes:
 
 - **Non-lethal**: PvP results in knockdowns instead of death (no full loot).
 - **Lethal**: PvP results in death (full loot).
-![hgs](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20184117.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image2.png" alt="hgs" width="1216" height="471">
 
 ## **Requirements for Entry**
 
@@ -88,7 +88,7 @@ A player with 1200 IP enters a 2v2 Lethal Hellgate. Their IP is reduced to the c
 ### **Example Builds**
 
 #### **Build 1**
-![Example Build 1](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20154713.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image3.png" alt="Example Build 1" width="376" height="518">
 ### **Healer Basics**
 
 As a beginner healer, your first priority should be to use your **Q spell** off cooldown. While exceptions exist, focusing on this will help you learn the basics. Below are additional tips:
@@ -118,32 +118,32 @@ As a beginner healer, your first priority should be to use your **Q spell** off 
 - **Positioning:** As a healer, always stay behind your DPS in a front-to-back (FTB) formation. It’s easier to heal your DPS than yourself, so maintain distance. This also helps drop curse stacks and prevents most one-shots from targeting you.
 
 #### **Build 2**
-![Example Build 2](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20155101.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image4.png" alt="Example Build 2" width="395" height="519">
 
 - **Dagger Pair:** One of the easiest DPS to choose. Plan is simple: get 3 stacks from Q. If using Fiend Cowl, start auto-attacks before healer Q, then use W when the healer is about to use Q. If they use Blessing, purge it, then E. Optionally add a poison potion before this combo. With Mercenary Hood, start with E to prevent Blessing, then W and auto-attack while interrupting healer Q with the hood. If the healer is more expirienced and bless your every E you can bait his blessing by canceling your E( You can do it by clicking somewhere instantly after pressing E or by pressing S after E)
 
 #### **Build 3**
-![Example Build 3](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20155230.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image5.png" alt="Example Build 3" width="394" height="518">
 
 - **Claymore:** A more challenging DPS than Dagger Pair. With Feyscale Robe, stack Q to 3, use Cultist Sandals, purge Mage Robe if equipped, and execute the combo, you can also ask your healer for blessing and purge enemy blessing for maximum dmg. If using Purity Robe, stack on the DPS, then target the healer, using Purity defensively or offensively(kindaping) as needed. Mage Robe is the most defensive option, useful for countering enemy robes or sandals.
 
 #### **Build 4**
-![Example Build 4](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20155348.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image6.png" alt="Example Build 4" width="398" height="551">
 
 - **Hellspawn:** Against healers playing Beam, use the second W spell and focus the healer. Jacket grants high defense to survive most combos from dagger pairs and burst DPS comps, vs one shots and double dps use inferno shild. You can swap hunter jacket for druid robe at cost of defensive.
 
 #### **Build 5**
-![Example Build 5](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20155742.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image7.png" alt="Example Build 5" width="439" height="533">
 
 - **Demonic:** Focus on double-stacking the enemy healer and DPS. Use W situationally with Cultist Sandals, Use E for burst dmg and to separate healer and dps from each other, vs one shots use 2 q and root W, sprint on sandals and frost shild on robe. Mage robe is cheaper alternative that provides good defensive.
 
 ## **Maps**
-![maps](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/maps.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image8.png" alt="maps" width="2626" height="1144">
 If you play as demonic or hellspawn your ideal map will contain the least amout of pillars and walls possible. You can hold good maps if you want to.
 
 ## **Tier List and Resources**
 
-![tierlist](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/Screenshot%202024-12-28%20175142.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/image9.png" alt="tierlist" width="996" height="567">
 (tier list by Ostiii)
 
 For further questions, ask me (Ostiii) on [**AlbionFreeMarket Discord**](https://discord.com/invite/BPmDE3zznH)  or visit [**Hellgate Hub**](https://discord.gg/9hA8YUtwjB).

@@ -11,13 +11,13 @@ tags: ["albion-online", "gathering", "resources", "beginner", "guide", "silver"]
 # Gathering resources in Albion Online (2025 Guide)
 
 Gathering is one of the most rewarding and reliable method for earning silver (the in-game currency) in Albion Online. Since the game features a player-driven economy, gathering resources will always remain profitable and relevant—it is content that never becomes obsolete.
-![Screenshot (13)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image1.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image1.png" alt="Screenshot (13)" width="1310" height="732">
 
 ## What Are the Gathering resources?
 
 These are in-game resources that you can obtain through gathering activities. You can later sell them on the marketplace or refine them to create other goods. They are of 5 type - Stone, Fibre, Leather, Wood and Ore.
 
-![OynqdSdeqZlDHHvr4LznWyDzdjQenRQxYm87GF8C](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image2.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image2.png" alt="OynqdSdeqZlDHHvr4LznWyDzdjQenRQxYm87GF8C" width="900" height="142">
 
 ## Why gather them?
 
@@ -29,25 +29,25 @@ If you gather them yourself you reduce your reliance on the marketplace who sell
 You can gather any of the 5 resources in albion online as long as you have gathering tools to gather them. You should keep in mind that all biomes have their own resources.
 
 If you are in forest biome you can gather – wood, stone and hide.  
-![Screenshot (15)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image3.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image3.png" alt="Screenshot (15)" width="1275" height="213">
 
 If you are in highland biome you can gather – wood, stone and ore  
-![Screenshot (17)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image4.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image4.png" alt="Screenshot (17)" width="1179" height="122">
 
 If you are in steppe biome you can gather – hide, ore and fiber  
-![Screenshot (19)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image5.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image5.png" alt="Screenshot (19)" width="1188" height="138">
 
 If you are in mountain biome you can gather – stone, fiber and ore
 
-![Screenshot (20)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image6.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image6.png" alt="Screenshot (20)" width="1134" height="124">
 
 If you are in swamp biome you can gather – fiber, hide, wood  
-![Screenshot (18)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image7.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image7.png" alt="Screenshot (18)" width="1240" height="115">
 
 You can also see rate of enchanted resources in map by pressing ‘M’ and selecting zone.  
 These Enchanted resources in Albion Online are special raw materials that you can collect occasionally in any zones. They can enhance weapon and armor, providing a significant boost in item power.
 Black zone gives the highest rate of enchanted resources while blue zone gives the least.
-![Screenshot (21)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image8.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image8.png" alt="Screenshot (21)" width="863" height="63">
 
 ## Best resource to gather right now
 
@@ -59,11 +59,11 @@ If you want to gather hide you should go for **steppe biome with Bridgewatch** a
 ## Gathering equipment and consumables
 
 Gathering equipment in Albion Online is specifically designed to enhance your efficiency while collecting resources. Each resource type has its own specialized gear set that increases gathering yield, reduces gathering time, and offers defensive skills to escape danger — especially in PvP zones. Whether you’re a casual gatherer or a hardcore resource hunter, having the right equipment makes a huge difference.  
-![Screenshot (24)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image9.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image9.png" alt="Screenshot (24)" width="898" height="710">
 
 Consumables on the other hand help a lot when gathering in Albion Online. The most popular one is the **pork pie**, which gives you more gathering yield and lets you carry more. Some players also use **healing or invisibility potions** to stay safe in dangerous zones. Using the right food and potions can make gathering faster and safer.
 
-![Screenshot (25)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image10.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image10.png" alt="Screenshot (25)" width="893" height="728">
 
 ---
 
@@ -86,7 +86,7 @@ If you're serious about gathering in Albion Online, Premium status can make a hu
 - Only 10 learning points daily
 - Lower silver-making potential long-term
 
-![Screenshot (27)](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image11.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image11.png" alt="Screenshot (27)" width="866" height="638">
 
 ## Which Gathering Mount Should You Choose?
 
@@ -98,7 +98,7 @@ Choosing the right mount for gathering depends on your budget and the zone you'r
 
 This is especially useful if you get dismounted by gankers, as it gives you a better chance to escape while carrying heavy resources.
 
-![Moose](https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image12.png)
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/image12.png" alt="Moose" width="800" height="450">
 
 ---
 
