@@ -79,7 +79,7 @@ The Ox is the backbone of most gatherers. It’s not flashy, it’s not fast, bu
 
 This is my default mount now. It has decent weight capacity and just enough speed to escape basic ganks. If you’re using invis pots or soldier armor builds, it’s actually pretty hard to catch. If you don’t want to be a turtle but still need to carry a lot, Giant Stag is the sweet spot. Enough weight for resource runs, fast enough to get away from average gankers — especially when paired with a soldier armor escape build.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/items/mounts/overview/image8.png" alt="Screenshot (70)" width="1920" height="1080">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/items/mounts/overview/image11.png" alt="Screenshot (70)" width="1920" height="1080">
 
 ### Transport Mammoth– Only When I Feel Lucky (or Suicidal)
 

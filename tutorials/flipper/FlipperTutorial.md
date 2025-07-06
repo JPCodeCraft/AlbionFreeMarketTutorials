@@ -113,7 +113,7 @@ tags: ["black market", "flipper"]
 - Once you click “Consume Flip”, the system automatically deduces the used number of items from you available items count.
 - Attention: to save the amounts to the database, you should manually click the save button. Saves are not automatic.
 
-<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video1.mp4" width="1290" height="582" controls autoplay muted></video></video>
+<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video1.mp4" width="1290" height="582" controls autoplay muted></video>
 
 ## FINDING FLIPS
 
@@ -136,7 +136,7 @@ tags: ["black market", "flipper"]
   - Stop the page scrolling when the values are too low. For example, there is no point in seeing prices of .4 items at 300k. They are worth a lot more.
   - Repeat for all options
 
-<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video2.mp4" width="896" height="780" controls autoplay muted></video></video>
+<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video2.mp4" width="896" height="780" controls autoplay muted></video>
 
 ## PRIVATE FLIPS MODE
 
@@ -192,7 +192,7 @@ Private flips represent a significant enhancement to the Albion Free Market flip
 
 - It's inevitable that flips will fail eventually. When that happens, you should mark the flip as failed on the "Your Flips" page.
 
-<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video3.mp4" width="1866" height="606" controls autoplay muted></video></video>
+<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/video3.mp4" width="1866" height="606" controls autoplay muted></video>
 
 - There are two viable paths to follow:
   - Set up a sell order in the Black Market and wait for it to sell.

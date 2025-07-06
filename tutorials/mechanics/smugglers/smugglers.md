@@ -90,4 +90,4 @@ The markets have an option to display prices with or without the travel fee.
 
 Maggy Slade is the Smuggler's Faction representative, with whom you can trade standing for rewards.
 
-<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/video1.mp4" width="476" height="1190" controls autoplay muted></video></video>
+<video src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/video1.mp4" width="476" height="1190" controls autoplay muted></video>

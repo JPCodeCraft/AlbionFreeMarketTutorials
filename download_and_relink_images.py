@@ -171,7 +171,7 @@ def process_markdown_file(md_path):
             height_attr = f'height="{height}"'
             
             # Replace the src URL and ensure proper width/height attributes
-            old_video_pattern = re.compile(r'<video[^>]*src=["\']' + re.escape(url) + r'["\'][^>]*>')
+            old_video_pattern = re.compile(r'<video[^>]*src=["\']' + re.escape(url) + r'["\'][^>]*>.*?</video>', re.DOTALL)
             
             def replace_video_tag(match):
                 video_tag = match.group(0)
