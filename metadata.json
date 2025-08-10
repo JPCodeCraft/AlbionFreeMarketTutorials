@@ -1,18 +1,5 @@
 [
     {
-        "title": "Albion Online Hellgates Guide",
-        "summary": "Learn the basics of 2v2 hellgates in Albion Online.",
-        "author": "OSTIII",
-        "createdAt": "2024-12-28",
-        "updatedAt": "2024-12-28",
-        "category": "tutorial",
-        "tags": [
-            "hellgates"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/HellgatesGuide.md",
-        "id": "albion-online-hellgates-guide"
-    },
-    {
         "title": "How to Make Silver Fast in Albion Online as a Beginner (2025 Guide)",
         "summary": "A practical guide for new Albion Online players to earn silver quickly through gathering, dungeons, flipping, faction warfare, and more—no premium required.",
         "author": "Akaashi",
@@ -20,45 +7,11 @@
         "updatedAt": "2025-06-29",
         "category": "tutorial",
         "tags": [
-            "albion-online",
-            "silver",
-            "beginner",
-            "money-making",
-            "f2p",
-            "guide"
+            "Economy",
+            "Beginner"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/easy-silver-beginner-guide.md",
         "id": "how-to-make-silver-fast-in-albion-online-as-a-beginner-2025-guide"
-    },
-    {
-        "title": "Mastering the Art of Farming in Albion Online",
-        "summary": "A comprehensive guide to becoming a successful farmer in Albion Online",
-        "author": "Albion Free Market",
-        "createdAt": "2024-12-07",
-        "updatedAt": "2024-12-07",
-        "category": "tutorial",
-        "tags": [
-            "farming",
-            "economy",
-            "crafting",
-            "beginners"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/farming/farming.md",
-        "id": "mastering-the-art-of-farming-in-albion-online"
-    },
-    {
-        "title": "The Albion Online Data Project Client Tutorial",
-        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
-        "author": "Albion Free Market",
-        "createdAt": "2024-07-19",
-        "updatedAt": "2024-12-19",
-        "category": "tutorial",
-        "tags": [
-            "aodp",
-            "client"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/AODPTutorial.md",
-        "id": "the-albion-online-data-project-client-tutorial"
     },
     {
         "title": "Gathering Guide for Beginners in Albion Online (2025)",
@@ -68,31 +21,11 @@
         "updatedAt": "2025-06-25",
         "category": "tutorial",
         "tags": [
-            "albion-online",
-            "gathering",
-            "resources",
-            "beginner",
-            "guide",
-            "silver"
+            "Gathering",
+            "Beginner"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/gathering/begginers/gathering-guide-for-beginners.md",
         "id": "gathering-guide-for-beginners-in-albion-online-2025"
-    },
-    {
-        "title": "Transporting Guide",
-        "summary": "A comprehensive guide to becoming a successful transporter in Albion Online",
-        "author": "OSTIII",
-        "createdAt": "2024-12-31",
-        "updatedAt": "2024-12-31",
-        "category": "tutorial",
-        "tags": [
-            "Black market",
-            "economy",
-            "Transporting",
-            "beginners"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/Albion_Transport_Guide.md",
-        "id": "transporting-guide"
     },
     {
         "title": "Albion Online: Best Mounts for PvP, PvE, and Gathering (2025)",
@@ -102,15 +35,96 @@
         "updatedAt": "2025-07-01",
         "category": "tutorial",
         "tags": [
-            "albion-online",
-            "mounts",
-            "pvp",
-            "pve",
-            "gathering",
-            "guide"
+            "Mounts"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/items/mounts/overview/mounts-overview.md",
         "id": "albion-online-best-mounts-for-pvp-pve-and-gathering-2025"
+    },
+    {
+        "title": "Transporting Guide",
+        "summary": "A comprehensive guide to becoming a successful transporter in Albion Online",
+        "author": "OSTIII",
+        "createdAt": "2024-12-31",
+        "updatedAt": "2024-12-31",
+        "category": "tutorial",
+        "tags": [
+            "Transport",
+            "Beginner"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/Albion_Transport_Guide.md",
+        "id": "transporting-guide"
+    },
+    {
+        "title": "Albion Online Hellgates Guide",
+        "summary": "Learn the basics of 2v2 hellgates in Albion Online.",
+        "author": "OSTIII",
+        "createdAt": "2024-12-28",
+        "updatedAt": "2024-12-28",
+        "category": "tutorial",
+        "tags": [
+            "Hellgates",
+            "PvP",
+            "Begginer"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/hellgates/HellgatesGuide.md",
+        "id": "albion-online-hellgates-guide"
+    },
+    {
+        "title": "Mastering the Art of Farming in Albion Online",
+        "summary": "A comprehensive guide to becoming a successful farmer in Albion Online",
+        "author": "Albion Free Market",
+        "createdAt": "2024-12-07",
+        "updatedAt": "2024-12-07",
+        "category": "tutorial",
+        "tags": [
+            "Farming",
+            "Economy"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/farming/farming.md",
+        "id": "mastering-the-art-of-farming-in-albion-online"
+    },
+    {
+        "title": "Albion Online Black Market Flipper Tutorial",
+        "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
+        "author": "Albion Free Market",
+        "createdAt": "2024-07-19",
+        "updatedAt": "2025-02-26",
+        "category": "tutorial",
+        "tags": [
+            "Flipper",
+            "Black Market",
+            "Economy"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/FlipperTutorial.md",
+        "id": "albion-online-black-market-flipper-tutorial"
+    },
+    {
+        "title": "The Albion Online Data Project Client Tutorial",
+        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
+        "author": "Albion Free Market",
+        "createdAt": "2024-07-19",
+        "updatedAt": "2024-12-19",
+        "category": "tutorial",
+        "tags": [
+            "AODP",
+            "Data Client"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/AODPTutorial.md",
+        "id": "the-albion-online-data-project-client-tutorial"
+    },
+    {
+        "title": "Should You Play Solo or With a Guild in Albion Online?",
+        "summary": "A detailed guide comparing solo and guild play in Albion Online, including pros, cons, best activities, and tips to help you choose the right path for your playstyle.",
+        "author": "Akaashi",
+        "createdAt": "2025-07-04",
+        "updatedAt": "2025-07-04",
+        "category": "tutorial",
+        "tags": [
+            "Guilds",
+            "Beginner"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/should-you-play-solo-or-with-guild.md",
+        "id": "should-you-play-solo-or-with-a-guild-in-albion-online"
     },
     {
         "title": "Albion Online Guide to Zones and Flagging",
@@ -120,11 +134,8 @@
         "updatedAt": "2025-06-27",
         "category": "tutorial",
         "tags": [
-            "albion-online",
-            "zones",
-            "flagging",
-            "pvp",
-            "game-mechanics"
+            "Zones",
+            "PvP"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/zones-flagging/guide-to-zones-and-flagging.md",
         "id": "albion-online-guide-to-zones-and-flagging"
@@ -137,9 +148,8 @@
         "updatedAt": "2024-12-12",
         "category": "tutorial",
         "tags": [
-            "albion-online",
-            "item-power",
-            "game-mechanics"
+            "Game Mechanics",
+            "Item Power"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/item-power/item-power.md",
         "id": "understanding-item-power-in-albion-online"
@@ -152,44 +162,11 @@
         "updatedAt": "2025-02-07",
         "category": "tutorial",
         "tags": [
-            "albion-online",
-            "smugglers-den",
-            "game-mechanics"
+            "Game Mechanics",
+            "Smugglers"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/smugglers/smugglers.md",
         "id": "albion-online-smuggler-s-dens-and-smuggler-s-network-tutorial"
-    },
-    {
-        "title": "Should You Play Solo or With a Guild in Albion Online?",
-        "summary": "A detailed guide comparing solo and guild play in Albion Online, including pros, cons, best activities, and tips to help you choose the right path for your playstyle.",
-        "author": "Akaashi",
-        "createdAt": "2025-07-04",
-        "updatedAt": "2025-07-04",
-        "category": "tutorial",
-        "tags": [
-            "albion-online",
-            "solo",
-            "guild",
-            "guide",
-            "mmorpg",
-            "playstyle"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/solo-guild/should-you-play-solo-or-with-guild.md",
-        "id": "should-you-play-solo-or-with-a-guild-in-albion-online"
-    },
-    {
-        "title": "Albion Online Black Market Flipper Tutorial",
-        "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
-        "author": "Albion Free Market",
-        "createdAt": "2024-07-19",
-        "updatedAt": "2025-02-26",
-        "category": "tutorial",
-        "tags": [
-            "black market",
-            "flipper"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/FlipperTutorial.md",
-        "id": "albion-online-black-market-flipper-tutorial"
     },
     {
         "title": "Albion Online Solo Weapons Analysis - Europe",
@@ -199,8 +176,9 @@
         "updatedAt": "2024-07-23",
         "category": "article",
         "tags": [
-            "meta",
-            "solo"
+            "Analysis",
+            "PvP",
+            "Meta"
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/metaItems/20240723-top-solo-europe/20240723-top-solo-europe.md",
         "id": "albion-online-solo-weapons-analysis-europe"
