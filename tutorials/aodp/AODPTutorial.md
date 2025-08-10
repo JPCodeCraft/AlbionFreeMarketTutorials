@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2024-07-19"
 updatedAt: "2024-12-19"
 category: "tutorial"
-tags: ["aodp", "client"]
+tags: ["AODP", "Data Client"]
 -->
 
 # ALBION ONLINE DATA PROJECT

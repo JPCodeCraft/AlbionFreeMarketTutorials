@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2024-12-12"
 updatedAt: "2024-12-12"
 category: "tutorial"
-tags: ["albion-online", "item-power", "game-mechanics"]
+tags: ["Game Mechanics", "Item Power"]
 -->
 
 # Understanding Item Power in Albion Online

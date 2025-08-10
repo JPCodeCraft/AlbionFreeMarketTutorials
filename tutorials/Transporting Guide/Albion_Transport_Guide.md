@@ -5,7 +5,7 @@ author: "OSTIII"
 createdAt: "2024-12-31"
 updatedAt: "2024-12-31"
 category: "tutorial"
-tags: ["Black market", "economy", "Transporting", "beginners"]
+tags: [ "Transport", "Beginner"]
 -->
 
 # How to Transport in Albion
@@ -17,33 +17,27 @@ The most significant and noticeable price changes occur in **Caerleon**. This is
 1. **Surrounding Red Zones**: Caerleon is surrounded by red zones, which means that every transport carries the risk of 💀 death.
 2. **The Black Market**: Caerleon hosts a unique feature called the "Black Market."
 
-
-
 ## 🛒 What is the Black Market?
 
-In Albion, every item dropped by a player must be crafted. The Black Market is the game's mechanism to introduce player-created items into the loot pool. It also regulates the number of items in the game. 
+In Albion, every item dropped by a player must be crafted. The Black Market is the game's mechanism to introduce player-created items into the loot pool. It also regulates the number of items in the game.
 
 💡 **Tip**: The Black Market allows you to sell large quantities of items, often at better prices than the normal market offers. This is one of the reasons why prices in Caerleon are higher.
-
-
 
 ## 🚴‍♂️ How to Transport?
 
 When transporting around royal cities, you don't need to overthink it. To maximize time efficiency, choose the right mount:
 
-| ⚖️ **Transport Weight** | 🐾 **Recommended Mount**   | 💬 **Notes**          |
-|------------------|---------------------|----------------------|
-| Light            | Wolf               | Speed-focused        |
-| Medium           | Moose, Boar        | Balanced capacity    |
-| Heavy            | Bear, Ox           | Maximum capacity     |
+| ⚖️ **Transport Weight** | 🐾 **Recommended Mount** | 💬 **Notes**      |
+| ----------------------- | ------------------------ | ----------------- |
+| Light                   | Wolf                     | Speed-focused     |
+| Medium                  | Moose, Boar              | Balanced capacity |
+| Heavy                   | Bear, Ox                 | Maximum capacity  |
 
 - **Light Transport**: Invest in a better bag, 🥧 pork pie, and use a fast mount like a wolf.
 - **Medium Transport**: Use a peak moose or boar.
 - **Heavy Transport**: Choose a bear or ox.
 
-🔍 **Note**: Shoes can also increase your carry weight (more IP means more carry weight). 
-
-
+🔍 **Note**: Shoes can also increase your carry weight (more IP means more carry weight).
 
 ### 🌀 Using Avalonian Roads
 
@@ -54,8 +48,6 @@ To speed up transportation between royal cities, especially if the distance is m
 - When you enter from a yellow/blue zone, you'll almost always find yellow/blue zone maps within it.
 
 ⚠️ Warning: Always be cautious of potential threats when traveling in Avalonian roads.
-
-
 
 ## 🛡️ How to Transport Safely to Caerleon?
 
@@ -70,20 +62,18 @@ To find a good Avalonian road:
 
 🚫 Avoid: Avalonian roads with heavy traffic or scouts inside.
 
-
-
 ### ⚔️ Builds
 
 #### 🚀 Fast Mount Build Example
 
-Below is an example set for any fast mount—in this scenario, a **husky**. 
+Below is an example set for any fast mount—in this scenario, a **husky**.
 
 <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image1.png" alt="build1" width="383" height="403">
 
 - Why Husky? 🐕‍🦺 It has the best ability out of all fast mounts. You can negate the downside of its ability by dismounting for half a second and then mounting again.
 - Boots: Miner boots, or if you don't have them unlocked, soldier boots. These provide the most distance.
 - Chest: Armor of Valor or Assassin Jacket. Assassin Jacket offers a good ability, but most ganking teams have invisibility cancellation tools like sticky potions or Stalker Hoods. Therefore, Armor of Valor is often a safer choice. Remember that every armor ability puts the player in combat.
-- Weapon: Bloodletter for its second W ability and E ability. 
+- Weapon: Bloodletter for its second W ability and E ability.
   - Why Bloodletter over Carving with Last W? Bloodletter's mobility ensures that gankers cannot purge your boots in the last seconds of your W, providing enough distance to escape.
 - Off-hand: Mistcaller for extra mobility.
 - Helmet: Soldier Helmet for additional crowd-control resistance.
@@ -108,6 +98,7 @@ Below is an example set for any transport mount—in this scenario, an **elite b
 - Potion: Always use Gigantify Potion. Without it, you won't be able to move after being dismounted. However, its effect lasts only 6 seconds, so if you're not close enough to the gate, you probably won't survive.
 
 #### Transporting Naked or Undercover
+
 If the items you carry aren't too heavy, you can transport them naked on a horse. Most gankers won't even attack you. However, I don't recommend this because of how easy it is to get dismounted and killed. Every solo bearpaws ganker can one-shot you with just one E. If any group of gankers decides to kill you, you are 100% dead.
 
 A slightly better solution is to wear some kind of disguise. It can be something like a cheap solo player build, but remember not to use boots with carry weight bonuses. These boots will likely signal to gankers that you are transporting valuable items.
@@ -120,24 +111,20 @@ These groups of players can act as unpaid escorts that make trips to Caerleon ev
 
 Next, go to the yellow zone near the city and find a forming group of players, or wait in the yellow zone near the red zone heading towards Caerleon. Even if something happens to your escort (which is unlikely), you will probably find a group of transporters who also use the bandit assault as an escort. This greatly reduces the chance that you'll be the one ganked among 30+ people.
 
-
-
 ### 🌫️ Mists as a Way to Escape
 
 The Mists can save you in many situations. How do you use the Mists to your advantage?
 
-Mists are commonly found in the open world, and they can save your life if you manage to enter one. However, it isn't easy because Mists require some roaming before they open. If you start roaming around a non-open Mist, most gankers will dismount. If they don't, you have a free escape. 
+Mists are commonly found in the open world, and they can save your life if you manage to enter one. However, it isn't easy because Mists require some roaming before they open. If you start roaming around a non-open Mist, most gankers will dismount. If they don't, you have a free escape.
 
-If you begin entering the Mist before the enemy dismounts, they won't be able to attack you before you enter. So, if you see an open Mist on your way, always go for it. 
+If you begin entering the Mist before the enemy dismounts, they won't be able to attack you before you enter. So, if you see an open Mist on your way, always go for it.
 
-⚠️ **Be Aware**: Some mount abilities can interrupt your channeling, such as the crow. 
+⚠️ **Be Aware**: Some mount abilities can interrupt your channeling, such as the crow.
 
 <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.gif" alt="Mist" width="300" height="225">
 
-
-
 ### 🧠 Tips
 
-- 🚨 If you enter a zone and instantly see a group of players, **do not panic**. Wait a bit before going back or even go slightly deeper into the zone. 
+- 🚨 If you enter a zone and instantly see a group of players, **do not panic**. Wait a bit before going back or even go slightly deeper into the zone.
   - **Why?** You can't instantly switch zones. If they see you trying to leave, some will immediately follow you to the next zone. Waiting or moving deeper can buy you time or bait them entirely.(Video below)
 - 🔀 If you see a scout at the entrance of the map, try to take a less obvious route. Solo gankers using their phones to scout tend to stay at the most obvious paths. Keep this in mind for safer travel.

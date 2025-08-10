@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2024-07-23"
 updatedAt: "2024-07-23"
 category: "article"
-tags: ["meta", "solo"]
+tags: ["Analysis", "PvP", "Meta"]
 -->
 
 # Albion Online Solo Weapons Analysis - Europe Server

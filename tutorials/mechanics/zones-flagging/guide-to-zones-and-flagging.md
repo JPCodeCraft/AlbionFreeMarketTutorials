@@ -5,7 +5,7 @@ author: "Akaashi"
 createdAt: "2025-06-27"
 updatedAt: "2025-06-27"
 category: "tutorial"
-tags: ["albion-online", "zones", "flagging", "pvp", "game-mechanics"]
+tags: ["Zones", "PvP"]
 -->
 
 # Albion online guide to zones and flagging

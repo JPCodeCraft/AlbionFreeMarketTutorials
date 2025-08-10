@@ -5,7 +5,7 @@ author: "Akaashi"
 createdAt: "2025-06-25"
 updatedAt: "2025-06-25"
 category: "tutorial"
-tags: ["albion-online", "gathering", "resources", "beginner", "guide", "silver"]
+tags: ["Gathering", "Beginner"]
 -->
 
 # Gathering resources in Albion Online (2025 Guide)

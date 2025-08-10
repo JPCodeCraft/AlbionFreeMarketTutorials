@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2024-07-19"
 updatedAt: "2025-02-26"
 category: "tutorial"
-tags: ["black market", "flipper"]
+tags: ["Flipper", "Black Market", "Economy"]
 -->
 
 # ALBION FREE MARKET FLIPPER TUTORIAL

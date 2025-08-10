@@ -5,7 +5,7 @@ author: "Akaashi"
 createdAt: "2025-07-04"
 updatedAt: "2025-07-04"
 category: "tutorial"
-tags: ["albion-online", "solo", "guild", "guide", "mmorpg", "playstyle"]
+tags: ["Guilds", "Beginner"]
 -->
 
 # Should You Play Solo or With a Guild in Albion Online?

@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2025-01-15"
 updatedAt: "2025-02-07"
 category: "tutorial"
-tags: ["albion-online", "smugglers-den", "game-mechanics"]
+tags: ["Game Mechanics", "Smugglers"]
 -->
 
 # The Smuggler's Dens and the Smuggler's Network
