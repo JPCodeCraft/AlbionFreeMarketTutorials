@@ -30,7 +30,7 @@ It's basically the perfect place to test that expensive build you've been eyeing
 
 Finding and entering The Depths is straightforward once you know what to look for:
 
-<img width="1251" height="852" alt="Depths Entrance" src="https://github.com/user-attachments/assets/87444474-20f5-4c6d-86af-ad6669372320" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image1.png" alt="Depths Entrance" width="1251" height="852">
 
 ### **Entry Points**
 
@@ -49,13 +49,13 @@ Look for **Antiquarian's Dens** - glowing red cracks in walls found in:
 | **Entry Cost**        | FREE (no silver required)                  |
 | **IP Requirements**   | Minimum base IP required (varies by tier)  |
 
-<img width="335" height="825" alt="Albion Depths Entry" src="https://github.com/user-attachments/assets/072ccd74-9567-4c75-98fe-5a395cb690db" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image2.png" alt="Albion Depths Entry" width="335" height="825">
 
 ## **The Three-Level Structure**
 
 Each Depths run has three distinct levels, getting harder but more rewarding as you go deeper:
 
-<img width="1142" height="882" alt="Albion Depths Map" src="https://github.com/user-attachments/assets/03f80f16-c201-49ab-8e85-7a7a95a8ed40" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image3.png" alt="Albion Depths Map" width="1142" height="882">
 
 ### **Level Breakdown**
 
@@ -95,7 +95,7 @@ When you get knocked down, you have two choices:
 1. **Wait for revival** - Keep your gear, hope your team wins
 2. **Leave The Depths** - Drop a neutral soul, keep your gear, lose everything else
 
-<img width="962" height="702" alt="Knocked down in Depths" src="https://github.com/user-attachments/assets/5d89854b-0355-48f8-aad4-a95e522e74dd" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image4.png" alt="Knocked down in Depths" width="962" height="702">
 
 
 ## **Best Team Compositions**
