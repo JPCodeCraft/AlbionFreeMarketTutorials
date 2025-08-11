@@ -16,8 +16,6 @@ The Depths dropped in June 2025 and completely changed how new players learn PvP
 
 This extraction-style dungeon has already seen over 4 million runs in just a few weeks. Why? Because it finally solves that age-old problem: how do you learn PvP without going broke?
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image1.png" alt="depths entrance" width="1200" height="600">
-
 ## **What Makes The Depths Different**
 
 The Depths use something called **"Orange PvP"** - a totally new ruleset that sits between Yellow and Red zones:
@@ -32,7 +30,7 @@ It's basically the perfect place to test that expensive build you've been eyeing
 
 Finding and entering The Depths is straightforward once you know what to look for:
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image2.png" alt="antiquarian den entrance" width="800" height="450">
+<img width="1251" height="852" alt="Depths Entrance" src="https://github.com/user-attachments/assets/87444474-20f5-4c6d-86af-ad6669372320" />
 
 ### **Entry Points**
 
@@ -51,11 +49,13 @@ Look for **Antiquarian's Dens** - glowing red cracks in walls found in:
 | **Entry Cost**        | FREE (no silver required)                  |
 | **IP Requirements**   | Minimum base IP required (varies by tier)  |
 
+<img width="335" height="825" alt="Albion Depths Entry" src="https://github.com/user-attachments/assets/072ccd74-9567-4c75-98fe-5a395cb690db" />
+
 ## **The Three-Level Structure**
 
 Each Depths run has three distinct levels, getting harder but more rewarding as you go deeper:
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image3.png" alt="depths layout map" width="1000" height="800">
+<img width="1142" height="882" alt="Albion Depths Map" src="https://github.com/user-attachments/assets/03f80f16-c201-49ab-8e85-7a7a95a8ed40" />
 
 ### **Level Breakdown**
 
@@ -82,8 +82,6 @@ Each Depths run has three distinct levels, getting harder but more rewarding as 
 
 The Soul system is unique to The Depths and adds a whole new layer of strategy:
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image4.png" alt="soul types" width="900" height="400">
-
 | **Soul Type** | **Color** | **Source**              | **Value** | **Strategy**                        |
 | ------------- | --------- | ----------------------- | --------- | ----------------------------------- |
 | **Hostile**   | Red       | Enemy players           | Highest   | Priority target for altar offerings |
@@ -97,11 +95,12 @@ When you get knocked down, you have two choices:
 1. **Wait for revival** - Keep your gear, hope your team wins
 2. **Leave The Depths** - Drop a neutral soul, keep your gear, lose everything else
 
+<img width="962" height="702" alt="Knocked down in Depths" src="https://github.com/user-attachments/assets/5d89854b-0355-48f8-aad4-a95e522e74dd" />
+
+
 ## **Best Team Compositions**
 
 ### **2v2 Setups**
-
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image5.png" alt="2v2 comp" width="600" height="400">
 
 **Meta Comp: DPS + Healer**
 
@@ -131,9 +130,10 @@ When you get knocked down, you have two choices:
 
 ## **Recommended Builds**
 
-### **Healer Builds**
+You can find [Albion Depths builds](https://albionfreemarket.com/builds/top/default/depths/default/default/default/default/default/default/default) in Albion Free Market's [Builds System](https://albionfreemarket.com/builds)
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image6.png" alt="healer build" width="400" height="550">
+
+### **Healer Builds**
 
 **Core Build:**
 
@@ -151,8 +151,6 @@ When you get knocked down, you have two choices:
 - Use Mistcaller for escapes
 
 ### **DPS Builds**
-
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image7.png" alt="dps builds" width="800" height="550">
 
 **Top Melee Options:**
 
@@ -182,8 +180,6 @@ When you get knocked down, you have two choices:
 
 ### **Exclusive Rewards**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image8.png" alt="exclusive rewards" width="1000" height="500">
-
 **Antiquarian Standing Shop:**
 
 - T5 Hellspinner Mount (starter spider)
@@ -201,8 +197,6 @@ When you get knocked down, you have two choices:
 - **Resource conservation:** Save big cooldowns for PvP
 
 ### **PvP Encounters**
-
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image9.png" alt="pvp positioning" width="900" height="600">
 
 **Early Fight Tips:**
 
@@ -246,8 +240,6 @@ When you get knocked down, you have two choices:
 5. **Inventory management** - Don't carry valuables you're not willing to lose
 
 ## **Depths vs Other Content**
-
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/depths/image10.png" alt="content comparison" width="1100" height="400">
 
 | **Content**            | **Risk** | **Reward** | **Learning Value** | **Best For**       |
 | ---------------------- | -------- | ---------- | ------------------ | ------------------ |
