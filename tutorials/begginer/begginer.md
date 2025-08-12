@@ -1,7 +1,7 @@
 <!--
 title: "Albion Online Beginner's Guide 2025"
 summary: "Complete guide for new players starting Albion Online - from first steps to making silver"
-author: "Albion Free Market"
+author: "Mustach_Man"
 createdAt: "2025-08-12"
 updatedAt: "2025-08-12"
 category: "tutorial"
@@ -34,7 +34,7 @@ The game revolves around risk vs reward. The more danger you face, the better th
 
 ### **Character Creation**
 
-<img width="1406" height="878" alt="Character Creation" src="https://github.com/user-attachments/assets/88a968b7-d8e9-4918-b508-a585702e23e2" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image1.png" alt="Character Creation" width="1406" height="878">
 
 Character creation is purely cosmetic - your appearance doesn't affect gameplay. Pick what looks cool to you. You can change your name once for free later if needed.
 
@@ -62,7 +62,7 @@ The tutorial takes about 20 minutes and teaches you:
 
 ### **Choosing Your Starting City**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image2.png" alt="Starting Cities Map" width="1142" height="882">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image2.png" alt="Starter City Selection" width="757" height="646">
 
 After the tutorial, you'll pick one of five Royal Cities as your home:
 
@@ -79,8 +79,6 @@ After the tutorial, you'll pick one of five Royal Cities as your home:
 ## **Understanding the Core Systems**
 
 ### **The Destiny Board - Your Progression Path**
-
-<img width="757" height="646" alt="Starter City Selection" src="https://github.com/user-attachments/assets/85089c2f-3693-4b38-b7ac-bd7b4f97203a" />
 
 The Destiny Board (press B) is your skill tree. Unlike traditional MMOs, you don't gain levels - you unlock abilities to use better gear. Here's how it works:
 
@@ -122,7 +120,7 @@ Your strength isn't measured in levels but in Item Power (IP). This number combi
 
 ## **Zone Types - Where It's Safe (And Where It's Not)**
 
-<img width="1423" height="891" alt="Zone Types" src="https://github.com/user-attachments/assets/db1cad17-6135-436f-9397-89901de1b05d" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image3.png" alt="Zone Types" width="1423" height="891">
 
 Understanding zones is CRUCIAL for survival. Each zone type has different rules:
 
@@ -171,7 +169,7 @@ The Depths are Albion's newest PvP training ground, introduced in June 2025. Thi
 
 ## **Making Your First Million Silver**
 
-<img width="676" height="620" alt="Caerleon Marketplace" src="https://github.com/user-attachments/assets/22408511-31ab-410b-a187-ad8e60bb30fe" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image4.png" alt="Caerleon Marketplace" width="676" height="620">
 
 Silver is everything in Albion. Here are the best methods for beginners in 2025:
 
@@ -420,7 +418,7 @@ This means you're never truly "stuck" anywhere.
 
 ### **What to Do With Premium**
 
-<img width="734" height="553" alt="Premium" src="https://github.com/user-attachments/assets/ba90f7ba-a261-4652-880e-3ca60ee48967" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image5.png" alt="Premium" width="734" height="553">
 
 **Is Premium Worth It in 2025?**
 
