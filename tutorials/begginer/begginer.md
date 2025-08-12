@@ -34,7 +34,7 @@ The game revolves around risk vs reward. The more danger you face, the better th
 
 ### **Character Creation**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image1.png" alt="Character Creation Screen" width="1251" height="852">
+<img width="1406" height="878" alt="Character Creation" src="https://github.com/user-attachments/assets/88a968b7-d8e9-4918-b508-a585702e23e2" />
 
 Character creation is purely cosmetic - your appearance doesn't affect gameplay. Pick what looks cool to you. You can change your name once for free later if needed.
 
@@ -80,7 +80,7 @@ After the tutorial, you'll pick one of five Royal Cities as your home:
 
 ### **The Destiny Board - Your Progression Path**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image3.png" alt="Destiny Board Overview" width="1251" height="852">
+<img width="757" height="646" alt="Starter City Selection" src="https://github.com/user-attachments/assets/85089c2f-3693-4b38-b7ac-bd7b4f97203a" />
 
 The Destiny Board (press B) is your skill tree. Unlike traditional MMOs, you don't gain levels - you unlock abilities to use better gear. Here's how it works:
 
@@ -101,7 +101,7 @@ The Destiny Board (press B) is your skill tree. Unlike traditional MMOs, you don
 
 1. Focus on reaching T4 in one weapon line first
 2. Don't spread your fame too thin early on
-3. Use Learning Points (from premium) to skip the last 80% of any node
+3. Use Learning Points (from premium) to skip the last 80% of any node, but it's wiser to save it for Gathering Skills
 4. Specialization (the outer ring) increases your power with specific items
 
 ### **Item Power (IP) - Your True Strength**
@@ -122,7 +122,7 @@ Your strength isn't measured in levels but in Item Power (IP). This number combi
 
 ## **Zone Types - Where It's Safe (And Where It's Not)**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image4.png" alt="Zone Types Explained" width="1142" height="882">
+<img width="1423" height="891" alt="Zone Types" src="https://github.com/user-attachments/assets/db1cad17-6135-436f-9397-89901de1b05d" />
 
 Understanding zones is CRUCIAL for survival. Each zone type has different rules:
 
@@ -171,7 +171,7 @@ The Depths are Albion's newest PvP training ground, introduced in June 2025. Thi
 
 ## **Making Your First Million Silver**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image5.png" alt="Silver Making Methods" width="1251" height="852">
+<img width="676" height="620" alt="Caerleon Marketplace" src="https://github.com/user-attachments/assets/22408511-31ab-410b-a187-ad8e60bb30fe" />
 
 Silver is everything in Albion. Here are the best methods for beginners in 2025:
 
@@ -181,8 +181,8 @@ Silver is everything in Albion. Here are the best methods for beginners in 2025:
 
 **Best Resources for Beginners:**
 
-- **Hide (Leather):** T4 sells for 45-50 silver each
-- **Wood:** T4 sells for 35-40 silver each
+- **Hide (Leather):** T4 sells for 45-55 silver each
+- **Logs:** T4 sells for 90-100 silver each
 - **Stone:** Lower value but very safe to gather
 
 **Gathering Strategy:**
@@ -216,8 +216,6 @@ Silver is everything in Albion. Here are the best methods for beginners in 2025:
 
 ### **Method 3: Faction Warfare (PvP Lite for Beginners)**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image6.png" alt="Faction Warfare" width="962" height="702">
-
 **Why It's Perfect for New Players:**
 
 - No gear requirements
@@ -244,13 +242,7 @@ Silver is everything in Albion. Here are the best methods for beginners in 2025:
 3. Transport to another city (use safe routes)
 4. Sell for profit
 
-**Best Items to Flip:**
-
-- T4.1 gear (high volume, consistent profit)
-- City resources (each city produces unique materials)
-- Faction hearts and capes
-
-**Income Potential:** 100k-1M+ silver per hour (depends on capital and knowledge)
+**Income Potential:** 500k-10M+ silver per hour (depends on capital and knowledge)
 
 ## **Smart Tips From Veteran Players (The Stuff Guides Usually Don't Tell You)**
 
@@ -263,7 +255,6 @@ Here's why experienced players swear by this:
 - Combat fame is easy to get (just kill mobs)
 - Gathering fame takes FOREVER (especially T5→T6)
 - One T6 gathering node can earn you 500k-1M silver per hour
-- Combat specs give you maybe 50 more IP, gathering specs give you double resources
 
 **The Smart LP Strategy:**
 
@@ -429,7 +420,7 @@ This means you're never truly "stuck" anywhere.
 
 ### **What to Do With Premium**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/beginnerguide2025/image7.png" alt="Premium Benefits" width="1251" height="852">
+<img width="734" height="553" alt="Premium" src="https://github.com/user-attachments/assets/ba90f7ba-a261-4652-880e-3ca60ee48967" />
 
 **Is Premium Worth It in 2025?**
 
@@ -567,14 +558,14 @@ For escaping gankers and light PvP:
 
 - Looks like amazing prices
 - BUT: Getting there safely costs more than the profit
-- Only worth it with transport mammoth and a scout (not for beginners)
+- Sometimes it's just better to set sell orders in Royal Cities and wait for buyers
 
 **Focus Is Literally Money:**
 
-- 10,000 focus = 500k-1M silver when used right
+- 10,000 focus = 500k-3M silver when used right
 - Never let it cap at 30,000 (wasted money)
 - Even if you don't craft, use it on farming/herb gardens
-- Rough math: 1 focus point = 50-100 silver
+- Rough math: 1 focus point = 50-300 silver
 
 ### **PvP Realities Nobody Mentions**
 
@@ -590,57 +581,6 @@ For escaping gankers and light PvP:
 - Don't fight at the entrance (they have advantage)
 - Run deeper, fight at choke points
 - Or just leave - your time is worth more than pride
-
-**Red Zone Is Safer Than Yellow:**
-
-- Yellow zone: Gankers have nothing to lose
-- Red zone: Gankers lose reputation for killing you
-- Most reds are empty because gankers are in black zones
-
-### **Quality of Life Hacks**
-
-**The Auto-Respec Setting:**
-
-- Turn OFF auto-respec in settings
-- It wastes silver early game
-- Only respec at 100 spec when fame converts to silver
-
-**The Loading Screen Tell:**
-
-- Long loading screen entering a zone = lots of players
-- Quick load = empty zone
-- Use this to avoid gankers
-
-**The Repair Station Scam:**
-
-- Player repair stations in cities often charge 500% markup
-- ALWAYS use the NPC repair station
-- Check the repair cost before confirming
-
-**Buy Orders Are Free Storage:**
-
-- Place buy orders for 1 silver on expensive items
-- They last 7 days
-- Free storage that doesn't count against bank limit
-- Cancel when you need the space
-
-### **The Progression Shortcuts**
-
-**Skip These Noob Traps:**
-
-- Laborers (not worth it until T6+)
-- Farming below T6 (loses money)
-- Refining without focus (you'll go broke)
-- Arena after first daily bonus (zero fame)
-- Expeditions after T4 (terrible fame/hour)
-
-**Rush These Instead:**
-
-- One gathering skill to T6
-- One weapon line to T4
-- Personal island for passive income
-- Faction standing for easy rewards
-- Guild membership for everything else
 
 ### **Final Pro Tip: The Albion Mindset**
 
@@ -659,7 +599,6 @@ The moment you stop fearing death is the moment you start really playing Albion 
 - [ ] Complete tutorial for free premium
 - [ ] Reach T3 in one weapon type
 - [ ] Gather 100k silver
-- [ ] Join global chat and ask questions
 - [ ] Set home city and organize bank
 
 ### **Day 3-4: Exploration**
@@ -689,14 +628,6 @@ Once you're comfortable with basics, explore:
 - **Guild vs Guild:** Large scale territory warfare
 - **Crystal League:** Competitive 5v5 matches
 - **The Depths:** New PvP training ground with gear protection
-
-## **Useful Resources and Tools**
-
-### **Essential Websites**
-
-- **[Albion Free Market](https://albionfreemarket.com)** - Live market prices, build calculator, flip finder
-- **[Murder Ledger](https://murderledger.com)** - PvP kill board and statistics
-- **[Albion Online 2D](https://www.albiononline2d.com)** - Interactive map with resources
 
 ### **Getting Help**
 
@@ -739,9 +670,3 @@ Albion Online is about the journey, not the destination. There's no level cap to
 - The best ship is friendship (seriously, make friends)
 - Start small, dream big
 - If you're not having fun, try something different
-
-Welcome to Albion, adventurer. Your legend starts now!
-
----
-
-_This guide is maintained by the Albion Free Market community. Last updated: October 2025. Found an error or have suggestions? Contact us through the website._
