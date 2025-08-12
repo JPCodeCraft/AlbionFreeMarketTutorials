@@ -244,6 +244,6 @@ These figures reflect the state of the flipper as of **February 2025**, highligh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RcZQ1C_9HM?si=s3T1DHE0ZFyuO7cj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Begginer Video by Jack Voids
+### Beginner Video by Jack Voids
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdYctYfpP-o?si=MZMt8B_ynC2ou6G-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ author: "OSTIII"
 createdAt: "2024-12-28"
 updatedAt: "2024-12-28"
 category: "tutorial"
-tags: ["Hellgates", "PvP", "Begginer"]
+tags: ["Hellgates", "PvP", "Beginner"]
 -->
 
 # **Hellgates Guide**
