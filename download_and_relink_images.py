@@ -4,6 +4,7 @@ import requests
 import glob
 from PIL import Image
 import tempfile
+import sys
 
 def get_image_dimensions(image_path):
     """Get width and height of an image."""
@@ -197,25 +198,34 @@ def process_markdown_file(md_path):
     print(f"Completed processing: {md_path}")
 
 def main():
-    user_input = input("Enter the path to the markdown file or 'all' to process all markdown files: ").strip()
-    
+    # Prefer CLI arg if provided; fall back to interactive prompt.
+    cli_mode = len(sys.argv) > 1
+    if cli_mode:
+        user_input = sys.argv[1].strip()
+    else:
+        try:
+            user_input = input("Enter the path to the markdown file or 'all' to process all markdown files: ").strip()
+        except EOFError:
+            user_input = 'all'
+
     if user_input.lower() == 'all':
         # Process all markdown files
         repo_root = os.path.abspath(os.getcwd())
         md_files = find_all_md_files(repo_root)
-        
+
         if not md_files:
             print("No markdown files found.")
             return
-        
-        print(f"Found {len(md_files)} markdown files:")
-        for md_file in md_files:
-            print(f"  {md_file}")
-        
-        confirm = input(f"\nDo you want to process all {len(md_files)} files? (y/n): ").strip().lower()
-        if confirm != 'y':
-            print("Operation cancelled.")
-            return
+
+        if not cli_mode:
+            print(f"Found {len(md_files)} markdown files:")
+            for md_file in md_files:
+                print(f"  {md_file}")
+
+            confirm = input(f"\nDo you want to process all {len(md_files)} files? (y/n): ").strip().lower()
+            if confirm != 'y':
+                print("Operation cancelled.")
+                return
         
         for md_file in md_files:
             try:
