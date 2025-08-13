@@ -89,7 +89,7 @@ tags: ["Flipper", "Black Market", "Economy"]
   - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
   - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be checked for missing materials.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image7.png" alt="Albion Online Flipper Filters" width="188" height="166">
+<img width="1103" height="274" alt="Albion Online Flipper Filters" src="https://github.com/user-attachments/assets/e377ac56-e515-4bab-aa0c-33f7b5db9ba5" />
 
 ## UPGRADE FLIPS
 
