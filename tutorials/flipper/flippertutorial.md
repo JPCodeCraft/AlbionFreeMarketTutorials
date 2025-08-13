@@ -3,7 +3,7 @@ title: "Albion Online Black Market Flipper Tutorial"
 summary: "Learn how to profit in Albion Online by flipping items from the regular markets to the black market."
 author: "Albion Free Market"
 createdAt: "2024-07-19"
-updatedAt: "2025-02-26"
+updatedAt: "2025-08-13"
 category: "tutorial"
 tags: ["Flipper", "Black Market", "Economy"]
 -->
@@ -57,11 +57,15 @@ tags: ["Flipper", "Black Market", "Economy"]
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped items on your server, which might bring the availability of flips down. On the other hand, if no one has flipped for some hours, it's likely that you'll find good flips.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image1.png" alt="Albion Online Flipper Chart" width="1728" height="239">
+<img width="1532" height="279" alt="Albion Online Flipper Chart" src="https://github.com/user-attachments/assets/e558051d-278d-48ef-a3e7-bd1b88e8d1ea" />
 
 - There's also information about the top flips for the server you're at and the current flips' status for each server.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image2.png" alt="Albion Online Flipper Stats" width="1741" height="499">
+<img width="733" height="343" alt="Albion Online Flipper Stats" src="https://github.com/user-attachments/assets/82811bfa-1592-402e-b586-2a5af7cf6956" />
+
+- Finally, there's information about your own **private flips** data. Read more about private flips below.
+
+<img width="729" height="212" alt="image" src="https://github.com/user-attachments/assets/33510015-f77b-4acd-92db-99e839ddf843" />
 
 ## FILTERING FLIPS
 
@@ -143,8 +147,10 @@ tags: ["Flipper", "Black Market", "Economy"]
 ### What are Private Flips?
 
 - The Private Flips mode is a feature that provides you with personalized market flipping opportunities based solely on your own market data.
-- When you set "Only upload to AFM Flipper" in the AFM data client and don't check "Contribute to public flips", your market orders will only be used to find flips for you.
+- When you set "Private Flips Mode" in the AFM data client and don't check "Share with Other AFM Users", your market orders will only be used to find flips for you.
 - This provides a more unique flipping experience, as the opportunities you find won’t be shared with other AFM users. More importantly, it helps prevent “fake data” from leading to misleading flipping possibilities.
+- "Share with Other AFM Users" makes the order be used by you and any other AFM Users. But those orders won't be uploaded to AODP, so it's only visible to AFM users.
+- If you don't set "Private Flips Mode", then the orders are uploaded to AODP only and users outside of AFM can also see them. They are still used by AFM to find "Public Flips".
 
 ### How to Enable Private Flips
 
@@ -152,11 +158,13 @@ tags: ["Flipper", "Black Market", "Economy"]
    - Select "Only upload to AFM Flipper"
    - Make sure "Contribute to public flips" is unchecked
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image5.png" alt="Private Flips Settings" width="186" height="110">
+<img width="188" height="166" alt="Private Flips Settings" src="https://github.com/user-attachments/assets/c405cd1e-8a77-4ca2-a36b-3286bf56a632" />
+
 
 2. To access your private flips, click the "Private Flips" button in the website Flipper interface.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image6.png" alt="Private Flips Checkbox" width="488" height="97">
+<img width="596" height="76" alt="Private Flips Checkbox" src="https://github.com/user-attachments/assets/f305c099-89c9-4b09-89d5-91a47c15e63e" />
+
 
 ### Benefits of Private Flips
 
@@ -165,11 +173,12 @@ tags: ["Flipper", "Black Market", "Economy"]
 
 ### Considerations for Private Mode
 
-- By not contributing to public flips, you'll only see flips based on market data you personally view.
+- By using private flips mode, you'll only see flips based on market data you personally view.
 - This means you'll need to be more active in browsing the market to discover opportunities.
 - Consider switching between private and public modes to check what's available.
 - Whenever someone consumes a flip, whether in private or public mode, all flips for all users that involve any of the market orders from the consumed flip will also be marked as consumed.
 - Private mode will always be OFF by default, since it's important to contribute to AODP's public data, which power AFM's other systems, like the price checker and the crafting calculator.
+- Even on Private Flips Mode, upgrades materials (like runes, souls and relics) will still be uploaded to public AODP data. This is to make sure you get up to date prices for your upgrade flips.
 - Private mode has no effect on historical market or gold prices upload, which are always uploaded to AODP database.
 
 ### Checking Your Private Flips
