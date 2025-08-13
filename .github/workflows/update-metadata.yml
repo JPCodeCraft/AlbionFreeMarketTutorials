@@ -40,15 +40,19 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code metadata.json || echo "has_changes=true" >> $GITHUB_OUTPUT
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push if changed
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config --local user.email "albion@gmail.com"
           git config --local user.name "Albion Free Market"
-          git add metadata.json
-          git commit -m "Update metadata.json"
+          git add -A
+          git commit -m "chore: update repository assets"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
