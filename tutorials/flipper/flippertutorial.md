@@ -57,21 +57,21 @@ tags: ["Flipper", "Black Market", "Economy"]
 - The flipper page shows a chart with the total value of consumed flips per hour per server. The highlighted area of the chart represents weekends.
 - You can use the chart to see if someone recently flipped items on your server, which might bring the availability of flips down. On the other hand, if no one has flipped for some hours, it's likely that you'll find good flips.
 
-<img width="1532" height="279" alt="Albion Online Flipper Chart" src="https://github.com/user-attachments/assets/e558051d-278d-48ef-a3e7-bd1b88e8d1ea" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image1.png" alt="Albion Online Flipper Chart" width="1532" height="279">
 
 - There's also information about the top flips for the server you're at and the current flips' status for each server.
 
-<img width="733" height="343" alt="Albion Online Flipper Stats" src="https://github.com/user-attachments/assets/82811bfa-1592-402e-b586-2a5af7cf6956" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image2.png" alt="Albion Online Flipper Stats" width="733" height="343">
 
 - Finally, there's information about your own **private flips** data. Read more about private flips below.
 
-<img width="729" height="212" alt="image" src="https://github.com/user-attachments/assets/33510015-f77b-4acd-92db-99e839ddf843" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image5.png" alt="image" width="1204" height="164">
 
 ## FILTERING FLIPS
 
 - First, make sure you have the right server set, choosing it on the top right settings button.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image3.png" alt="Albion Online Flipper Server Selection" width="372" height="260">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image5.png" alt="Albion Online Flipper Server Selection" width="1204" height="164">
 
 - These are the filters available:
   - Buy Location: select one or more places where you are buying the items to flip.
@@ -88,7 +88,7 @@ tags: ["Flipper", "Black Market", "Economy"]
   - Hide Duped: if you select this, no flips where the buy or the sell order is used more than once will be shown. By default, the system shows the highest profit one.
   - Hide Missing Upgrade Mats: if you select this, the system will not show flips where the needed amount of upgrade mats is higher than the Available Amount you set. If you leave the Available Amount field empty, that item will not be checked for missing materials.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image4.png" alt="Albion Online Flipper Filters" width="1204" height="164">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image5.png" alt="Albion Online Flipper Filters" width="1204" height="164">
 
 ## UPGRADE FLIPS
 
@@ -158,12 +158,12 @@ tags: ["Flipper", "Black Market", "Economy"]
    - Select "Only upload to AFM Flipper"
    - Make sure "Contribute to public flips" is unchecked
 
-<img width="188" height="166" alt="Private Flips Settings" src="https://github.com/user-attachments/assets/c405cd1e-8a77-4ca2-a36b-3286bf56a632" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image6.png" alt="Private Flips Settings" width="188" height="166">
 
 
 2. To access your private flips, click the "Private Flips" button in the website Flipper interface.
 
-<img width="596" height="76" alt="Private Flips Checkbox" src="https://github.com/user-attachments/assets/f305c099-89c9-4b09-89d5-91a47c15e63e" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image8.png" alt="Private Flips Checkbox" width="1720" height="482">
 
 
 ### Benefits of Private Flips
@@ -207,7 +207,7 @@ Private flips represent a significant enhancement to the Albion Free Market flip
   - Set up a sell order in the Black Market and wait for it to sell.
   - Keep all failed flips in a bank tab and periodically scan the Black Market. Check the "Your Flips" page while filtering to show only failed flips. This will allow you to see if there are any buy orders that will be profitable to sell to.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image7.png" alt="Albion Online Failed Flips" width="1720" height="482">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image8.png" alt="Albion Online Failed Flips" width="1720" height="482">
 
 ## Flipper Impact Report (as of February 2025)
 
