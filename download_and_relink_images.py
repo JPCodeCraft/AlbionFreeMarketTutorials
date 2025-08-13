@@ -9,6 +9,20 @@ import sys
 def get_image_dimensions(image_path):
     """Get width and height of an image."""
     try:
+        ext = os.path.splitext(image_path)[1].lower()
+        if ext == ".svg":
+            with open(image_path, "rb") as f:
+                svg = ET.fromstring(f.read())
+            w = svg.get("width")
+            h = svg.get("height")
+            viewbox = svg.get("viewBox")
+            if (not w or not h) and viewbox:
+                _, _, vw, vh = map(float, viewbox.strip().split())
+                return int(vw), int(vh)
+            if w and h:
+                return int(float(w)), int(float(h))
+            return None, None
+
         with Image.open(image_path) as img:
             return img.size  # returns (width, height)
     except Exception as e:
