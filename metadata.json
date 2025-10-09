@@ -161,6 +161,19 @@
         "id": "transporting-guide"
     },
     {
+        "title": "How to Subscribe to Albion Free Market via AllShop",
+        "summary": "Step-by-step guide to purchasing an Albion Free Market subscription through AllShop when Stripe or Patreon are not an option.",
+        "author": "Albion Free Market",
+        "createdAt": "2025-10-03",
+        "updatedAt": "2025-10-03",
+        "category": "tutorial",
+        "tags": [
+            "Subscription"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-subscription/subscribe-with-allshop.md",
+        "id": "how-to-subscribe-to-albion-free-market-via-allshop"
+    },
+    {
         "title": "Albion Online Beginner's Guide 2025",
         "summary": "Complete guide for new players starting Albion Online - from first steps to making silver",
         "author": "Mustach_Man",
