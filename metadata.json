@@ -188,6 +188,19 @@
         "id": "albion-online-beginner-s-guide-2025"
     },
     {
+        "title": "Albion Free Market Data Client Tutorial",
+        "summary": "Install and master the Albion Free Market Data Client to upload market data, track trades, and stay on top of your Albion prices.",
+        "author": "Albion Free Market",
+        "createdAt": "2025-10-09",
+        "updatedAt": "2025-10-09",
+        "category": "tutorial",
+        "tags": [
+            "Data Client"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/afm-data-client.md",
+        "id": "albion-free-market-data-client-tutorial"
+    },
+    {
         "title": "Albion Online: Best Mounts for PvP, PvE, and Gathering (2025)",
         "summary": "A practical overview of the best mounts in Albion Online for PvP, PvE, and gathering, with real use cases, pros and cons, and personal recommendations.",
         "author": "Akaashi",
