@@ -19,6 +19,8 @@ tags: ["Data Client"]
 - Can optionally keep uploads private for your own market flips or share everything back with the AFM community.
 - Runs quietly in the system tray, auto-starts with your PC, and updates itself, so market coverage keeps flowing even if you forget it is there.
 
+<img width="1063" height="686" alt="image" src="https://github.com/user-attachments/assets/fb3bc5cf-c216-4352-839f-98cd6a0fee14" />
+
 ## Key Features
 
 - 🧰 Collects buy orders, sell offers, price histories, gold prices, loadout quick-buy scans, and more.
@@ -37,9 +39,15 @@ tags: ["Data Client"]
 3. The client launches minimized in the system tray after setup. Click the AFM icon to open the interface.
 4. Automatic updates are enabled, so future releases install silently.
 
+<img width="1170" height="815" alt="image" src="https://github.com/user-attachments/assets/5867241f-ede1-4b53-960e-a6fe16d15cf8" />
+
+<img width="400" height="158" alt="image" src="https://github.com/user-attachments/assets/a25d4001-1a5c-4a7f-b7fd-55986986536f" />
+
 **Uninstalling on Windows**
 
 - Use _Add or Remove Programs_ (or _Programs and Features_) to remove **AFM Data Client**.
+
+<img width="905" height="184" alt="image" src="https://github.com/user-attachments/assets/34f41880-4057-4c3b-a7a5-936db727c1e7" />
 
 ### Linux
 
@@ -94,12 +102,16 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
   - `Share with Other AFM Users` – re-enable community sharing while staying in private mode.
 - Use **Sign Out** at any time. The app continues uploading to AODP when no AFM options are enabled.
 
+<img width="188" height="161" alt="image" src="https://github.com/user-attachments/assets/e869b8eb-fb3c-4a48-a783-2be3c9186922" />
+
 ## Interface Walkthrough
 
 ### Main View Sidebar
 
 - Navigation buttons switch between Dashboard, Trades, Mails, Settings, and Logs.
 - The bottom card hosts the authentication controls described above. If Npcap is missing, the Dashboard button automatically routes you to the PCap view.
+
+<img width="202" height="613" alt="image" src="https://github.com/user-attachments/assets/e5f004d1-e3a3-451d-b357-75748e7de27b" />
 
 ### Dashboard
 
@@ -111,16 +123,22 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
   - _Encrypted market orders_ – warns when uploads are blocked by market encryption (see troubleshooting).
 - **Upload Counters** – cumulative totals for offers, requests, daily/weekly/monthly histories, and gold history pushes.
 
+<img width="795" height="431" alt="image" src="https://github.com/user-attachments/assets/b0032a62-a8c3-43c8-8d72-5295241d5222" />
+
 ### Trades
 
 - Clicking **Load** fetches your recorded instant and order trades via `TradeService`.
 - Use the search box to filter by item name (ignores spacing) and dropdowns to narrow by server, trade type, operation (bought vs sold), and city.
 - The table shows timestamp, operation, quality, item, location, amount, unit silver, and total silver. The view auto-refreshes when new trades arrive.
 
+<img width="1407" height="577" alt="image" src="https://github.com/user-attachments/assets/d1d14f12-27a3-4000-ac5a-27a129fe73fa" />
+
 ### Mails
 
 - Loads your market mails (fulfillments) collected in-game. Filters match those in Trades but replace trade type with auction type (Bought/Sold).
 - The grid lists received time, operation, item, location, partial amount, full order size, unit silver, and total silver—ideal for cross-checking sales.
+
+<img width="1270" height="577" alt="image" src="https://github.com/user-attachments/assets/d48392c2-da75-44cb-8a80-0f1a43ef3cad" />
 
 ### Settings
 
@@ -129,10 +147,14 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
 - Additional sliders let you define the duplicate hash cache size, logs kept in memory, mails per page, and trades per page.
 - **Log verbosity** adjusts how much gets written to the in-app logs and tray notifications.
 
+<img width="805" height="833" alt="image" src="https://github.com/user-attachments/assets/87d0df19-870c-46bd-bd3d-ddc03683db20" />
+
 ### Logs
 
 - Streams Serilog events captured by the client. Entries include timestamp, level, and formatted message (hyperlinks are styled as clickable when present).
 - The list respects the “Maximum log entries” limit from Settings so the window stays responsive.
+
+<img width="1276" height="707" alt="image" src="https://github.com/user-attachments/assets/3f4c0968-462f-4448-b19e-8b93f99a0a48" />
 
 ### PCap View
 
