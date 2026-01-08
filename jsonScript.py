@@ -36,5 +36,8 @@ for root, dirs, files in os.walk(root_dir):
                 metadata['id'] = re.sub(r'-+', '-', re.sub(r'[^a-z0-9\-]', '-', metadata['title'].lower())).strip('-')
                 all_metadata.append(metadata)
 
+# Sort by createdAt (ascending order)
+all_metadata.sort(key=lambda x: x.get('createdAt', ''))
+
 with open('metadata.json', 'w', encoding='utf-8') as json_file:
     json.dump(all_metadata, json_file, indent=4, ensure_ascii=False)

@@ -3,7 +3,7 @@ title: "Transporting Guide"
 summary: "A comprehensive guide to becoming a successful transporter in Albion Online"
 author: "OSTIII"
 createdAt: "2024-12-31"
-updatedAt: "2024-12-31"
+updatedAt: "2026-01-05"
 category: "tutorial"
 tags: [ "Transport", "Beginner"]
 -->
@@ -38,6 +38,8 @@ When transporting around royal cities, you don't need to overthink it. To maximi
 - **Heavy Transport**: Choose a bear or ox.
 
 🔍 **Note**: Shoes can also increase your carry weight (more IP means more carry weight).
+
+For a full list and comparison of all mounts, including prices and all their stats and skills, check out the [Albion Mounts page](https://albionfreemarket.com/mounts).
 
 ### 🌀 Using Avalonian Roads
 

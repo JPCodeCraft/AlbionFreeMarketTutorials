@@ -3,7 +3,7 @@ title: "Albion Online: Best Mounts for PvP, PvE, and Gathering (2025)"
 summary: "A practical overview of the best mounts in Albion Online for PvP, PvE, and gathering, with real use cases, pros and cons, and personal recommendations."
 author: "Akaashi"
 createdAt: "2025-07-01"
-updatedAt: "2025-07-01"
+updatedAt: "2026-01-06"
 category: "tutorial"
 tags: ["Mounts"]
 -->
@@ -15,6 +15,10 @@ tags: ["Mounts"]
 Hey guys, in this article I will explain how in Albion Online, your mount isn’t just for getting from point A to B — it’s your escape plan, your chase advantage, and in some cases, your mobile tank. Let's say you're diving into Corrupted Dungeons, running high-risk gathering routes, or charging into ZvZ battles, choosing the right mount can make the difference between profit and pain. Here, I'll walk through the best mounts for PvP, PvE, and gathering — with real use cases. not just nerdy stats talk.
 
 I’ve tried dozens of mounts across black zones, corrupted dungeons, faction wars, and gathering runs. Some were fast, some were fat, and a few made me wish I’d stayed in the city. So in this post, I want to share what actually works
+
+## All Albion Online Mounts
+
+Want to compare all the mounts in Albion, with current prices and detailed information? Swing by the [Albion Mounts page](https://albionfreemarket.com/mounts).
 
 ## Best Mounts for PvP
 

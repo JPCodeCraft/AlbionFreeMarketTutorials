@@ -3,7 +3,7 @@ title: "Albion Online Mount Types Explained (2025 Guide)"
 summary: "An up-to-date breakdown of Albion Online mount families, their strengths, and where each shines in the current game."
 author: "Albion Free Market"
 createdAt: "2025-10-02"
-updatedAt: "2025-10-02"
+updatedAt: "2026-01-07"
 category: "article"
 tags: ["Mounts", "Guides", "Transportation"]
 -->
@@ -21,6 +21,10 @@ Every mount sits inside a broader family that determines its base movement speed
 3. **Am I risking full-loot content where the mount's price matters?**
 
 With those questions in mind, let's look at the major categories and standout choices in each.
+
+## List of all Albion Mounts
+
+For the full list of all Albion mounts, including current prices and detailed information, check out the [Albion Mounts page](https://albionfreemarket.com/mounts).
 
 ## Standard Riding Mounts – Everyday Mobility
 
