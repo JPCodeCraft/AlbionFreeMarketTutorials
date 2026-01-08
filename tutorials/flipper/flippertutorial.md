@@ -79,8 +79,8 @@ tags: ["Flipper", "Black Market", "Economy"]
   - Sell Location: select one or more places where you are selling the items. Usually, you set this to Black Market.
   - Tiers: filter the flips by the item's tier. Can select multiple.
   - Minimum Profit (premium): the system will only show flips above the minimum value set here.
-  - Max Buy Age (minutes): the system will only show flips where the sell order price (the item you buy) is no older than the value set here. Mas is 60 minutes, after that the systems ignores the flip.
-  - Max Sell Age (minutes): the system will only show flips where the buy order price (where you sell the item) is no older than the value set here. Max is 30 minutes, after that the system ignores the flip.
+  - Max Buy Age (minutes): the system will only show flips where the sell order price (the item you buy) is no older than the value set here. Mas is 180 minutes, after that the systems ignores the flip.
+  - Max Sell Age (minutes): the system will only show flips where the buy order price (where you sell the item) is no older than the value set here. Max is 45 minutes, after that the system ignores the flip.
   - Upgrade From's: if the flip is an upgrade, only show flips where it upgrades from one of the selected enchantments.
   - Upgrade To's: if the flip is an upgrade, only show flips where it upgrades to one of the selected enchantments.
   - Max Rune Count: if the flip is an upgrade, only show flips where all the upgrade requirements (runes) amounts are bellow the max limit set. Useful if you have a limited amount of runes and want to focus on maximizing their usage.
