@@ -14,7 +14,7 @@ tags: ["Subscription"]
 
 ## WHY CHOOSE EZARENA?
 
-- [EZARENA](https://www.ezarena.com/) is a third-party marketplace that accepts additional payment methods (including PayPal and regional options) that Stripe may not cover.
+- [EZARENA](https://www.ezarena.com/?ref=e1upcHF8oUB) is a third-party marketplace that accepts additional payment methods (including PayPal and regional options) that Stripe may not cover.
 - AFM treats EZARENA purchases as **manual** subscriptions. Once your order is verified, time is added to your account by hand, so expect a small delay.
 - As noted on [Support Us](https://albionfreemarket.com/support-us), EZARENA is a fallback, not the preferred checkout. Use Stripe or Patreon whenever possible for instant activation and automated renewals.
 
@@ -27,7 +27,7 @@ tags: ["Subscription"]
 ## STEP-BY-STEP: BUYING TIME ON EZARENA
 
 1. **Open the AFM offers page**
-   - Go directly to the Albion Free Market store on EZARENA: [https://www.ezarena.com/seller/Albion-Free-Market/offers/](https://www.ezarena.com/seller/Albion-Free-Market/offers/).
+   - Go directly to the [Albion Free Market store on EZARENA](https://www.ezarena.com/seller/Albion%20Free%20Market/offers/?ref=e1upcHF8oUB).
    - Verify the storefront badge and that the seller name is exactly _Albion Free Market_ before proceeding.
 2. **Pick the package you need**
    - Offers usually mirror Stripe plans (e.g., monthly Masterpiece access or multi-month bundles). Read the duration description carefully because refunds are **not** available.
