@@ -84,13 +84,13 @@ Below is an example set for any fast mount—in this scenario, a **husky**.
 
 Update: a variant of this build is available [here](https://albionfreemarket.com/builds/details/68972ffa2529f400acaaff91), as shown below. It uses Armored Horse for the extra armor.
 
-<img width="1000" height="1968" alt="image" src="https://github.com/user-attachments/assets/65026d5f-d0c4-4309-a853-616804eef4b9" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.png" alt="image" width="280" height="321">
 
 #### 🐻 Transport Mount Build Example
 
 Below is an example set for any transport mount—in this scenario, an **elite bear**.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image2.png" alt="build2" width="280" height="321">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.png" alt="build2" width="280" height="321">
 
 - Mount: Elite Bear or Elite Bighorn Ram.
   - **Why Bighorn Ram?** 🐏 Its ability is very good and overall gives a higher chance of escaping, at the cost of HP and carry weight.
@@ -105,7 +105,7 @@ Below is an example set for any transport mount—in this scenario, an **elite b
 
 Update: this build can be seen [here](https://albionfreemarket.com/builds/details/696fe89e107616fe4e9f5711) and below:
 
-<img width="1000" height="1846" alt="image" src="https://github.com/user-attachments/assets/a8a4fa26-3d42-4b3a-9397-0b03e8a2b156" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image4.png" alt="image" width="1000" height="1846">
 
 #### Transporting Naked or Undercover
 
@@ -133,7 +133,7 @@ If you begin entering the Mist before the enemy dismounts, they won't be able to
 
 Update: while you're mounted, you won't activate the wisp. This was a change added to reduce the usage of this technique.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.gif" alt="Mist" width="300" height="225">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image5.gif" alt="Mist" width="300" height="225">
 
 ### 🧠 Tips
 
