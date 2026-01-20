@@ -12,7 +12,7 @@ tags: ["Mounts", "Guides", "Transport"]
 
 If your goal is to stay mounted under pressure, you want raw HP and strong resist stats. This list ranks mounts by a simple tankiness score.
 
-PLACE IMAGE HERE
+<img width="700" height="494" alt="image" src="https://github.com/user-attachments/assets/2cf4ff23-1954-4ee0-8ed1-08f5bc80e827" />
 
 For the full mount list (prices, spells, and details), see: https://albionfreemarket.com/mounts
 
