@@ -23,23 +23,22 @@ Score formula:
 `Tankiness Score = (HP * 0.60) + ((Armor + Magic Res + CC Res) * 0.40)`
 
 Notes:
-- This ranking only includes mounts where **HP**, **Armor**, **Magic Res**, and **CC Res** are present in the data.
 - Higher score means the mount is harder to dismount and generally survives longer while you try to escape.
 
 ## Top 10 Most Tanky Mounts
 
-| Rank | Mount | Tankiness Score | HP | Armor | Magic Res | CC Res |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Elder's Command Mammoth [8.1] | 24,636.0 | 40,244 | 415 | 415 | 394 |
-| 2 | Crystal Behemoth [8.0] | 8,844.0 | 14,214 | 194 | 332 | 263 |
-| 3 | Crystal Phalanx Beetle [8.0] | 8,603.6 | 13,668 | 305 | 360 | 342 |
-| 4 | Crystal Roving Bastion [8.0] | 8,486.0 | 13,782 | 138 | 194 | 210 |
-| 5 | Crystal Colossus Beetle [8.0] | 8,255.2 | 13,030 | 415 | 415 | 263 |
-| 6 | Crystal Ancient Ent [8.0] | 7,860.6 | 12,575 | 111 | 415 | 263 |
-| 7 | Crystal Juggernaut [8.0] | 7,817.8 | 12,301 | 415 | 415 | 263 |
-| 8 | Crystal Tower Chariot [8.0] | 7,681.4 | 12,073 | 443 | 388 | 263 |
-| 9 | Crystal Battle Rhino [8.0] | 7,001.6 | 11,162 | 249 | 249 | 263 |
-| 10 | Crystal Goliath Horseeater [8.0] | 6,777.2 | 10,934 | 138 | 194 | 210 |
+| Rank | Mount | Tankiness Score | Avg Price | HP | Armor | Magic Res | CC Res |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Elder's Command Mammoth [8.1] | 24,636.0 | 296,277,777 | 40,244 | 415 | 415 | 394 |
+| 2 | Crystal Behemoth [8.0] | 8,844.0 | 13,228,080 | 14,214 | 194 | 332 | 263 |
+| 3 | Crystal Phalanx Beetle [8.0] | 8,603.6 | - | 13,668 | 305 | 360 | 342 |
+| 4 | Crystal Roving Bastion [8.0] | 8,486.0 | 4,559,256 | 13,782 | 138 | 194 | 210 |
+| 5 | Crystal Colossus Beetle [8.0] | 8,255.2 | - | 13,030 | 415 | 415 | 263 |
+| 6 | Crystal Ancient Ent [8.0] | 7,860.6 | 4,689,373 | 12,575 | 111 | 415 | 263 |
+| 7 | Crystal Juggernaut [8.0] | 7,817.8 | 6,103,137 | 12,301 | 415 | 415 | 263 |
+| 8 | Crystal Tower Chariot [8.0] | 7,681.4 | 27,013,516 | 12,073 | 443 | 388 | 263 |
+| 9 | Crystal Battle Rhino [8.0] | 7,001.6 | - | 11,162 | 249 | 249 | 263 |
+| 10 | Crystal Goliath Horseeater [8.0] | 6,777.2 | - | 10,934 | 138 | 194 | 210 |
 
 ## Most Tanky Mounts Under 2M Silver
 
@@ -58,22 +57,22 @@ This list uses the same score, but only includes mounts with an **Avg Price** of
 | 9 | Silver Juggernaut [6.0] | 3,904.2 | 794,060 | 5,839 | 391 | 391 | 220 |
 | 10 | Silver Goliath Horseeater [6.0] | 3,439.2 | 538,738 | 5,406 | 130 | 183 | 176 |
 
-## Most Tanky Mounts With Speed Above 50%
+## Most Tanky Mounts With Speed 50% or Higher
 
-This list uses the same score, but only includes mounts with **Speed** above **50%**.
+This list uses the same score, but only includes mounts with **Speed** of **50%** or higher.
 
-| Rank | Mount | Tankiness Score | Speed | Gallop | HP | Armor | Magic Res | CC Res |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Grizzly Bear [7.0] | 2,504.0 | 75% | 75% | 3,582 | 323 | 323 | 241 |
-| 2 | Elite Bighorn Ram [8.0] | 1,648.8 | 60% | 110% | 2,278 | 221 | 221 | 263 |
-| 3 | Saddled Bighorn Ram [5.0] | 1,459.4 | 60% | 100% | 2,027 | 203 | 203 | 202 |
-| 4 | Morgana Nightmare [8.1] | 1,096.8 | 80% | 137% | 1,610 | 111 | 111 | 105 |
-| 5 | Elder's Transport Ox [8.0] | 1,064.6 | 60% | 110% | 1,503 | 138 | 138 | 131 |
-| 6 | Elder's Armored Horse [8.0] | 1,042.2 | 80% | 135% | 1,519 | 111 | 111 | 105 |
-| 7 | Grandmaster's Transport Ox [7.0] | 1,006.0 | 55% | 100% | 1,418 | 134 | 134 | 120 |
-| 8 | Grandmaster's Armored Horse [7.0] | 984.6 | 75% | 125% | 1,433 | 108 | 108 | 96 |
-| 9 | Master's Armored Horse [6.0] | 929.6 | 70% | 120% | 1,352 | 104 | 104 | 88 |
-| 10 | Elite Wild Boar [8.0] | 890.8 | 55% | 115% | 1,234 | 83 | 83 | 210 |
+| Rank | Mount | Tankiness Score | Avg Price | Speed | Gallop | HP | Armor | Magic Res | CC Res |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Saddled Direbear [8.0] | 2,754.2 | 4,878,116 | 50% | 90% | 3,797 | 332 | 332 | 526 |
+| 2 | Elite Winter Bear [8.0] | 2,754.2 | 2,480,776 | 50% | 90% | 3,797 | 332 | 332 | 526 |
+| 3 | Grizzly Bear [7.0] | 2,504.0 | 1,031,944 | 75% | 75% | 3,582 | 323 | 323 | 241 |
+| 4 | Saddled Winter Bear [5.0] | 2,432.2 | 197,449 | 50% | 80% | 3,379 | 304 | 304 | 404 |
+| 5 | Elite Bighorn Ram [8.0] | 1,648.8 | 2,777,055 | 60% | 110% | 2,278 | 221 | 221 | 263 |
+| 6 | Saddled Bighorn Ram [5.0] | 1,459.4 | 217,692 | 60% | 100% | 2,027 | 203 | 203 | 202 |
+| 7 | Morgana Nightmare [8.1] | 1,096.8 | - | 80% | 137% | 1,610 | 111 | 111 | 105 |
+| 8 | Elder's Transport Ox [8.0] | 1,064.6 | 2,074,964 | 60% | 110% | 1,503 | 138 | 138 | 131 |
+| 9 | Elder's Armored Horse [8.0] | 1,042.2 | 1,894,976 | 80% | 135% | 1,519 | 111 | 111 | 105 |
+| 10 | Baby Elite Swamp Salamander [8.0] | 1,024.8 | 665,476 | 106% | 106% | 1,708 | 0 | 0 | 0 |
 
 ## Gear also matters
 
