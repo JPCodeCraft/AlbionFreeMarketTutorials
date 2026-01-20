@@ -1,4 +1,4 @@
----
+<!--
 title: "Should You Play Solo or With a Guild in Albion Online?"
 summary: "A detailed guide comparing solo and guild play in Albion Online, including pros, cons, best activities, and tips to help you choose the right path for your playstyle."
 author: "Akaashi"
@@ -6,7 +6,7 @@ createdAt: "2025-07-04"
 updatedAt: "2025-07-04"
 category: "tutorial"
 tags: ["Guilds", "Beginner"]
----
+-->
 
 # Should You Play Solo or With a Guild in Albion Online?
 

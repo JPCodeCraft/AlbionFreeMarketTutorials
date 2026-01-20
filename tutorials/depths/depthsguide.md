@@ -1,4 +1,4 @@
----
+<!--
 title: "Albion Online Depths Guide"
 summary: "Master the Depths - Albion's newest PvP training ground"
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2025-08-10"
 updatedAt: "2025-08-10"
 category: "tutorial"
 tags: ["Depths", "PvP", "Beginner", "Orange Zone"]
----
+-->
 
 # **The Depths Guide - Your Gateway to PvP**
 

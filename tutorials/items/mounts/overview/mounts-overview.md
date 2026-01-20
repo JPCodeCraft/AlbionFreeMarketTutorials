@@ -1,4 +1,4 @@
----
+<!--
 title: "Albion Online: Best Mounts for PvP, PvE, and Gathering (2025)"
 summary: "A practical overview of the best mounts in Albion Online for PvP, PvE, and gathering, with real use cases, pros and cons, and personal recommendations."
 author: "Akaashi"
@@ -6,7 +6,7 @@ createdAt: "2025-07-01"
 updatedAt: "2026-01-06"
 category: "tutorial"
 tags: ["Mounts"]
----
+-->
 
 # Albion Online: Best Mounts for PvP, PvE, and Gathering (2025)
 

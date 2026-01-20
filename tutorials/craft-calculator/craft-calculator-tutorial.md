@@ -1,4 +1,4 @@
----
+<!--
 title: "Albion Online Crafting & Refining Calculator Tutorial"
 summary: "Learn how to plan profitable crafting runs with Albion Free Market's Crafting & Refining Calculator."
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2025-09-28"
 updatedAt: "2025-09-28"
 category: "tutorial"
 tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
----
+-->
 
 # ALBION FREE MARKET CRAFTING & REFINING CALCULATOR TUTORIAL
 

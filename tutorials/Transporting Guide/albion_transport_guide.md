@@ -1,4 +1,4 @@
----
+<!--
 title: "Transporting Guide"
 summary: "A comprehensive guide to becoming a successful transporter in Albion Online"
 author: "OSTIII"
@@ -6,7 +6,7 @@ createdAt: "2024-12-31"
 updatedAt: "2026-01-05"
 category: "tutorial"
 tags: [ "Transport", "Beginner"]
----
+-->
 
 # How to Transport in Albion
 

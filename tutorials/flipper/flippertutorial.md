@@ -1,4 +1,4 @@
----
+<!--
 title: "Albion Online Black Market Flipper Tutorial"
 summary: "Learn how to profit in Albion Online by flipping items from the regular markets to the black market."
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2024-07-19"
 updatedAt: "2025-08-13"
 category: "tutorial"
 tags: ["Flipper", "Black Market", "Economy"]
----
+-->
 
 # ALBION FREE MARKET FLIPPER TUTORIAL
 
@@ -164,7 +164,7 @@ tags: ["Flipper", "Black Market", "Economy"]
 
 2. To access your private flips, click the "Private Flips" button in the website Flipper interface.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image8.png" alt="Private Flips Checkbox" width="1720" height="482">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image9.png" alt="Private Flips Checkbox" width="1720" height="482">
 
 
 ### Benefits of Private Flips
@@ -208,7 +208,7 @@ Private flips represent a significant enhancement to the Albion Free Market flip
   - Set up a sell order in the Black Market and wait for it to sell.
   - Keep all failed flips in a bank tab and periodically scan the Black Market. Check the "Your Flips" page while filtering to show only failed flips. This will allow you to see if there are any buy orders that will be profitable to sell to.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image8.png" alt="Albion Online Failed Flips" width="1720" height="482">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image9.png" alt="Albion Online Failed Flips" width="1720" height="482">
 
 ## Flipper Impact Report (as of February 2025)
 

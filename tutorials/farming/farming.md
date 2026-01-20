@@ -1,4 +1,4 @@
----
+<!--
 title: "Mastering the Art of Farming in Albion Online"
 summary: "A comprehensive guide to becoming a successful farmer in Albion Online"
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2024-12-07"
 updatedAt: "2024-12-07"
 category: "tutorial"
 tags: ["Farming", "Economy"]
----
+-->
 
 # MASTERING THE ART OF FARMING IN ALBION ONLINE
 

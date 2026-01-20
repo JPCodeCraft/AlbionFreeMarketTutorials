@@ -1,4 +1,4 @@
----
+<!--
 title: "Gathering Guide for Beginners in Albion Online (2025)"
 summary: "A complete beginner's guide to gathering resources in Albion Online, including what to gather, where to gather, best equipment, mounts, and tips for both premium and free-to-play players."
 author: "Akaashi"
@@ -6,7 +6,7 @@ createdAt: "2025-06-25"
 updatedAt: "2025-06-25"
 category: "tutorial"
 tags: ["Gathering", "Beginner"]
----
+-->
 
 # Gathering resources in Albion Online (2025 Guide)
 

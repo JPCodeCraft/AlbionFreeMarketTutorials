@@ -1,4 +1,4 @@
----
+<!--
 title: "Albion Online Mount Types Explained (2025 Guide)"
 summary: "An up-to-date breakdown of Albion Online mount families, their strengths, and where each shines in the current game."
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2025-10-02"
 updatedAt: "2026-01-07"
 category: "article"
 tags: ["Mounts", "Guides", "Transportation"]
----
+-->
 
 # Albion Online Mount Types Explained (2025 Guide)
 
