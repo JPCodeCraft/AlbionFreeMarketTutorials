@@ -1,19 +1,5 @@
 [
     {
-        "title": "The Albion Online Data Project Client Tutorial",
-        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
-        "author": "Albion Free Market",
-        "createdAt": "2024-07-19",
-        "updatedAt": "2024-12-19",
-        "category": "tutorial",
-        "tags": [
-            "AODP",
-            "Data Client"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/aodptutorial.md",
-        "id": "the-albion-online-data-project-client-tutorial"
-    },
-    {
         "title": "Albion Online Black Market Flipper Tutorial",
         "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
@@ -27,6 +13,20 @@
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/flippertutorial.md",
         "id": "albion-online-black-market-flipper-tutorial"
+    },
+    {
+        "title": "The Albion Online Data Project Client Tutorial",
+        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
+        "author": "Albion Free Market",
+        "createdAt": "2024-07-19",
+        "updatedAt": "2024-12-19",
+        "category": "tutorial",
+        "tags": [
+            "AODP",
+            "Data Client"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/aodptutorial.md",
+        "id": "the-albion-online-data-project-client-tutorial"
     },
     {
         "title": "Albion Online Solo Weapons Analysis - Europe",
