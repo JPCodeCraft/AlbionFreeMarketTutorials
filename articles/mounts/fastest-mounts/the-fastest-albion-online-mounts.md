@@ -12,7 +12,7 @@ tags: ["Mounts", "Guides", "Transport"]
 
 If you care about pure travel time, mount choice matters more than most people think. Some mounts have a high normal Speed, others are all about Gallop Speed, and a few can still move fast while carrying a lot of weight.
 
-PLACE IMAGE HERE
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/mounts/fastest-mounts/image1.png" alt="image" width="800" height="450">
 
 For the full mount list (prices, spells, and details), see: https://albionfreemarket.com/mounts
 
@@ -90,7 +90,7 @@ This list is for mounts with **Armor** above **250**. They are harder to dismoun
 
 ## Practical tips
 
-- If you are riding through zones where you might get poked a lot, **high Speed** matters because you will lose gallop often.
-- If you are doing long safe roads, **high Gallop** usually wins.
+- If you are riding through zones where you might get poked a lot, **high Speed** matters because you will lose gallop often. It's also usefull for when you're gattering, because you'll be mounting and unmounting often.
+- If you are doing long safe roads, **high Gallop** usually wins. Roads of Avalon is a good example.
 - Watch out for mounts with negative carry stats (like the Owls). They are fast, but they are not made for hauling.
-- If you are transporting, it is not just about load. A mount like the **Avalonian Basilisk** stays fast while still giving real carry weight.
+- If you are transporting, it is not just about load. The most important factor is planning your route, watching out for scouts. As a rule of thumb, if someone starts following you, assume he's not alone and turn around.
