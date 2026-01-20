@@ -1,5 +1,5 @@
 <!--
-title: "The Fastest Albion Online Mounts"
+title: "The Best Fast Albion Online Mounts"
 summary: "Learn what are the fastest mounts by Speed and Gallop Speed, plus the fastest transport and tanky mounts in the game."
 author: "Albion Free Market"
 createdAt: "2026-01-20"
@@ -8,7 +8,7 @@ category: "article"
 tags: ["Mounts", "Guides", "Transport"]
 -->
 
-# The Fastest Albion Online Mounts
+# The Best Fast Albion Online Mounts
 
 If you care about pure travel time, mount choice matters more than most people think. Some mounts have a high normal Speed, others are all about Gallop Speed, and a few can still move fast while carrying a lot of weight.
 
