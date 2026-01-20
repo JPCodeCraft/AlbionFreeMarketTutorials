@@ -12,7 +12,7 @@ tags: ["Mounts", "Guides", "Transportation"]
 
 If you care about pure travel time, mount choice matters more than most people think. Some mounts have a high normal Speed, others are all about Gallop Speed, and a few can still move fast while carrying a lot of weight.
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/2976a4df-6a5b-458a-a4a5-4197979bf8f0" />
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/mounts/fastest-mounts/image1.png" alt="image" width="800" height="450">
 
 For the full mount list (prices, spells, and details), see: https://albionfreemarket.com/mounts
 
