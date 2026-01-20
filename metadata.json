@@ -269,5 +269,20 @@
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/afm-data-client.md",
         "id": "albion-free-market-data-client-tutorial"
+    },
+    {
+        "title": "The Fastest Albion Online Mounts",
+        "summary": "A simple ranking of the fastest mounts by Speed and Gallop Speed, plus the fastest transport and tanky mounts from the provided data.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-01-20",
+        "updatedAt": "2026-01-20",
+        "category": "article",
+        "tags": [
+            "Mounts",
+            "Guides",
+            "Transportation"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/mounts/fastest-mounts/the-fastest-albion-online-mounts.md",
+        "id": "the-fastest-albion-online-mounts"
     }
 ]
