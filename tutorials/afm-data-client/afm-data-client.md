@@ -1,4 +1,4 @@
-<!--
+---
 title: "Albion Free Market Data Client Tutorial"
 summary: "Install and master the Albion Free Market Data Client to upload market data, track trades, and stay on top of your Albion prices."
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2025-10-09"
 updatedAt: "2025-10-09"
 category: "tutorial"
 tags: ["Data Client"]
--->
+---
 
 # ALBION FREE MARKET DATA CLIENT
 

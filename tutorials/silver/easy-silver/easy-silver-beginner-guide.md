@@ -1,4 +1,4 @@
-<!--
+---
 title: "How to Make Silver Fast in Albion Online as a Beginner (2025 Guide)"
 summary: "A practical guide for new Albion Online players to earn silver quickly through gathering, dungeons, flipping, faction warfare, and more—no premium required."
 author: "Akaashi"
@@ -6,7 +6,7 @@ createdAt: "2025-06-29"
 updatedAt: "2025-06-29"
 category: "tutorial"
 tags: ["Economy", "Beginner"]
--->
+---
 
 # How to Make Silver Fast in Albion Online as a beginner (2025 Guide)
 

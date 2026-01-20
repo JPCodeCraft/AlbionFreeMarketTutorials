@@ -1,4 +1,4 @@
-<!--
+---
 title: "Albion Online Beginner's Guide 2025"
 summary: "Complete guide for new players starting Albion Online - from first steps to making silver"
 author: "Mustach_Man"
@@ -6,7 +6,7 @@ createdAt: "2025-08-12"
 updatedAt: "2025-08-12"
 category: "tutorial"
 tags: ["Beginner", "New Player"]
--->
+---
 
 # **Albion Online Beginner's Guide 2025 - Everything You Need to Start Strong**
 

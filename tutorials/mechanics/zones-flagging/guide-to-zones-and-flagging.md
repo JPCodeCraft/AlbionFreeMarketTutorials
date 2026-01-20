@@ -1,4 +1,4 @@
-<!--
+---
 title: "Albion Online Guide to Zones and Flagging"
 summary: "A comprehensive guide to Albion Online's zone system, including blue, yellow, red, and black zones, and how the flagging system works for PvP."
 author: "Akaashi"
@@ -6,7 +6,7 @@ createdAt: "2025-06-27"
 updatedAt: "2025-06-27"
 category: "tutorial"
 tags: ["Zones", "PvP"]
--->
+---
 
 # Albion online guide to zones and flagging
 

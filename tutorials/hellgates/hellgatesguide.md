@@ -1,4 +1,4 @@
-<!--
+---
 title: "Albion Online Hellgates Guide"
 summary: "Learn the basics of 2v2 hellgates in Albion Online."
 author: "OSTIII"
@@ -6,7 +6,7 @@ createdAt: "2024-12-28"
 updatedAt: "2024-12-28"
 category: "tutorial"
 tags: ["Hellgates", "PvP", "Beginner"]
--->
+---
 
 # **Hellgates Guide**
 

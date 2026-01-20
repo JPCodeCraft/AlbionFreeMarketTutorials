@@ -1,4 +1,4 @@
-<!--
+---
 title: "Albion Online Smuggler's Dens and Smuggler's Network Tutorial"
 summary: "Learn about the Smuggler's Market in Albion Online."
 author: "Albion Free Market"
@@ -6,7 +6,7 @@ createdAt: "2025-01-15"
 updatedAt: "2025-02-07"
 category: "tutorial"
 tags: ["Game Mechanics", "Smugglers"]
--->
+---
 
 # The Smuggler's Dens and the Smuggler's Network
 
