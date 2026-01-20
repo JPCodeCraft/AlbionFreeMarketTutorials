@@ -1,9 +1,9 @@
 <!--
-title: "How to Subscribe to Albion Free Market via AllShop"
-summary: "Step-by-step guide to purchasing an Albion Free Market subscription through AllShop when Stripe or Patreon are not an option."
+title: "How to Subscribe to Albion Free Market via EzArena"
+summary: "Step-by-step guide to purchasing an Albion Free Market subscription through EzArena when Stripe or Patreon are not an option."
 author: "Albion Free Market"
 createdAt: "2025-10-03"
-updatedAt: "2025-10-03"
+updatedAt: "2025-01-20"
 category: "tutorial"
 tags: ["Subscription"]
 -->
