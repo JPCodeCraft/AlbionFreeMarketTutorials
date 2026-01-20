@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2026-01-20"
 updatedAt: "2026-01-20"
 category: "article"
-tags: ["Mounts", "Guides", "Transportation"]
+tags: ["Mounts", "Guides", "Transport"]
 -->
 
 # The Fastest Albion Online Mounts

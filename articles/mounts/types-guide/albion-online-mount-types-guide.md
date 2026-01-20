@@ -5,7 +5,7 @@ author: "Albion Free Market"
 createdAt: "2025-10-02"
 updatedAt: "2026-01-07"
 category: "article"
-tags: ["Mounts", "Guides", "Transportation"]
+tags: ["Mounts", "Guides", "Transport"]
 -->
 
 # Albion Online Mount Types Explained (2025 Guide)
