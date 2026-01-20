@@ -3,7 +3,7 @@ title: "Transporting Guide"
 summary: "A comprehensive guide to becoming a successful transporter in Albion Online"
 author: "OSTIII"
 createdAt: "2024-12-31"
-updatedAt: "2026-01-05"
+updatedAt: "2026-01-20"
 category: "tutorial"
 tags: [ "Transport", "Beginner"]
 -->
@@ -82,6 +82,10 @@ Below is an example set for any fast mount—in this scenario, a **husky**.
 - Cape: Fort Sterling Cape. The one-time CC cleanse may save you while using a fast mount.
 - **Potion**: Invisible Potion or Gigantify Potion. The latter provides extra survivability.
 
+Update: a variant of this build is available [here](https://albionfreemarket.com/builds/details/68972ffa2529f400acaaff91), as shown below. It uses Armored Horse for the extra armor.
+
+<img width="1000" height="1968" alt="image" src="https://github.com/user-attachments/assets/65026d5f-d0c4-4309-a853-616804eef4b9" />
+
 #### 🐻 Transport Mount Build Example
 
 Below is an example set for any transport mount—in this scenario, an **elite bear**.
@@ -98,6 +102,10 @@ Below is an example set for any transport mount—in this scenario, an **elite b
 - Cape: Bracillien Cape.
   - Why not Fort Sterling Cape? For heavy mounts like a bear, one cleansed CC isn't worth it. Bracillien Cape grants purge immunity.
 - Potion: Always use Gigantify Potion. Without it, you won't be able to move after being dismounted. However, its effect lasts only 6 seconds, so if you're not close enough to the gate, you probably won't survive.
+
+Update: this build can be seen [here](https://albionfreemarket.com/builds/details/696fe89e107616fe4e9f5711) and below:
+
+<img width="1000" height="1846" alt="image" src="https://github.com/user-attachments/assets/a8a4fa26-3d42-4b3a-9397-0b03e8a2b156" />
 
 #### Transporting Naked or Undercover
 
@@ -122,6 +130,8 @@ Mists are commonly found in the open world, and they can save your life if you m
 If you begin entering the Mist before the enemy dismounts, they won't be able to attack you before you enter. So, if you see an open Mist on your way, always go for it.
 
 ⚠️ **Be Aware**: Some mount abilities can interrupt your channeling, such as the crow.
+
+Update: while you're mounted, you won't activate the wisp. This was a change added to reduce the usage of this technique.
 
 <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.gif" alt="Mist" width="300" height="225">
 
