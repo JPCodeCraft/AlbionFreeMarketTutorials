@@ -163,7 +163,7 @@ tags: ["Flipper", "Black Market", "Economy"]
 
 2. To access your private flips, click the "Private Flips" button in the website Flipper interface.
 
-<img src="https://github.com/user-attachments/assets/94c125cb-9b95-4904-a002-daa04f597288" alt="Private Flips Checkbox" width="1720" height="482">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/image_880dfc9597f9.png" alt="Private Flips Checkbox" width="957" height="349">
 
 ### Benefits of Private Flips
 
