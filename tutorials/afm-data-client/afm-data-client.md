@@ -19,7 +19,7 @@ tags: ["Data Client"]
 - Can optionally keep uploads private for your own market flips or share everything back with the AFM community.
 - Runs quietly in the system tray, auto-starts with your PC, and updates itself, so market coverage keeps flowing even if you forget it is there.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image1.png" alt="image" width="1063" height="686">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_503d6255e6a3.png" alt="image" width="1063" height="686">
 
 ## Key Features
 
@@ -39,15 +39,15 @@ tags: ["Data Client"]
 3. The client launches minimized in the system tray after setup. Click the AFM icon to open the interface.
 4. Automatic updates are enabled, so future releases install silently.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image2.png" alt="image" width="1170" height="815">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_0d88ab4044ea.png" alt="image" width="1170" height="815">
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image3.png" alt="image" width="400" height="158">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_35bfdf829d0c.png" alt="image" width="400" height="158">
 
 **Uninstalling on Windows**
 
 - Use _Add or Remove Programs_ (or _Programs and Features_) to remove **AFM Data Client**.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image4.png" alt="image" width="905" height="184">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_7d727f371efd.png" alt="image" width="905" height="184">
 
 ### Linux
 
@@ -102,7 +102,7 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
   - `Share with Other AFM Users` – re-enable community sharing while staying in private mode.
 - Use **Sign Out** at any time. The app continues uploading to AODP when no AFM options are enabled.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image5.png" alt="image" width="188" height="161">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_484b2027d07f.png" alt="image" width="188" height="161">
 
 ## Interface Walkthrough
 
@@ -111,7 +111,7 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
 - Navigation buttons switch between Dashboard, Trades, Mails, Settings, and Logs.
 - The bottom card hosts the authentication controls described above. If Npcap is missing, the Dashboard button automatically routes you to the PCap view.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image6.png" alt="image" width="202" height="613">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_50f0bf2e65a2.png" alt="image" width="202" height="613">
 
 ### Dashboard
 
@@ -123,7 +123,7 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
   - _Encrypted market orders_ – warns when uploads are blocked by market encryption (see troubleshooting).
 - **Upload Counters** – cumulative totals for offers, requests, daily/weekly/monthly histories, and gold history pushes.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image7.png" alt="image" width="795" height="431">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_228f4a2b0066.png" alt="image" width="795" height="431">
 
 ### Trades
 
@@ -131,14 +131,14 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
 - Use the search box to filter by item name (ignores spacing) and dropdowns to narrow by server, trade type, operation (bought vs sold), and city.
 - The table shows timestamp, operation, quality, item, location, amount, unit silver, and total silver. The view auto-refreshes when new trades arrive.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image8.png" alt="image" width="1407" height="577">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_b9defd614e9a.png" alt="image" width="1407" height="577">
 
 ### Mails
 
 - Loads your market mails (fulfillments) collected in-game. Filters match those in Trades but replace trade type with auction type (Bought/Sold).
 - The grid lists received time, operation, item, location, partial amount, full order size, unit silver, and total silver—ideal for cross-checking sales.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image9.png" alt="image" width="1270" height="577">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_8a347c4309d4.png" alt="image" width="1270" height="577">
 
 ### Settings
 
@@ -147,14 +147,14 @@ curl -s https://api.github.com/repos/JPCodeCraft/AlbionDataAvalonia/releases/lat
 - Additional sliders let you define the duplicate hash cache size, logs kept in memory, mails per page, and trades per page.
 - **Log verbosity** adjusts how much gets written to the in-app logs and tray notifications.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image10.png" alt="image" width="805" height="833">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_fdb35ee7d901.png" alt="image" width="805" height="833">
 
 ### Logs
 
 - Streams Serilog events captured by the client. Entries include timestamp, level, and formatted message (hyperlinks are styled as clickable when present).
 - The list respects the “Maximum log entries” limit from Settings so the window stays responsive.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image11.png" alt="image" width="1276" height="707">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/afm-data-client/image_666e9c34c311.png" alt="image" width="1276" height="707">
 
 ### PCap View
 

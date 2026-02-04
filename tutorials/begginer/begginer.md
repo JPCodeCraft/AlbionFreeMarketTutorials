@@ -34,7 +34,7 @@ The game revolves around risk vs reward. The more danger you face, the better th
 
 ### **Character Creation**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image1.png" alt="Character Creation" width="1406" height="878">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image_79fd62733193.png" alt="Character Creation" width="1406" height="878">
 
 Character creation is purely cosmetic - your appearance doesn't affect gameplay. Pick what looks cool to you. You can change your name once for free later if needed.
 
@@ -62,7 +62,7 @@ The tutorial takes about 20 minutes and teaches you:
 
 ### **Choosing Your Starting City**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image2.png" alt="Starter City Selection" width="757" height="646">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image_7b85b39849bc.png" alt="Starter City Selection" width="757" height="646">
 
 After the tutorial, you'll pick one of five Royal Cities as your home:
 
@@ -120,7 +120,7 @@ Your strength isn't measured in levels but in Item Power (IP). This number combi
 
 ## **Zone Types - Where It's Safe (And Where It's Not)**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image3.png" alt="Zone Types" width="1423" height="891">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image_da4eef79df89.png" alt="Zone Types" width="1423" height="891">
 
 Understanding zones is CRUCIAL for survival. Each zone type has different rules:
 
@@ -169,7 +169,7 @@ The Depths are Albion's newest PvP training ground, introduced in June 2025. Thi
 
 ## **Making Your First Million Silver**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image4.png" alt="Caerleon Marketplace" width="676" height="620">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image_d786f469772a.png" alt="Caerleon Marketplace" width="676" height="620">
 
 Silver is everything in Albion. Here are the best methods for beginners in 2025:
 
@@ -418,7 +418,7 @@ This means you're never truly "stuck" anywhere.
 
 ### **What to Do With Premium**
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image5.png" alt="Premium" width="734" height="553">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/begginer/image_bc239b3cc9c4.png" alt="Premium" width="734" height="553">
 
 **Is Premium Worth It in 2025?**
 

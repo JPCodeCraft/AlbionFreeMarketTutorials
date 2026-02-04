@@ -5,6 +5,11 @@ import glob
 from PIL import Image
 import tempfile
 import sys
+import hashlib
+from urllib.parse import urlparse
+import xml.etree.ElementTree as ET
+
+MEDIA_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg', '.bmp', '.tiff', '.mp4', '.avi', '.mov', '.wmv', '.flv', '.webm', '.mkv']
 
 def get_image_dimensions(image_path):
     """Get width and height of an image."""
@@ -47,21 +52,6 @@ def get_video_dimensions(video_path):
         print(f"Could not get video dimensions for {video_path}: {e}")
         return 800, 600
 
-def clean_media_files(folder_path):
-    """Remove all existing image and video files from the folder."""
-    media_extensions = ['.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg', '.bmp', '.tiff', '.mp4', '.avi', '.mov', '.wmv', '.flv', '.webm', '.mkv']
-    
-    for file in os.listdir(folder_path):
-        file_path = os.path.join(folder_path, file)
-        if os.path.isfile(file_path):
-            _, ext = os.path.splitext(file.lower())
-            if ext in media_extensions:
-                try:
-                    os.remove(file_path)
-                    print(f"Removed existing file: {file}")
-                except Exception as e:
-                    print(f"Could not remove {file}: {e}")
-
 def find_all_md_files(root_dir):
     """Find all markdown files in the directory and subdirectories."""
     md_files = []
@@ -71,14 +61,73 @@ def find_all_md_files(root_dir):
                 md_files.append(os.path.join(root, file))
     return md_files
 
-def process_markdown_file(md_path):
+def is_cdn_url(url):
+    return url.startswith("https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/")
+
+def content_hash_name(content, ext, prefix):
+    content_hash = hashlib.sha256(content).hexdigest()[:12]
+    ext = ext or ".png"
+    if not ext.startswith("."):
+        ext = f".{ext}"
+    return f"{prefix}_{content_hash}{ext}"
+
+def replace_one(match_text, replacement, content):
+    return content.replace(match_text, replacement, 1)
+
+def extract_referenced_media(content):
+    img_pattern = re.compile(r'!\[[^\]]*\]\(([^)]+)\)')
+    html_img_pattern = re.compile(r'<img[^>]*\ssrc=["\']([^"\']+)["\'][^>]*>', re.IGNORECASE)
+    video_pattern = re.compile(r'<video[^>]*\ssrc=["\']([^"\']+)["\'][^>]*>', re.IGNORECASE)
+    source_pattern = re.compile(r'<source[^>]*\ssrc=["\']([^"\']+)["\'][^>]*>', re.IGNORECASE)
+
+    urls = []
+    urls += img_pattern.findall(content)
+    urls += html_img_pattern.findall(content)
+    urls += video_pattern.findall(content)
+    urls += source_pattern.findall(content)
+
+    basenames = set()
+    for url in urls:
+        path = urlparse(url).path
+        basename = os.path.basename(path)
+        if not basename:
+            continue
+        _, ext = os.path.splitext(basename.lower())
+        if ext in MEDIA_EXTENSIONS:
+            basenames.add(basename)
+    return basenames
+
+def collect_referenced_media_in_folder(folder_path):
+    referenced = set()
+    for name in os.listdir(folder_path):
+        if not name.lower().endswith('.md'):
+            continue
+        md_path = os.path.join(folder_path, name)
+        try:
+            with open(md_path, "r", encoding="utf-8") as f:
+                referenced.update(extract_referenced_media(f.read()))
+        except Exception as e:
+            print(f"Could not read {md_path}: {e}")
+    return referenced
+
+def prune_media_files(folder_path, referenced_files):
+    for name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, name)
+        if not os.path.isfile(file_path):
+            continue
+        _, ext = os.path.splitext(name.lower())
+        if ext in MEDIA_EXTENSIONS and name not in referenced_files:
+            try:
+                os.remove(file_path)
+                print(f"Pruned unreferenced file: {name}")
+            except Exception as e:
+                print(f"Could not remove {name}: {e}")
+
+def process_markdown_file(md_path, rebuild_cdn=False):
     """Process a single markdown file."""
     print(f"\nProcessing: {md_path}")
     
     img_folder = os.path.dirname(md_path)
-    
-    # Clean existing media files
-    clean_media_files(img_folder)
     
     # Get the relative path from the repo root
     repo_root = os.path.abspath(os.getcwd())
@@ -90,8 +139,8 @@ def process_markdown_file(md_path):
 
     # Pattern to match both markdown images and HTML img/video tags with remote URLs
     img_pattern = re.compile(r'!\[([^\]]*)\]\((https?://[^\)]+)\)')
-    html_img_pattern = re.compile(r'<img[^>]*src=["\']([^"\']*https?://[^"\']*)["\'][^>]*>')
-    video_pattern = re.compile(r'<video[^>]*src=["\']([^"\']*https?://[^"\']*)["\'][^>]*>')
+    html_img_pattern = re.compile(r'(<img[^>]*src=["\']([^"\']*https?://[^"\']*)["\'][^>]*>)')
+    video_pattern = re.compile(r'(<video[^>]*src=["\']([^"\']*https?://[^"\']*)["\'][^>]*>.*?</video>)', re.DOTALL)
     
     # Find all matches
     md_matches = img_pattern.findall(content)
@@ -104,16 +153,18 @@ def process_markdown_file(md_path):
 
     # Process markdown images
     for idx, (alt, url) in enumerate(md_matches, 1):
-        ext = os.path.splitext(url)[1].split("?")[0] or ".png"
-        local_name = f"image{idx}{ext}"
-        local_path = os.path.join(img_folder, local_name)
-        cdn_url = f"https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/{rel_folder}/{local_name}"
-        
+        if is_cdn_url(url) and not rebuild_cdn:
+            continue
         try:
             resp = requests.get(url)
             resp.raise_for_status()
+            content_bytes = resp.content
+            ext = os.path.splitext(urlparse(url).path)[1] or ".png"
+            local_name = content_hash_name(content_bytes, ext, "image")
+            local_path = os.path.join(img_folder, local_name)
+            cdn_url = f"https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/{rel_folder}/{local_name}"
             with open(local_path, "wb") as img_file:
-                img_file.write(resp.content)
+                img_file.write(content_bytes)
             print(f"Downloaded {url} -> {local_name}")
             
             # Get image dimensions
@@ -122,26 +173,28 @@ def process_markdown_file(md_path):
             height_attr = f'height="{height}"' if height else 'height="600"'
             
             # Replace markdown notation with HTML notation
-            old_pattern = re.escape(f'![{alt}]({url})')
+            old_text = f'![{alt}]({url})'
             new_html = f'<img src="{cdn_url}" alt="{alt}" {width_attr} {height_attr}>'
-            content = re.sub(old_pattern, new_html, content)
+            content = replace_one(old_text, new_html, content)
             
         except Exception as e:
             print(f"Failed to download {url}: {e}")
 
     # Process HTML images
     img_counter = len(md_matches) + 1
-    for url in html_img_matches:
-        ext = os.path.splitext(url)[1].split("?")[0] or ".png"
-        local_name = f"image{img_counter}{ext}"
-        local_path = os.path.join(img_folder, local_name)
-        cdn_url = f"https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/{rel_folder}/{local_name}"
-        
+    for full_tag, url in html_img_matches:
+        if is_cdn_url(url) and not rebuild_cdn:
+            continue
         try:
             resp = requests.get(url)
             resp.raise_for_status()
+            content_bytes = resp.content
+            ext = os.path.splitext(urlparse(url).path)[1] or ".png"
+            local_name = content_hash_name(content_bytes, ext, "image")
+            local_path = os.path.join(img_folder, local_name)
+            cdn_url = f"https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/{rel_folder}/{local_name}"
             with open(local_path, "wb") as img_file:
-                img_file.write(resp.content)
+                img_file.write(content_bytes)
             print(f"Downloaded {url} -> {local_name}")
             
             # Get image dimensions
@@ -150,16 +203,10 @@ def process_markdown_file(md_path):
             height_attr = f'height="{height}"' if height else 'height="600"'
             
             # Replace the src URL and ensure proper width/height attributes
-            old_img_pattern = re.compile(r'<img[^>]*src=["\']' + re.escape(url) + r'["\'][^>]*>')
-            
-            def replace_img_tag(match):
-                img_tag = match.group(0)
-                # Extract alt text if present
-                alt_match = re.search(r'alt=["\']([^"\']*)["\']', img_tag)
-                alt_text = alt_match.group(1) if alt_match else ""
-                return f'<img src="{cdn_url}" alt="{alt_text}" {width_attr} {height_attr}>'
-            
-            content = old_img_pattern.sub(replace_img_tag, content)
+            alt_match = re.search(r'alt=["\']([^"\']*)["\']', full_tag)
+            alt_text = alt_match.group(1) if alt_match else ""
+            new_tag = f'<img src="{cdn_url}" alt="{alt_text}" {width_attr} {height_attr}>'
+            content = replace_one(full_tag, new_tag, content)
             img_counter += 1
             
         except Exception as e:
@@ -167,17 +214,19 @@ def process_markdown_file(md_path):
 
     # Process videos
     video_counter = 1
-    for url in video_matches:
-        ext = os.path.splitext(url)[1].split("?")[0] or ".mp4"
-        local_name = f"video{video_counter}{ext}"
-        local_path = os.path.join(img_folder, local_name)
-        cdn_url = f"https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/{rel_folder}/{local_name}"
-        
+    for full_tag, url in video_matches:
+        if is_cdn_url(url) and not rebuild_cdn:
+            continue
         try:
             resp = requests.get(url)
             resp.raise_for_status()
+            content_bytes = resp.content
+            ext = os.path.splitext(urlparse(url).path)[1] or ".mp4"
+            local_name = content_hash_name(content_bytes, ext, "video")
+            local_path = os.path.join(img_folder, local_name)
+            cdn_url = f"https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/{rel_folder}/{local_name}"
             with open(local_path, "wb") as video_file:
-                video_file.write(resp.content)
+                video_file.write(content_bytes)
             print(f"Downloaded {url} -> {local_name}")
             
             # Get video dimensions
@@ -186,20 +235,14 @@ def process_markdown_file(md_path):
             height_attr = f'height="{height}"'
             
             # Replace the src URL and ensure proper width/height attributes
-            old_video_pattern = re.compile(r'<video[^>]*src=["\']' + re.escape(url) + r'["\'][^>]*>.*?</video>', re.DOTALL)
-            
-            def replace_video_tag(match):
-                video_tag = match.group(0)
-                # Preserve existing attributes like controls, autoplay, muted
-                controls = 'controls' if 'controls' in video_tag else ''
-                autoplay = 'autoplay' if 'autoplay' in video_tag else ''
-                muted = 'muted' if 'muted' in video_tag else ''
-                loop = 'loop' if 'loop' in video_tag else ''
-                
-                attributes = ' '.join(filter(None, [controls, autoplay, muted, loop]))
-                return f'<video src="{cdn_url}" {width_attr} {height_attr} {attributes}></video>'
-            
-            content = old_video_pattern.sub(replace_video_tag, content)
+            # Preserve existing attributes like controls, autoplay, muted
+            controls = 'controls' if 'controls' in full_tag else ''
+            autoplay = 'autoplay' if 'autoplay' in full_tag else ''
+            muted = 'muted' if 'muted' in full_tag else ''
+            loop = 'loop' if 'loop' in full_tag else ''
+            attributes = ' '.join(filter(None, [controls, autoplay, muted, loop]))
+            new_tag = f'<video src="{cdn_url}" {width_attr} {height_attr} {attributes}></video>'
+            content = replace_one(full_tag, new_tag, content)
             video_counter += 1
             
         except Exception as e:
@@ -211,11 +254,25 @@ def process_markdown_file(md_path):
 
     print(f"Completed processing: {md_path}")
 
+def parse_args(argv):
+    rebuild_cdn = False
+    prune = True
+    path_arg = None
+    for arg in argv[1:]:
+        if arg == "--rebuild-cdn":
+            rebuild_cdn = True
+        elif arg == "--no-prune":
+            prune = False
+        else:
+            path_arg = arg
+    return path_arg, rebuild_cdn, prune
+
 def main():
     # Prefer CLI arg if provided; fall back to interactive prompt.
-    cli_mode = len(sys.argv) > 1
+    path_arg, rebuild_cdn, prune = parse_args(sys.argv)
+    cli_mode = path_arg is not None
     if cli_mode:
-        user_input = sys.argv[1].strip()
+        user_input = path_arg.strip()
     else:
         try:
             user_input = input("Enter the path to the markdown file or 'all' to process all markdown files: ").strip()
@@ -243,10 +300,16 @@ def main():
         
         for md_file in md_files:
             try:
-                process_markdown_file(md_file)
+                process_markdown_file(md_file, rebuild_cdn=rebuild_cdn)
             except Exception as e:
                 print(f"Error processing {md_file}: {e}")
                 continue
+
+        if prune:
+            folders = sorted({os.path.dirname(p) for p in md_files})
+            for folder in folders:
+                referenced = collect_referenced_media_in_folder(folder)
+                prune_media_files(folder, referenced)
         
         print(f"\nCompleted processing all {len(md_files)} markdown files.")
     
@@ -257,7 +320,11 @@ def main():
             print("File not found.")
             return
         
-        process_markdown_file(md_path)
+        process_markdown_file(md_path, rebuild_cdn=rebuild_cdn)
+        if prune:
+            folder = os.path.dirname(md_path)
+            referenced = collect_referenced_media_in_folder(folder)
+            prune_media_files(folder, referenced)
 
     print("Done. All images and videos downloaded and links updated to HTML notation with dimensions.")
 

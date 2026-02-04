@@ -30,34 +30,34 @@ tags: ["AODP", "Data Client"]
 - You can download the client from the project's [repository releases page](https://github.com/ao-data/albiondata-client/releases)
 - Download the latest version that matches your operational system (if you're on Windows, get _albiondata-client-amd64-installer.exe_).
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image1.png" alt="AODP Installation" width="1156" height="749">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_bfd4949aa437.png" alt="AODP Installation" width="1156" height="749">
 
 - Ignore Windows safety warnings by clicking on _Run Anyway_. They show up because AODP is not a certified publisher. Once again, the code is open source, and you can check how safe the application is yourself.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image2.png" alt="AODP Installation" width="1426" height="560">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_07f479b8d502.png" alt="AODP Installation" width="1426" height="560">
 
 - You need administrator rights to install the client.
 - Follow the on-screen instructions to complete the installation.
 - [WinPcap 4.1.3](https://www.winpcap.org/) will also be installed. This is the driver that allows the _packet sniffing_. Follow instruction to complete its installation.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image3.png" alt="AODP Installation" width="1349" height="518">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_a3a915a3363e.png" alt="AODP Installation" width="1349" height="518">
 
 - Make sure to keep the option _Automatically start the WinPcap driver at boot time_ checked, since it's required for the Albion Online Data Project to work.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image4.png" alt="AODP Installation" width="1501" height="705">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_58ae2f02f926.png" alt="AODP Installation" width="1501" height="705">
 
 - Once the installation is complete, you can run the client from the start menu or the desktop icon. This is what the client looks like.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image5.png" alt="AODP Installation" width="1340" height="652">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_bdef248c0f71.png" alt="AODP Installation" width="1340" height="652">
 
 - The client starts automatically on Windows boot in a minimized state. So, if you need to open the client, you can find it in the system tray, near the watch.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image6.png" alt="AODP Installation" width="622" height="195">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_bd8cfc7e9368.png" alt="AODP Installation" width="622" height="195">
 
 - When idle (not uploading), the client is very low weight and won't harm your everyday usage of your computer. So there's no reason to worry about it running when you're not playing the game.
 - Once you get in-game, the client will start uploading market data.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image7.png" alt="AODP Installation" width="1346" height="664">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_b3ebb1203a49.png" alt="AODP Installation" width="1346" height="664">
 
 - You can close the client by right clicking the system tray button and choosing _Quit_.
 
@@ -65,7 +65,7 @@ tags: ["AODP", "Data Client"]
 
 - You can uninstall the client and WinPcap just like any other software.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image8.png" alt="AODP Installation" width="770" height="93">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_ab39da8d070d.png" alt="AODP Installation" width="770" height="93">
 
 ## Encrypted Data
 
@@ -81,4 +81,4 @@ tags: ["AODP", "Data Client"]
 - To download and install, simply follow the instructions on the [GitHub Page](https://github.com/JPCodeCraft/AlbionDataAvalonia/).
 - If you use this client, uninstall the official AODP one to avoid uploading everything twice.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image9.png" alt="AFM Data Client" width="1414" height="705">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/image_fdc1687d1ba6.png" alt="AFM Data Client" width="1414" height="705">

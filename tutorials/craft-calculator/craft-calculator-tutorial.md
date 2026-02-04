@@ -37,11 +37,11 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
 - **Save controls:**
   - `Save current craft group as new` stores your very first configuration; once saved, the same button swaps to `Update current craft group`, which is used to save changes to an existing craft group.
   
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image1.png" alt="image" width="269" height="170">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_b1011172fb15.png" alt="image" width="269" height="170">
 
   - `Save As New Copy` lets you branch a duplicate without touching the original.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image2.png" alt="image" width="423" height="180">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_69da30df42e9.png" alt="image" width="423" height="180">
 
   - The `Craft Group Name` field labels your setup (think "Brecilien T5 Bags" or "Caerleon Steel Bars").
   - All save buttons require **Masterpiece** support.
@@ -50,14 +50,14 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - Craft groups appear as cards showing their key products, number of crafts, and last updated time.
   - Each card offers `Load`, `Clone`, and `Delete` actions. Clone pulls a copy into the active session so you can test tweaks safely.
  
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image3.png" alt="image" width="1288" height="606">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_53df1850e982.png" alt="image" width="1288" height="606">
 
 - **Craft history:**
   - `Load Done Crafts History` fills a sortable table with every "Done" batch you logged through Albion Free Market (supporter-only).
   - Columns cover the essentials: items crafted, server, total income vs. expenses, input/output weight, fame, focus, profit per focus, craft fees, overall profit %, and completion timestamp.
   - Clone any historic run straight back into the calculator or clear old records when you’re tidying up.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image4.png" alt="image" width="1690" height="921">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_b6989f500376.png" alt="image" width="1690" height="921">
 
 ### SETUP TAB
 
@@ -65,37 +65,37 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - Select your `Server`, choose how many `Average Days` of price history to reference (3–30), and toggle `Has Premium` so taxes are correct.
   - `Reset` wipes the current craft group; the floating save button mirrors the Load & Save tab for easy access.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image5.png" alt="image" width="892" height="169">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_19253b457f71.png" alt="image" width="892" height="169">
 
 - **Adding crafts:**
   - `Add a Craft Group` opens a searchable list of every craftable item. Pick one or many; each adds a full craft entry to the table. We always show the highest tier item, and once you click it all tiers will be added to the `Crafts Table`.
 
- <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image6.png" alt="image" width="469" height="260">
+ <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_55d96f4b7908.png" alt="image" width="469" height="260">
 
   - Filters narrow the `Crafts Table` by `Tiers`, `Enchantments`, minimum daily sales, or quick toggles like Hide Missing Prices, Only Main Recipes, Hide Unselected Crafts, Hide Focus Info, Hide Fame Info, and Hide Consumables Picker.
   - A text filter helps when you already know the exact item name.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image7.png" alt="image" width="1356" height="193">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_fd23590b565a.png" alt="image" width="1356" height="193">
 
 - **RRR management:**
   - Enable `Automatically calculate RRR` to let the calculator pull the correct resource return rate based on specs and city bonus. This should work correctly for every crafting condition excep `Hideouts Crafting`.
 
- <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image8.png" alt="image" width="443" height="125">
+ <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_fedf4d2e2227.png" alt="image" width="443" height="125">
 
   - Leave it off to manually enter RRR's. You can use `Use Calculated RRR (All)` as a one-time push wherever you still want suggested values.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image9.png" alt="image" width="472" height="143">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_e97b35755aa5.png" alt="image" width="472" height="143">
 
 - **Group summary & cleanup:**
   - At a glance you’ll see total crafts, how many are visible, how many are selected, and how many still need prices.
   - Category chips let you filter one product family; you can also delete a whole category or remove every unused craft with one click.
   - The red cleaning button removes all the crafts that are not marked as `Craft` from the table. You should only use this if you prefer a cleaner table. But it's best to leave all crafts in the table, so you can easily compare profits.
  
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image10.png" alt="image" width="408" height="145">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_5e4007990a5b.png" alt="image" width="408" height="145">
 
   - Set your `Available Focus` budget, then auto-fill runs with `Runs = Daily Sell Avg` (uses market history) or `Runs = Max Available Focus` (sets the runs of crafts marked as `Use Focus` to the maximum amount to use all your focus).
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image11.png" alt="image" width="635" height="69">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_8a02eb74fbbd.png" alt="image" width="635" height="69">
 
 - **Crafts table highlights:**
   - **Product:** Shows the item, daily sales velocity in your sell location, copy and price-check shortcuts, plus warnings if prices are missing.
@@ -111,7 +111,7 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - **Results columns:** Live totals for expenses, craft fame, fame per silver/focus, focus usage, craft fees, profit, and profit percentage.
   - **Craft checkbox:** Only checked rows feed the Results, Shopping List, and Selling List tabs. You should check the `Craft` box if you plan to actually craft that item.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image12.png" alt="image" width="2421" height="701">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_1613377a95ba.png" alt="image" width="2421" height="701">
 
 ### INPUTS TAB
 
@@ -121,11 +121,11 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - Set all leftover prices to user prices: Force sync leftover sell prices with what you pay.
   - Checkboxes to hide unused inputs (inputs that are not used in any of the crafts that you marked as `Craft`, show only missing prices, and toggle miniature price charts.
  
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image13.png" alt="image" width="483" height="123">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_1daf4de4a561.png" alt="image" width="483" height="123">
 
 - **Filtering:** Category chips and a text filter make it easy to zoom in on one resource family or item.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image14.png" alt="image" width="1681" height="584">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_2cdd39342a33.png" alt="image" width="1681" height="584">
 
 - **Table essentials:**
   - **Item:** The material you need, with copy and market-check shortcuts.
@@ -138,13 +138,13 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - **Sell Leftovers To & Leftovers:** Decide how to liquidate recovered materials, pull fresh AODP values, and set your own sell price.
   - **Add to Crafts:** If the input itself is craftable, drop it straight into your craft group with the correct run count based on demand. You can use this to do `cascade crafting`, like if you want to refine from T4 to T6, using the outputs of a craft as inputs in another craft.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image15.png" alt="image" width="2035" height="803">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_4d0ce6b77ee2.png" alt="image" width="2035" height="803">
 
 ### OUTPUTS TAB
 
 - **Global actions & filters:** Same layout as Inputs: refresh prices, push AODP data, hide unused entries, show charts, and filter by category or text.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image16.png" alt="image" width="501" height="287">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_1a1a4920e4cb.png" alt="image" width="501" height="287">
 
 
 - **Table essentials:**
@@ -156,7 +156,7 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - **User Price:** Manual sell price. You should set the price you actually sold it for in here.
   - **Chart:** Snapshot of recent market movement in the chosen location so you can confirm the trend.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image17.png" alt="image" width="2186" height="653">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_0854ab727174.png" alt="image" width="2186" height="653">
 
 ### SPECS TAB
 
@@ -164,14 +164,14 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
 - **Tree view:** The calculator pulls every destiny board node relevant to your active crafts. Each node shows its icon and localized name.
 - **Adjusting levels:** Type your current specialization level into each field. Changing values triggers the calculator to recompute focus efficiency instantly.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image18.png" alt="image" width="1585" height="878">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_ee8706b48f9e.png" alt="image" width="1585" height="878">
 
 ### RESULTS TAB
 
 - **Category filter:** Chips let you focus on one product family when reviewing profitability.
 - **Totals card:** See total income, expenses, input/output weight, fame, focus (with profit per focus), craft fees, and final profit at a glance. Profit numbers turn green for gains and red for losses.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image19.png" alt="image" width="2266" height="424">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_dfb4bb1af16b.png" alt="image" width="2266" height="424">
 
 - **Per-craft cards:** Every craft you marked as `Craft` gets a deep dive:
   - Income vs. expenses and percent profit.
@@ -181,7 +181,7 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - **Additional costs:** Crafting fees, fixed costs, and extra expenses broken out clearly.
   - Copy and price-check buttons for quick follow-up in-game.
  
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image20.png" alt="image" width="2268" height="1069">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_27684bb7cb0b.png" alt="image" width="2268" height="1069">
 
 ### SHOPPING LIST TAB
 
@@ -191,7 +191,7 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - Quantity, weight, buy order type, unit price, total cost before fees, leftover income, setup fees, sales taxes, and net spend.
   - Copy and price-check buttons for quick lookups while you’re at the market.
 
-  <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image21.png" alt="image" width="2124" height="1001">
+  <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_8d624e17a34a.png" alt="image" width="2124" height="1001">
 
 ### SELLING LIST TAB
 
@@ -201,7 +201,7 @@ tags: ["Craft Calculator", "Crafting", "Refining", "Economy"]
   - Quantity, weight, sell order type, unit price, gross income, setup fees, sales taxes, and net income.
 - **Travel planning:** Use the weight totals to decide whether you need multiple trips, transport gear, or guild mamoths.
 
-  <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image22.png" alt="image" width="2118" height="1006">
+  <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/craft-calculator/image_85e649864896.png" alt="image" width="2118" height="1006">
 
 ## GENERAL HINTS
 

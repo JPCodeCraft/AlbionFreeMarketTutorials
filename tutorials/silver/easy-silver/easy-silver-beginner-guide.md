@@ -18,7 +18,7 @@ Let’s dive in.
 
 Gathering is hands down one of the most reliable ways to make silver fast in Albion Online. It’s low-risk, solo-friendly, and scales well with time and efficiency. As a free-to-play player, your best bet is to gather Tier 4 or Tier 5 resources — things like hide (leather), pine (wood), and iron ore.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image1.png" alt="Screenshot (66)" width="1920" height="1080">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image_966bf2f9f7c8.png" alt="Screenshot (66)" width="1920" height="1080">
 
 These are always in demand, easy to collect with basic gear, and don’t require high specs to be profitable. Equip gathering gear that matches the resource type you’re collecting, as it boosts your yield and gathering speed significantly.
 
@@ -34,7 +34,7 @@ If you're feeling brave, head into red zones where the same resources offer bett
 
 Corrupted Dungeons are some of the best solo-friendly content in Albion Online, offering a perfect mix of PvE and PvP. You don’t need Premium status to enter, and they’re accessible from any major city — making them a convenient choice for new or mid-level players looking to earn silver and fame on their own.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image2.png" alt="Corrupted_Dungeon_Entrance" width="376" height="300">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image_0b42a08de519.png" alt="Corrupted_Dungeon_Entrance" width="376" height="300">
 
 What makes Corrupted Dungeons so valuable is the dual reward system: you get decent silver and fame from clearing mobs, and there’s also the potential to earn extra loot by defeating enemy players in 1v1 PvP. Whether you’re entering on Hunter difficulty for safer fame farming or Stalker for real PvP challenges, these dungeons offer a rewarding solo experience that scales with your risk.
 
@@ -47,12 +47,12 @@ Flipping items on the marketplace is one of the easiest low-risk ways to make si
 The strategy is simple: buy underpriced items in one city and sell them in another where prices are higher. Focus on high-demand, low-tier gear and resources to start. Great beginner items to flip include T4.1 leather armour, Cleric Robes, bows, and other basic equipment that new players frequently use.
 
 Want to flip like a pro? Head over to [AlbionFreeMarket.com/flipper](https://albionfreemarket.com/flipper) — a free tool that helps you track real-time prices across cities, compare margins, and make smarter trading decisions. It’s 100% beginner-friendly and perfect if you want to maximize profit with zero risk.
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image3.png" alt="Screenshot_1066" width="1920" height="1080">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image_ebb38c38458c.png" alt="Screenshot_1066" width="1920" height="1080">
 
 ## Join Faction Warfare (Caerleon or Fort Sterling)
 
 Faction Warfare in Albion Online is one of the best ways to enjoy large-scale PvP while still making consistent silver — and the best part? You don’t need Premium to participate. If you enjoy open-world skirmishes and want to feel part of something bigger, faction warfare is a great solo or group activity that rewards both fun and profit.
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image4.png" alt="Screenshot (64)" width="1920" height="1080">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image_5e58b1b2101e.png" alt="Screenshot (64)" width="1920" height="1080">
 
 When you flag up for a city like Fort Sterling or Caerleon, you earn faction points by capturing outposts, defeating enemies, and completing transport missions. These faction points can then be used to purchase valuable items like Fort Sterling Hearts or Faction Capes.
 
@@ -62,11 +62,11 @@ Once you have these items, simply sell them on the marketplace for silver. It’
 
 Running blue and green group dungeons is a simple and effective way to earn silver daily in Albion Online — even if you’re a free-to-play player. These dungeons are scattered across the open world and can be cleared solo (if you're geared well) or with random players and friends. The silver drops from mobs and chests are solid, especially in T5-T6 zones, and the content is low-risk since most of these dungeons exist in blue or yellow zones where PvP is disabled or non-lethal.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image5.png" alt="73a04e37-7a96-44c2-b3a0-6964939f6563" width="700" height="408">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image_bf0ce2f8fe97.png" alt="73a04e37-7a96-44c2-b3a0-6964939f6563" width="700" height="408">
 
 The best part is You don’t need Premium to enter, and you’ll often get a group faster if you queue as a tank or healer. This content is great for beginners looking to grind silver passively while also leveling up their combat specs and learning dungeon mechanics. Aim for open-world dungeons, not ones inside static portals, for the best fame-to-time ratio and chest rewards.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image6.png" alt="Screenshot (63)" width="1920" height="1080">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/silver/easy-silver/image_813c0a10c613.png" alt="Screenshot (63)" width="1920" height="1080">
 
 ## Play Smart, Not Sweaty
 

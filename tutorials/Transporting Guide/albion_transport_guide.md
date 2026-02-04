@@ -70,7 +70,7 @@ To find a good Avalonian road:
 
 Below is an example set for any fast mount—in this scenario, a **husky**.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image1.png" alt="build1" width="383" height="403">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image_fef5d34bc3c9.png" alt="build1" width="383" height="403">
 
 - Why Husky? 🐕‍🦺 It has the best ability out of all fast mounts. You can negate the downside of its ability by dismounting for half a second and then mounting again.
 - Boots: Miner boots, or if you don't have them unlocked, soldier boots. These provide the most distance.
@@ -84,13 +84,13 @@ Below is an example set for any fast mount—in this scenario, a **husky**.
 
 Update: a variant of this build is available [here](https://albionfreemarket.com/builds/details/68972ffa2529f400acaaff91), as shown below. It uses Armored Horse for the extra armor.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image2.png" alt="image" width="280" height="321">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image_767c8b6b74fa.png" alt="image" width="1000" height="1968">
 
 #### 🐻 Transport Mount Build Example
 
 Below is an example set for any transport mount—in this scenario, an **elite bear**.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.png" alt="build2" width="280" height="321">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image_517ac5f8bf4a.png" alt="build2" width="280" height="321">
 
 - Mount: Elite Bear or Elite Bighorn Ram.
   - **Why Bighorn Ram?** 🐏 Its ability is very good and overall gives a higher chance of escaping, at the cost of HP and carry weight.
@@ -105,7 +105,7 @@ Below is an example set for any transport mount—in this scenario, an **elite b
 
 Update: this build can be seen [here](https://albionfreemarket.com/builds/details/696fe89e107616fe4e9f5711) and below:
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image4.png" alt="image" width="1000" height="1846">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image_0c54bd5c2155.png" alt="image" width="1000" height="1846">
 
 #### Transporting Naked or Undercover
 
@@ -133,7 +133,7 @@ If you begin entering the Mist before the enemy dismounts, they won't be able to
 
 Update: while you're mounted, you won't activate the wisp. This was a change added to reduce the usage of this technique.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image5.gif" alt="Mist" width="300" height="225">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image_5c0b3b15bada.gif" alt="Mist" width="300" height="225">
 
 ### 🧠 Tips
 
