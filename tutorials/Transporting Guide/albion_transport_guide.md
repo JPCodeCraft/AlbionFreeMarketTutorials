@@ -84,7 +84,7 @@ Below is an example set for any fast mount—in this scenario, a **husky**.
 
 Update: a variant of this build is available [here](https://albionfreemarket.com/builds/details/68972ffa2529f400acaaff91), as shown below. It uses Armored Horse for the extra armor.
 
-<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image3.png" alt="image" width="280" height="321">
+<img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/Transporting Guide/image2.png" alt="image" width="280" height="321">
 
 #### 🐻 Transport Mount Build Example
 
