@@ -4,7 +4,7 @@
         "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
         "createdAt": "2024-07-19",
-        "updatedAt": "2025-08-13",
+        "updatedAt": "2026-02-18",
         "category": "tutorial",
         "tags": [
             "Flipper",
@@ -271,21 +271,6 @@
         "id": "albion-free-market-data-client-tutorial"
     },
     {
-        "title": "The Best Tanky Albion Online Mounts",
-        "summary": "A ranked list of the tankiest mounts using a simple score based on HP and resistances.",
-        "author": "Albion Free Market",
-        "createdAt": "2026-01-20",
-        "updatedAt": "2026-01-20",
-        "category": "article",
-        "tags": [
-            "Mounts",
-            "Guides",
-            "Transport"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/mounts/tanky-mounts/the-best-tanky-albion-online-mounts.md",
-        "id": "the-best-tanky-albion-online-mounts"
-    },
-    {
         "title": "The Best Fast Albion Online Mounts",
         "summary": "Learn what are the fastest mounts by Speed and Gallop Speed, plus the fastest transport and tanky mounts in the game.",
         "author": "Albion Free Market",
@@ -299,5 +284,20 @@
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/mounts/fastest-mounts/the-best-fast-albion-online-mounts.md",
         "id": "the-best-fast-albion-online-mounts"
+    },
+    {
+        "title": "The Best Tanky Albion Online Mounts",
+        "summary": "A ranked list of the tankiest mounts using a simple score based on HP and resistances.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-01-20",
+        "updatedAt": "2026-01-20",
+        "category": "article",
+        "tags": [
+            "Mounts",
+            "Guides",
+            "Transport"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/mounts/tanky-mounts/the-best-tanky-albion-online-mounts.md",
+        "id": "the-best-tanky-albion-online-mounts"
     }
 ]
