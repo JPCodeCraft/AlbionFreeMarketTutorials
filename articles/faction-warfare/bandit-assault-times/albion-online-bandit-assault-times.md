@@ -22,9 +22,9 @@ Bandit Assault is a great opportunity to transport goods from the royal cities t
 
 ## How Bandit Assault Triggers
 
-The game files define fixed daily windows when a Bandit Assault roll can happen, and each window has its own trigger chance. The times below come from `times.xml`, `times_asia.xml`, and `times_europe.xml`, while the percentages come from the matching `factionwarfareredzoneevent` XML files.
+There are daily windows when a Bandit Assault roll can happen, and each window has its own trigger chance.
 
-All times below are shown in **UTC**. These tables intentionally use the raw XML times and **ignore** the `offsetseconds="-900"` values.
+All times below are shown in **UTC**.
 
 ## Bandit Assault Times Comparison
 
@@ -93,12 +93,3 @@ This table makes it easier to compare the trigger chance on each server at the s
 | 19:00 UTC | 60% |
 | 21:00 UTC | 60% |
 | 23:00 UTC | 50% |
-
-The Europe server currently includes a 09:00 UTC slot in the XML with a 0% trigger chance, so it is effectively disabled unless Albion changes the configuration.
-
-## Sources
-
-- Official overview: https://albiononline.com/news/feature-focus-bandit-assault
-- Americas data: https://github.com/ao-data/ao-bin-dumps/blob/master/factionwarfareredzoneevent.xml and https://github.com/ao-data/ao-bin-dumps/blob/master/times.xml
-- Asia data: https://github.com/ao-data/ao-bin-dumps/blob/master/factionwarfareredzoneevent_asia.xml and https://github.com/ao-data/ao-bin-dumps/blob/master/times_asia.xml
-- Europe data: https://github.com/ao-data/ao-bin-dumps/blob/master/factionwarfareredzoneevent_europe.xml and https://github.com/ao-data/ao-bin-dumps/blob/master/times_europe.xml
