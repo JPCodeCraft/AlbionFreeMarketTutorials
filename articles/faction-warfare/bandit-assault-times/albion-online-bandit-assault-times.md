@@ -14,9 +14,11 @@ Bandit Assault is one of Albion Online's biggest Faction Warfare events in the r
 
 ## What Bandit Assault Is
 
-According to Albion Online's official Feature Focus, Bandit Assault starts with Caerleon taking control of the Outposts in all five lethal Provinces. From there, every faction races to generate Bandit Assault Supplies by capturing Outposts, clearing Faction Camps, and opening Faction Chests.
+Bandit Assault starts with Caerleon taking control of the Outposts in all five lethal Provinces. From there, every faction races to generate Bandit Assault Supplies by capturing Outposts, clearing Faction Camps, and opening Faction Chests.
 
 In the second phase, the event narrows to two non-adjacent red-zone Provinces. Those zones become the main objective, with fortress chest fights deciding a large part of the final standings and rewards.
+
+Bandit Assault is a great opportunity to transport goods from the royal cities to the Black Market or Caerleon, since most PvP players in the red zones will be instantly targeted by faction-flagged blobs.
 
 ## How Bandit Assault Triggers
 
