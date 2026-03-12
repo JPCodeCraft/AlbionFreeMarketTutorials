@@ -39,7 +39,7 @@ This table makes it easier to compare the trigger chance on each server at the s
 | 03:00 UTC | 60% | - | 20% |
 | 05:00 UTC | 40% | 30% | 20% |
 | 07:00 UTC | 20% | 50% | 20% |
-| 09:00 UTC | - | 60% | 0% |
+| 09:00 UTC | - | 60% | - |
 | 11:00 UTC | 20% | 40% | 40% |
 | 13:00 UTC | 30% | 60% | 50% |
 | 15:00 UTC | 30% | 60% | 50% |
@@ -87,7 +87,6 @@ This table makes it easier to compare the trigger chance on each server at the s
 | 03:00 UTC | 20% |
 | 05:00 UTC | 20% |
 | 07:00 UTC | 20% |
-| 09:00 UTC | 0% |
 | 11:00 UTC | 40% |
 | 13:00 UTC | 50% |
 | 15:00 UTC | 50% |
