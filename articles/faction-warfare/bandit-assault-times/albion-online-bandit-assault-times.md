@@ -26,6 +26,8 @@ There are daily windows when a Bandit Assault roll can happen, and each window h
 
 All times below are shown in **UTC**.
 
+If you do not want to keep checking the schedule manually, the [Albion Free Market Discord](https://discord.com/invite/BPmDE3zznH) has a bot that notifies users in real time when Bandit Assault events actually trigger.
+
 ## Bandit Assault Times Comparison
 
 This table makes it easier to compare the trigger chance on each server at the same UTC hour.
