@@ -14,7 +14,7 @@ Ever wondered why some players seem significantly stronger than others despite w
 
 ## What is Item Power?
 
-At its core, Item Power is a numerical value that represents the overall strength of your equipment. Think of it as a power rating that increases the base attributes of your items and their associated skills. The higher your IP, the more powerful your character becomes â€“ but there's more to it than just a simple number.
+At its core, Item Power is a numerical value that represents the overall strength of your equipment. Think of it as a power rating that increases the base attributes of your items and their associated skills. The higher your IP, the more powerful your character becomes - but there's more to it than just a simple number.
 
 <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/item-power/image_1520f6caef22.png" alt="Detailed Item Power - In game" width="540" height="156">
 
@@ -114,8 +114,8 @@ Want to make the most of the IP system? Here are some tips:
 - Focus on specializing in specific weapon and armor types rather than spreading yourself thin
 - Invest in higher quality gear when possible, as the IP bonus can be substantial
 - Consider enchanted gear for the significant IP boost it provides
-- Remember that higher IP doesn't always mean better performance â€“ understanding how your skills and build work together is crucial
+- Remember that higher IP doesn't always mean better performance - understanding how your skills and build work together is crucial
 
 ## Conclusion
 
-Item Power is more than just a number â€“ it's a fundamental system that affects nearly every aspect of combat and progression in Albion Online. Understanding how IP works and scales lets you make better decisions about your gear and character development, ultimately making you a more effective player.
+Item Power is more than just a number - it's a fundamental system that affects nearly every aspect of combat and progression in Albion Online. Understanding how IP works and scales lets you make better decisions about your gear and character development, ultimately making you a more effective player.
