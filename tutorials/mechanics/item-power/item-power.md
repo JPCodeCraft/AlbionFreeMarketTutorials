@@ -1,9 +1,9 @@
-<!--
+﻿<!--
 title: "Understanding Item Power in Albion Online"
 summary: "Learn everything about Item Power in Albion Online, from basic concepts to scaling mechanics."
 author: "Albion Free Market"
 createdAt: "2024-12-12"
-updatedAt: "2024-12-12"
+updatedAt: "2026-05-31"
 category: "tutorial"
 tags: ["Game Mechanics", "Item Power"]
 -->
@@ -14,7 +14,7 @@ Ever wondered why some players seem significantly stronger than others despite w
 
 ## What is Item Power?
 
-At its core, Item Power is a numerical value that represents the overall strength of your equipment. Think of it as a power rating that increases the base attributes of your items and their associated skills. The higher your IP, the more powerful your character becomes – but there's more to it than just a simple number.
+At its core, Item Power is a numerical value that represents the overall strength of your equipment. Think of it as a power rating that increases the base attributes of your items and their associated skills. The higher your IP, the more powerful your character becomes â€“ but there's more to it than just a simple number.
 
 <img src="https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/item-power/image_1520f6caef22.png" alt="Detailed Item Power - In game" width="540" height="156">
 
@@ -59,7 +59,35 @@ Your gear's Item Power is determined by four key factors:
 
 ## Average Item Power
 
-Item Power (IP) of your equipment is used to calculate the average IP, providing an overview of your overall gear strength. The average IP is determined by summing the IP of all relevant gear pieces and dividing by the number of applicable slots. Note that certain slots, such as the satchel, are excluded from this calculation. While increasing the average IP can enhance your character's performance, focusing on boosting the IP of specific gear pieces can yield more significant benefits in combat.
+Average Item Power gives a quick estimate of the strength of a build's equipped combat gear. Albion Free Market calculates it from six combat slot values:
+
+- Head
+- Armor / chest
+- Shoes / feet
+- Cape
+- Main hand
+- Off hand
+
+Bag, potion, food, and mount are ignored.
+
+Use this formula:
+
+```text
+Average IP = (Head IP + Armor IP + Shoes IP + Cape IP + Main Hand IP + Off Hand IP) / 6
+```
+
+The hand slots have one extra rule:
+
+- If you use a one-handed weapon, the off hand slot is counted normally. If it is empty, it contributes 0 IP.
+- If you use a two-handed weapon, the weapon counts twice: once as the main hand and once as the off hand.
+
+For a two-handed weapon, the formula becomes:
+
+```text
+Average IP = (Head IP + Armor IP + Shoes IP + Cape IP + Weapon IP + Weapon IP) / 6
+```
+
+This keeps one-handed and two-handed builds on the same six-slot scale.
 
 ## Determining Item Power
 
@@ -86,8 +114,8 @@ Want to make the most of the IP system? Here are some tips:
 - Focus on specializing in specific weapon and armor types rather than spreading yourself thin
 - Invest in higher quality gear when possible, as the IP bonus can be substantial
 - Consider enchanted gear for the significant IP boost it provides
-- Remember that higher IP doesn't always mean better performance – understanding how your skills and build work together is crucial
+- Remember that higher IP doesn't always mean better performance â€“ understanding how your skills and build work together is crucial
 
 ## Conclusion
 
-Item Power is more than just a number – it's a fundamental system that affects nearly every aspect of combat and progression in Albion Online. Understanding how IP works and scales lets you make better decisions about your gear and character development, ultimately making you a more effective player.
+Item Power is more than just a number â€“ it's a fundamental system that affects nearly every aspect of combat and progression in Albion Online. Understanding how IP works and scales lets you make better decisions about your gear and character development, ultimately making you a more effective player.
