@@ -1,19 +1,5 @@
 [
     {
-        "title": "The Albion Online Data Project Client Tutorial",
-        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
-        "author": "Albion Free Market",
-        "createdAt": "2024-07-19",
-        "updatedAt": "2024-12-19",
-        "category": "tutorial",
-        "tags": [
-            "AODP",
-            "Data Client"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/aodptutorial.md",
-        "id": "the-albion-online-data-project-client-tutorial"
-    },
-    {
         "title": "Albion Online Black Market Flipper Tutorial",
         "summary": "Learn how to profit in Albion Online by flipping items from the regular markets to the black market.",
         "author": "Albion Free Market",
@@ -27,6 +13,20 @@
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/flipper/flippertutorial.md",
         "id": "albion-online-black-market-flipper-tutorial"
+    },
+    {
+        "title": "The Albion Online Data Project Client Tutorial",
+        "summary": "Learn how to install and use The Albion Online Data Project client to gather Albion Online market prices.",
+        "author": "Albion Free Market",
+        "createdAt": "2024-07-19",
+        "updatedAt": "2024-12-19",
+        "category": "tutorial",
+        "tags": [
+            "AODP",
+            "Data Client"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/aodp/aodptutorial.md",
+        "id": "the-albion-online-data-project-client-tutorial"
     },
     {
         "title": "Albion Online Solo Weapons Analysis - Europe",
@@ -314,5 +314,37 @@
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/articles/faction-warfare/bandit-assault-times/albion-online-bandit-assault-times.md",
         "id": "albion-online-bandit-assault-times-for-every-server"
+    },
+    {
+        "title": "How Albion Online Repair Costs Are Calculated",
+        "summary": "Learn the current Albion Online repair formula, including Item Value, missing durability, the repair modifier, server multiplier, and rounding.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-07-14",
+        "updatedAt": "2026-07-14",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Repair Costs",
+            "Item Value",
+            "Economy"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/repair-costs/how-albion-online-repair-costs-are-calculated.md",
+        "id": "how-albion-online-repair-costs-are-calculated"
+    },
+    {
+        "title": "How Albion Online Teleport Costs Are Calculated",
+        "summary": "Learn the Albion Online Travel Planner formula, including item weight, travel factors, city distance, server multipliers, and rounding.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-07-14",
+        "updatedAt": "2026-07-14",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Teleport Costs",
+            "Travel Planner",
+            "Economy"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/teleport-costs/how-albion-online-teleport-costs-are-calculated.md",
+        "id": "how-albion-online-teleport-costs-are-calculated"
     }
 ]
