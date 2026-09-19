@@ -348,6 +348,86 @@
         "id": "how-albion-online-repair-costs-are-calculated"
     },
     {
+        "title": "How Resource Return Rate Is Calculated in Albion Online",
+        "summary": "Production bonuses, Focus, and resource returns explained with a T4.0 Broadsword crafting example.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-07-17",
+        "updatedAt": "2026-09-19",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Crafting",
+            "Refining",
+            "Resource Return Rate"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/resource-return-rate/resource-return-rate.md",
+        "id": "how-resource-return-rate-is-calculated-in-albion-online"
+    },
+    {
+        "title": "How Crafting Specialization Reduces Focus Costs in Albion Online",
+        "summary": "Focus Cost Efficiency, shared specialization bonuses, and the Focus needed to craft a T4.0 Broadsword.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-07-21",
+        "updatedAt": "2026-09-19",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Crafting",
+            "Focus",
+            "Specialization"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/crafting-focus-costs/crafting-focus-costs.md",
+        "id": "how-crafting-specialization-reduces-focus-costs-in-albion-online"
+    },
+    {
+        "title": "How Crafting Quality Chances Work in Albion Online",
+        "summary": "Base quality chances, additional quality rolls, and expected Broadsword quality with specialization and Focus.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-08-14",
+        "updatedAt": "2026-09-19",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Crafting",
+            "Item Quality",
+            "Focus"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/crafting-quality-chances/crafting-quality-chances.md",
+        "id": "how-crafting-quality-chances-work-in-albion-online"
+    },
+    {
+        "title": "How Crafting Station Fees Are Calculated in Albion Online",
+        "summary": "Silver per 100 nutrition, Item Value, and the usage fee for one Broadsword or a batch of 100.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-09-10",
+        "updatedAt": "2026-09-19",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Crafting",
+            "Station Fees",
+            "Item Value"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/crafting-station-fees/crafting-station-fees.md",
+        "id": "how-crafting-station-fees-are-calculated-in-albion-online"
+    },
+    {
+        "title": "Artifact Melding Costs and Chances in Albion Online",
+        "summary": "Artifact Foundry material costs, category probabilities, and a T4 Warrior rune-melding example with market prices.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-09-17",
+        "updatedAt": "2026-09-19",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Crafting",
+            "Artifact Melding",
+            "Economy"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/artifact-melding/artifact-melding.md",
+        "id": "artifact-melding-costs-and-chances-in-albion-online"
+    },
+    {
         "title": "Quality Reroll Costs and Chances in Albion Online",
         "summary": "Quality reroll costs and probabilities, with a T4.0 Broadsword example from Normal to Excellent.",
         "author": "Albion Free Market",
