@@ -316,22 +316,6 @@
         "id": "albion-online-bandit-assault-times-for-every-server"
     },
     {
-        "title": "How Albion Online Repair Costs Are Calculated",
-        "summary": "Learn the current Albion Online repair formula, including Item Value, missing durability, the repair modifier, server multiplier, and rounding.",
-        "author": "Albion Free Market",
-        "createdAt": "2026-07-14",
-        "updatedAt": "2026-07-14",
-        "category": "tutorial",
-        "tags": [
-            "Game Mechanics",
-            "Repair Costs",
-            "Item Value",
-            "Economy"
-        ],
-        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/repair-costs/how-albion-online-repair-costs-are-calculated.md",
-        "id": "how-albion-online-repair-costs-are-calculated"
-    },
-    {
         "title": "How Albion Online Teleport Costs Are Calculated",
         "summary": "Learn the Albion Online Travel Planner formula, including item weight, travel factors, city distance, server multipliers, and rounding.",
         "author": "Albion Free Market",
@@ -346,6 +330,22 @@
         ],
         "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/teleport-costs/how-albion-online-teleport-costs-are-calculated.md",
         "id": "how-albion-online-teleport-costs-are-calculated"
+    },
+    {
+        "title": "How Albion Online Repair Costs Are Calculated",
+        "summary": "Learn the current Albion Online repair formula, including Item Value, missing durability, the repair modifier, server multiplier, and rounding.",
+        "author": "Albion Free Market",
+        "createdAt": "2026-07-14",
+        "updatedAt": "2026-07-14",
+        "category": "tutorial",
+        "tags": [
+            "Game Mechanics",
+            "Repair Costs",
+            "Item Value",
+            "Economy"
+        ],
+        "url": "https://cdn.albionfreemarket.com/AlbionFreeMarketTutorials/tutorials/mechanics/repair-costs/how-albion-online-repair-costs-are-calculated.md",
+        "id": "how-albion-online-repair-costs-are-calculated"
     },
     {
         "title": "Quality Reroll Costs and Chances in Albion Online",
